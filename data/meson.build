@@ -1,4 +1,5 @@
 xmllint = find_program('xmllint', required: false)
+
 if xmllint.found()
   test('Valid Locations file',
     xmllint,
@@ -11,6 +12,16 @@ if xmllint.found()
     suite: ['lint'],
   )
 endif
+
+nomalloc = environment({'MALLOC_PERTURB_': '0'})
+
+pylint = find_program('pylint-3', 'pylint3', 'pylint', required: false)
+pylint_flags = [
+  '-d', 'C0111',
+  '-d', 'W0511',
+  '-d', 'F0401',
+  '-d', 'C0326',
+]
 
 if pylint.found()
   test('pylint-gen-locations-variant',
@@ -30,13 +41,14 @@ locations_bin = custom_target('locations-db',
   input: files('Locations.xml'),
   output: '@BASENAME@.bin',
   install: true,
-  install_dir: pkglibdir,
+  install_dir: get_option('libdir') / 'gweather-locations',
 )
 
-install_data('Locations.xml',
-  install_dir: pkgdatadir,
-)
+locations_its = meson.current_source_dir() / 'locations.its'
 
-install_data('locations.dtd',
-  install_dir: pkgdatadir,
+install_data([
+    'Locations.xml',
+    'locations.dtd',
+  ],
+  install_dir: get_option('datadir') / 'gweather-locations',
 )
