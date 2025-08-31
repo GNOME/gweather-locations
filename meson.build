@@ -21,11 +21,13 @@ pkgconfig.generate(
   description: 'Locations database for libgweather',
   install_dir: get_option('datadir') / 'pkgconfig',
   variables: {
-    'locations-xml': '${datadir}/gweather-locations/Locations.xml',
-    'locations-db': '${libdir}/gweather-locations/Locations.bin',
+    'locations_dtd': '${datadir}/gweather-locations/locations.dtd',
+    'locations_xml': '${datadir}/gweather-locations/Locations.xml',
+    'locations_db': '${libdir}/gweather-locations/Locations.bin',
   },
   uninstalled_variables: {
-    'locations-xml': meson.project_source_root() / 'data' / 'Locations.xml',
-    'locations-db': meson.project_build_root() / 'data' / 'Locations.bin',
+    'locations_dtd': meson.project_source_root() / 'data' / 'locations.dtd',
+    'locations_xml': meson.project_source_root() / 'data' / 'Locations.xml',
+    'locations_db': meson.project_build_root() / 'data' / 'Locations.bin',
   },
 )
