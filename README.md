@@ -10,3 +10,9 @@ The locations are structured in an XML file, which follows a provided
 Location names are translatable.
 
 [libgweather]: https://gitlab.gnome.org/GNOME/libgweather
+
+Licensing
+---------
+
+The database is released under the terms of the GNU General Public License
+version 2.0 or, at your option, any later version.
