@@ -1,12 +1,16 @@
 xmllint = find_program('xmllint', required: false)
 
 if xmllint.found()
+  xmllint_flags = [
+    '--path', '@0@'.format(meson.current_source_dir()),
+    '--noout',
+    '--valid',
+  ]
+
   test('Valid Locations file',
     xmllint,
     args: [
-      '--path', '@0@'.format(meson.current_source_dir()),
-      '--noout',
-      '--valid',
+      xmllint_flags,
       'Locations.xml',
     ],
     suite: ['lint'],
@@ -16,14 +20,15 @@ endif
 nomalloc = environment({'MALLOC_PERTURB_': '0'})
 
 pylint = find_program('pylint-3', 'pylint3', 'pylint', required: false)
-pylint_flags = [
-  '-d', 'C0111',
-  '-d', 'W0511',
-  '-d', 'F0401',
-  '-d', 'C0326',
-]
 
 if pylint.found()
+  pylint_flags = [
+    '-d', 'C0111',
+    '-d', 'W0511',
+    '-d', 'F0401',
+    '-d', 'C0326',
+  ]
+
   test('pylint-gen-locations-variant',
     pylint,
     args: [
