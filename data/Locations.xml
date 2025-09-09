@@ -10074,6 +10074,11 @@
           <code>SBMG</code>
           <coordinates>-23.416667 -51.950000</coordinates>
         </location>
+        <location>
+          <name>Cascavel Airport</name>
+          <code>SBCA</code>
+          <coordinates>-25.0003 -53.5006</coordinates>
+        </location>
         <city>
           <!-- A city in Paraná in Brazil -->
           <_name>Curitiba</_name>
@@ -10096,6 +10101,12 @@
           <!-- A city in Paraná in Brazil -->
           <_name>Maringá</_name>
           <coordinates>-23.416667 -51.916667</coordinates>
+        </city>
+        <city>
+          <!-- A city in Paraná in Brazil -->
+          <_name>Cascavel</_name>
+          <coordinates>-24.95583 -53.45528</coordinates>
+          <tz-hint>America/Sao_Paulo</tz-hint>
         </city>
       </state>
       <state>
