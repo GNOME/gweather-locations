@@ -49,6 +49,13 @@ locations_bin = custom_target('locations-db',
   install_dir: get_option('libdir') / 'gweather-locations',
 )
 
+locations_dep = declare_dependency(variables: {
+  'locations_db': get_option('prefix') / get_option('libdir') / 'gweather-locations/Locations.bin',
+  'test_locations_db': meson.current_build_dir() / 'Locations.bin',
+})
+
+meson.override_dependency('gweather-locations', locations_dep)
+
 locations_its = meson.current_source_dir() / 'locations.its'
 
 install_data([
