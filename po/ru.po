@@ -16,9 +16,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libgweather-locations trunk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-27 08:40+0000\n"
-"PO-Revision-Date: 2024-06-03 17:03+1000\n"
-"Last-Translator: Ser82-png <asvmail.as@gmail.com>\n"
+"POT-Creation-Date: 2025-11-19 16:22+0000\n"
+"PO-Revision-Date: 2025-12-06 16:26+0300\n"
+"Last-Translator: Artur So <arturios2005@mail.ru>\n"
 "Language-Team: Русский <gnome-cyr@gnome.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.8\n"
 
 # https://ru.wikipedia.org/wiki/UTC%E2%88%9212:00
 #. TRANSLATORS: This is the designation for the last (most west) timezone on Earth
@@ -4031,6 +4031,10 @@ msgstr "Кампус-ду-Жордау"
 #. A city in Rio Grande do Sul in Brazil
 msgid "Canoas"
 msgstr "Каноас"
+
+#. A city in Paraná in Brazil
+msgid "Cascavel"
+msgstr "Каскавел"
 
 #. A city in Rio Grande do Sul in Brazil
 msgid "Caxias do Sul"
