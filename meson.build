@@ -1,5 +1,5 @@
 project('gweather-locations',
-  version: '2025.1',
+  version: '2026.2',
   default_options: [
     'warning_level=2',
   ],
