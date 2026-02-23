@@ -21,8 +21,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libgweather-locations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-07 16:26+0000\n"
-"PO-Revision-Date: 2023-09-03 14:54+0200\n"
+"POT-Creation-Date: 2026-02-22 18:00+0000\n"
+"PO-Revision-Date: 2026-02-23 16:04+0100\n"
 "Last-Translator: Daniel Rusek <mail@asciiwolf.com>\n"
 "Language-Team: čeština <gnome-cs-list@gnome.org>\n"
 "Language: cs\n"
@@ -30,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.8\n"
 
 #. TRANSLATORS: This is the designation for the last (most west) timezone on Earth
 #. https://en.wikipedia.org/wiki/Anywhere_on_Earth
@@ -4033,6 +4033,11 @@ msgstr "Campos do Jordão"
 #. A city in Rio Grande do Sul in Brazil
 msgid "Canoas"
 msgstr "Canoas"
+
+#. A city in Paraná in Brazil
+#| msgid "Cascade"
+msgid "Cascavel"
+msgstr "Cascavel"
 
 #. A city in Rio Grande do Sul in Brazil
 msgid "Caxias do Sul"
@@ -14289,7 +14294,6 @@ msgid "Norwich"
 msgstr "Norwich"
 
 #. A city in the East Midlands in the United Kingdom
-#| msgid "Effingham"
 msgctxt "City in the East Midlands, United Kingdom"
 msgid "Nottingham"
 msgstr "Nottingham"
