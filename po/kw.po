@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gweather-locations main\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-23 15:06+0000\n"
-"PO-Revision-Date: 2026-02-25 23:01+0000\n"
+"POT-Creation-Date: 2026-02-25 23:02+0000\n"
+"PO-Revision-Date: 2026-02-26 14:54+0000\n"
 "Last-Translator: Flynn Peck <cirilla@tuta.io>\n"
 "Language-Team: kw\n"
 "Language: kw\n"
@@ -21,17 +21,17 @@ msgstr ""
 "X-DL-Module: gweather-locations\n"
 "X-DL-Branch: main\n"
 "X-DL-Domain: locations\n"
-"X-DL-State: None\n"
+"X-DL-State: Translating\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Gtranslator 49.0\n"
 
 #. TRANSLATORS: This is the designation for the last (most west) timezone on Earth
 #. https://en.wikipedia.org/wiki/Anywhere_on_Earth
 msgid "Anywhere on Earth (AoE)"
-msgstr ""
+msgstr "Neb le war'n Nor (AoE)"
 
 msgid "Coordinated Universal Time (UTC)"
-msgstr ""
+msgstr "Termyn Ollvysel Kesordenys (UTC)"
 
 msgid "Africa"
 msgstr "Afrika"
@@ -1249,14 +1249,14 @@ msgstr "Hwithransva Dumont d'Urville"
 #. places where "Antarctica" is already clear from context.
 #.
 msgid "McMurdo Station (New Zealand Time)"
-msgstr ""
+msgstr "Hwithransva McMurdo (Termyn Mordir Nowydh)"
 
 #. An American research station in Antarctica, which keeps
 #. the same time as New Zealand. The string is only used in
 #. places where "Antarctica" is already clear from context.
 #.
 msgid "Amundsen-Scott South Pole Station (New Zealand Time)"
-msgstr ""
+msgstr "Hwithransva Penn-Aghel an Soth Amundsen-Scott (Termyn Mordir Nowydh)"
 
 #. The time zone used in the eastern half of Kazakhstan.
 #. FIXME: is there an official name for this zone?
@@ -13990,7 +13990,7 @@ msgstr ""
 #. A city in Midlands in the United Kingdom
 msgctxt "City in Midlands, United Kingdom"
 msgid "Birmingham"
-msgstr ""
+msgstr "Birmingham"
 
 #. A city in North West England in the United Kingdom
 msgid "Blackpool"
@@ -14018,13 +14018,13 @@ msgstr ""
 #. Kingdom
 #.
 msgid "Brighton"
-msgstr ""
+msgstr "Brighton"
 
 #. A city in South and South West England in the United
 #. Kingdom
 #.
 msgid "Bristol"
-msgstr ""
+msgstr "Brystow"
 
 #. A city in East and South East England in the United
 #. Kingdom
@@ -14054,11 +14054,11 @@ msgstr ""
 #.
 msgctxt "City in Wales, United Kingdom"
 msgid "Cardiff"
-msgstr ""
+msgstr "Kardydh"
 
 #. A city in North West England in the United Kingdom
 msgid "Carlisle"
-msgstr ""
+msgstr "Karliwelydh"
 
 #. A city in Midlands in the United Kingdom
 msgid "Castle Donington"
@@ -14098,7 +14098,7 @@ msgstr ""
 
 #. A city in Scotland in the United Kingdom
 msgid "Edinburgh"
-msgstr ""
+msgstr "Karedin"
 
 #. A city in Northern Ireland in the United Kingdom
 msgid "Eglinton"
@@ -14129,7 +14129,7 @@ msgstr ""
 #. A city in Scotland in the United Kingdom
 msgctxt "City in Scotland, United Kingdom"
 msgid "Glasgow"
-msgstr ""
+msgstr "Glasgow"
 
 #. A city in Scotland in the United Kingdom
 msgid "Gramisdale"
@@ -14149,7 +14149,7 @@ msgstr "Hellys"
 #. Kingdom
 #.
 msgid "Hugh Town"
-msgstr ""
+msgstr "Tre Huw"
 
 #. A city in Scotland in the United Kingdom
 msgid "Inverness"
@@ -14206,7 +14206,7 @@ msgstr ""
 #. A city in North West England in the United Kingdom
 msgctxt "City in North West England, United Kingdom"
 msgid "Liverpool"
-msgstr ""
+msgstr "Lyverpoul"
 
 #. The capital of the United Kingdom
 msgctxt "City in East and South East England, United Kingdom"
@@ -14238,7 +14238,7 @@ msgstr ""
 #. A city in North West England in the United Kingdom
 msgctxt "City in North West England, United Kingdom"
 msgid "Manchester"
-msgstr ""
+msgstr "Mankeynyon"
 
 #. A city in East and South East England in the United
 #. Kingdom
@@ -14283,7 +14283,7 @@ msgstr ""
 #. Kingdom
 #.
 msgid "Norwich"
-msgstr ""
+msgstr "Norwich"
 
 #. A city in the East Midlands in the United Kingdom
 msgctxt "City in the East Midlands, United Kingdom"
@@ -14298,11 +14298,11 @@ msgstr ""
 
 msgctxt "City in East and South East England, United Kingdom"
 msgid "Oxford"
-msgstr ""
+msgstr "Resoghen"
 
 #. A city in Wales in the United Kingdom
 msgid "Pembrey"
-msgstr ""
+msgstr "Penn-bre"
 
 #. A city in South and South West England in the United
 #. Kingdom
@@ -14373,7 +14373,7 @@ msgstr ""
 
 #. A city in Wales in the United Kingdom
 msgid "Valley"
-msgstr ""
+msgstr "Y Fali"
 
 #. A city in North East England in the United Kingdom
 msgid "Waddington"
