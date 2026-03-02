@@ -12,9 +12,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lt\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-07 16:26+0000\n"
-"PO-Revision-Date: 2023-09-04 23:11+0300\n"
-"Last-Translator: Aurimas Černius <aurisc4@gmail.com>\n"
+"POT-Creation-Date: 2026-03-02 17:42+0000\n"
+"PO-Revision-Date: 2026-03-02 22:50+0200\n"
+"Last-Translator: Aurimas Černius <aurimas.cernius@mailo.com>\n"
 "Language-Team: Lietuvių <gnome-lt@lists.akl.lt>\n"
 "Language: lt\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "(n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.8\n"
 
 #. TRANSLATORS: This is the designation for the last (most west) timezone on Earth
 #. https://en.wikipedia.org/wiki/Anywhere_on_Earth
@@ -4025,6 +4025,10 @@ msgstr "Kampos do Jordao"
 #. A city in Rio Grande do Sul in Brazil
 msgid "Canoas"
 msgstr "Kanoasas"
+
+#. A city in Paraná in Brazil
+msgid "Cascavel"
+msgstr "Kaskavelis"
 
 #. A city in Rio Grande do Sul in Brazil
 msgid "Caxias do Sul"
