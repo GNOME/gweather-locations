@@ -1,30 +1,30 @@
-# Brazilian Portuguese translation of libgweather.
-# Copyright (C) 2022 libweather's COPYRIGHT HOLDER
-# This file is distributed under the same license as the gnome-applets package
+# Brazilian Portuguese translation of gweather-locations.
+# Copyright (C) 2026 gweather-locations's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gweather-locations package
 # Gustavo Maciel Dias Vieira <gustavo@sagui.org>, 2004.
 # Raphael Higino <In memoriam>, 2005.
 # Leonardo Ferreira Fontenelle <leonardof@gnome.org>, 2007, 2008.
 # André Gondim <In memoriam>, 2009.
 # Antonio Fernandes C. Neto <fernandes@pelivre.org>, 2010.
 # Matheus Barbosa <mdpb.matheus@gmail.com>, 2022.
-# Rafael Fontenelle <rafaelff@gnome.org>, 2013-2022.
 # Leônidas Araújo <leorusvellt@hotmail.com>, 2022.
 # Enrico Nicoletto <liverig@gmail.com>, 2008, 2013-2014, 2017-2018, 2021-2022.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2013-2026.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: libgweather (locations)\n"
+"Project-Id-Version: gweather-locations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-02 13:13+0000\n"
-"PO-Revision-Date: 2024-03-08 11:09-0300\n"
-"Last-Translator: Leônidas Araújo <leorusvellt@hotmail.com>\n"
-"Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
+"POT-Creation-Date: 2026-03-03 12:01+0000\n"
+"PO-Revision-Date: 2026-03-03 13:07-0300\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Brazilian Portuguese <https://br.gnome.org/traducao>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.3.1\n"
+"X-Generator: Gtranslator 49.0\n"
 "X-DamnedLies-Scope: partial\n"
 "X-DL-Team: pt_BR\n"
 "X-DL-Module: libgweather\n"
@@ -4049,6 +4049,10 @@ msgstr "Campos do Jordão"
 #. A city in Rio Grande do Sul in Brazil
 msgid "Canoas"
 msgstr "Canoas"
+
+#. A city in Paraná in Brazil
+msgid "Cascavel"
+msgstr "Cascavel"
 
 #. A city in Rio Grande do Sul in Brazil
 msgid "Caxias do Sul"
