@@ -17,8 +17,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libgweather fr\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-16 23:50+0000\n"
-"PO-Revision-Date: 2023-09-19 17:43+0200\n"
+"POT-Creation-Date: 2026-03-03 04:06+0000\n"
+"PO-Revision-Date: 2026-03-03 08:25+0100\n"
 "Last-Translator: Guillaume Bernard <associations@guillaume-bernard.fr>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "Language: fr\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.8\n"
 
 #. TRANSLATORS: This is the designation for the last (most west) timezone on Earth
 #. https://en.wikipedia.org/wiki/Anywhere_on_Earth
@@ -4030,6 +4030,10 @@ msgstr "Campos do Jordão"
 #. A city in Rio Grande do Sul in Brazil
 msgid "Canoas"
 msgstr "Canoas"
+
+#. A city in Paraná in Brazil
+msgid "Cascavel"
+msgstr "Cascavel"
 
 #. A city in Rio Grande do Sul in Brazil
 msgid "Caxias do Sul"
