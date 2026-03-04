@@ -5,14 +5,14 @@
 # Dan Damian <dand@ubuntu.ro>, 2005-2007.
 # Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2010.
 # Daniel Șerbănescu <daniel [at] serbanescu [dot] dk>, 2016, 2017.
-# Antonio Marin <gnmer.6qxyg@slmail.me>, 2025.
+# Antonio Marin <gnmer.6qxyg@slmail.me>, 2025-2026.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-applets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-04 16:19+0000\n"
-"PO-Revision-Date: 2025-09-05 11:00+0200\n"
+"POT-Creation-Date: 2026-03-03 23:19+0000\n"
+"PO-Revision-Date: 2026-03-04 10:41+0100\n"
 "Last-Translator: Antonio Marin <gnmer.6qxyg@slmail.me>\n"
 "Language-Team: Romanian <gnomero-list@lists.sourceforge.net>\n"
 "Language: ro\n"
@@ -4026,6 +4026,10 @@ msgstr "Campos do Jordão"
 msgid "Canoas"
 msgstr "Canoas"
 
+#. A city in Paraná in Brazil
+msgid "Cascavel"
+msgstr "Cascavel"
+
 #. A city in Rio Grande do Sul in Brazil
 msgid "Caxias do Sul"
 msgstr "Caxias do Sul"
@@ -4775,19 +4779,19 @@ msgstr "Cape Cove"
 
 #. A city in Nunavut in Canada
 msgid "Cape Dorset"
-msgstr "Capul Dorset"
+msgstr "Cape Dorset"
 
 #. A city in Nunavut in Canada
 msgid "Cape Dyer"
-msgstr "Capul Dyer"
+msgstr "Cape Dyer"
 
 #. A city in Northwest Territories in Canada
 msgid "Cape Parry"
-msgstr "Capul Parry"
+msgstr "Cape Parry"
 
 #. A city in Newfoundland and Labrador in Canada
 msgid "Cape Race"
-msgstr "Capul Race"
+msgstr "Cape Race"
 
 #. A city in Alberta in Canada
 msgid "Cardston"
@@ -9320,7 +9324,7 @@ msgstr "Ferrara"
 #.
 msgctxt "City in Italy"
 msgid "Florence"
-msgstr "Florența"
+msgstr "Firenze"
 
 #. A city in Italy
 msgid "Foggia"
