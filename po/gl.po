@@ -14,16 +14,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libgweather-master-locations-gl-30855.merged\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-07 16:26+0000\n"
-"PO-Revision-Date: 2023-08-09 09:12+0200\n"
-"Last-Translator: Fran Dieguez <frandieguez@gnome.org>\n"
+"POT-Creation-Date: 2026-03-05 21:52+0000\n"
+"PO-Revision-Date: 2026-03-06 09:16+0100\n"
+"Last-Translator: Fran Dieguez <fran.dieguez@gnome.org>\n"
 "Language-Team: Galician <proxecto@trasno.gal>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.8\n"
 "X-DL-Team: gl\n"
 "X-DL-Module: libgweather\n"
 "X-DL-Branch: main\n"
@@ -2749,7 +2749,6 @@ msgid "Zacatecas"
 msgstr "Zacatecas"
 
 #. Ukraine Autonomous Republic of Crimea
-#| msgid "Congo, Republic of the"
 msgid "Autonomous Republic of Crimea"
 msgstr "República autónoma de Crimea"
 
@@ -2758,32 +2757,26 @@ msgid "Cherkasy Oblast"
 msgstr "Óblast de Cherkasy"
 
 #. Ukraine Chernihiv Oblast (region/province)
-#| msgid "Chernivtsi"
 msgid "Chernihiv Oblast"
 msgstr "Óblast de Chernihiv"
 
 #. Ukraine Chernivtsi Oblast (region/province)
-#| msgid "Chernivtsi"
 msgid "Chernivtsi Oblast"
 msgstr "Óblast de Chernivtsi"
 
 #. Ukraine Dnipropetrovsk Oblast (region/province)
-#| msgid "Dnipropetrovs'k"
 msgid "Dnipropetrovsk Oblast"
 msgstr "Óblast de Dnipropetrovsk"
 
 #. Ukraine Donets'k Oblast (region/province)
-#| msgid "Donets'k"
 msgid "Donets'k Oblast"
 msgstr "Óblast de Donets"
 
 #. Ukraine Ivano-Frankivs'k Oblast (region/province)
-#| msgid "Ivano-Frankivs'k"
 msgid "Ivano-Frankivsk Oblast"
 msgstr "Óblast de Ivano-Frankivsk"
 
 #. Ukraine Kharkiv Oblast (region/province)
-#| msgid "Kharkiv"
 msgid "Kharkiv Oblast"
 msgstr "Óblast de Óblast de Kharkiv"
 
@@ -2800,7 +2793,6 @@ msgid "Kirovohrad Oblast"
 msgstr "Óblast de Kirovohrad"
 
 #. Kyiv City
-#| msgid "Bay City"
 msgid "Kyiv City"
 msgstr "Cidade de Kyiv"
 
@@ -2817,7 +2809,6 @@ msgid "Lviv Oblast"
 msgstr "Óblast de Lviv"
 
 #. Ukraine Mykolaiv Oblast (region/province)
-#| msgid "Mykolayiv"
 msgid "Mykolaiv Oblast"
 msgstr "Óblast de Mykolaiv"
 
@@ -3317,8 +3308,6 @@ msgid "Formosa"
 msgstr "Formosa"
 
 #. A city in Argentina
-#| msgctxt "City in Bolivia"
-#| msgid "La Paz"
 msgid "La Plata"
 msgstr "La Plata"
 
@@ -4043,6 +4032,10 @@ msgstr "Campos do Jordão"
 msgid "Canoas"
 msgstr "Canoas"
 
+#. A city in Paraná in Brazil
+msgid "Cascavel"
+msgstr "Cascavel"
+
 #. A city in Rio Grande do Sul in Brazil
 msgid "Caxias do Sul"
 msgstr "Caxias do Sul"
@@ -4351,7 +4344,6 @@ msgid "Rio Claro"
 msgstr "Rio Claro"
 
 #. A city in Rio Grande do Sul in Brazil
-#| msgid "Río Grande"
 msgid "Rio Grande"
 msgstr "Rio Grande"
 
@@ -4398,8 +4390,6 @@ msgid "Suzano"
 msgstr "Suzano"
 
 #. A city in Santa Catarina in Brazil
-#| msgctxt "City in São Paulo, Brazil"
-#| msgid "São Caetano do Sul"
 msgid "São Bento do Sul"
 msgstr "São Bento do Sul"
 
@@ -4575,7 +4565,6 @@ msgid "Phnom Penh"
 msgstr "Phnom Penh"
 
 #. A city in Cambodia
-#| msgid "Siemreab"
 msgid "Siem Reap"
 msgstr "Siem Reap"
 
@@ -7514,7 +7503,6 @@ msgid "Bonn"
 msgstr "Bonn"
 
 #. A city in Saxony-Anhalt in Germany
-#| msgid "Braunschweig"
 msgid "Braunsbedra"
 msgstr "Braunsbedra"
 
@@ -7681,7 +7669,6 @@ msgid "Liebenscheid"
 msgstr "Liebenscheid"
 
 #. A city in Rhineland-Palatinate in Germany
-#| msgid "Maine"
 msgid "Mainz"
 msgstr "Mainz"
 
@@ -7694,7 +7681,6 @@ msgid "Memmingen"
 msgstr "Memmingen"
 
 #. A city in Saxony-Anhalt in Germany
-#| msgid "Dyersburg"
 msgid "Merseburg"
 msgstr "Merseburgo"
 
@@ -7714,7 +7700,6 @@ msgid "Mönchengladbach"
 msgstr "Mönchengladbach"
 
 #. A city in Saxony-Anhalt in Germany
-#| msgid "Büchel"
 msgid "Mücheln"
 msgstr "Mücheln"
 
@@ -9782,7 +9767,6 @@ msgid "Ashiya"
 msgstr "Ashiya"
 
 #. A city in Japan, capital of Chiba Prefecture
-#| msgid "Chibougamau"
 msgid "Chiba"
 msgstr "Chiba"
 
@@ -9803,7 +9787,6 @@ msgid "Fukue"
 msgstr "Fukue"
 
 #. A city in Japan, capital of Fukui Prefecture
-#| msgid "Fukue"
 msgid "Fukui"
 msgstr "Fukui"
 
@@ -9812,7 +9795,6 @@ msgid "Fukuoka"
 msgstr "Fukuoka"
 
 #. A city in Japan, capital of Fukushima Prefecture
-#| msgid "Matsushima"
 msgid "Fukushima"
 msgstr "Fukushima"
 
@@ -9877,7 +9859,6 @@ msgid "Kanayama"
 msgstr "Kanayama"
 
 #. A city in Japan, capital of Ishikawa Prefecture
-#| msgid "Kanayama"
 msgid "Kanazawa"
 msgstr "Kanazawa"
 
@@ -9922,7 +9903,6 @@ msgid "Kyoto"
 msgstr "Kyoto"
 
 #. A city in Japan, capital of Gunma Prefecture
-#| msgid "Kashi"
 msgid "Maebashi"
 msgstr "Maebashi"
 
@@ -9931,7 +9911,6 @@ msgid "Matsubara"
 msgstr "Matsubara"
 
 #. A city in Japan, capital of Shimane Prefecture
-#| msgid "Matsubara"
 msgid "Matsue"
 msgstr "Matsue"
 
@@ -9976,13 +9955,10 @@ msgid "Mombetsu"
 msgstr "Mombetsu"
 
 #. A city in Japan, capital of Iwate Prefecture
-#| msgid "Mori"
 msgid "Morioka"
 msgstr "Morioka"
 
 #. A city in Japan, capital of Nagano Prefecture
-#| msgctxt "State in India"
-#| msgid "Nagaland"
 msgid "Nagano"
 msgstr "Nagano"
 
@@ -10075,7 +10051,6 @@ msgid "Sanrizuka"
 msgstr "Sanrizuka"
 
 #. A city in Japan, capital of Hokkaido Prefecture
-#| msgid "Scappoose"
 msgid "Sapporo"
 msgstr "Sapporo"
 
@@ -10108,7 +10083,6 @@ msgid "Tateyama"
 msgstr "Tateyama"
 
 #. A city in Japan, capital of Tokushima Prefecture
-#| msgid "Komatsushima"
 msgid "Tokushima"
 msgstr "Tokushima"
 
@@ -10129,7 +10103,6 @@ msgid "Toyooka"
 msgstr "Toyooka"
 
 #. A city in Japan, capital of Mie Prefecture
-#| msgid "Tsuiki"
 msgid "Tsu"
 msgstr "Tsu"
 
@@ -10146,7 +10119,6 @@ msgid "Utsunomiya"
 msgstr "Utsunomiya"
 
 #. A city in Japan, capital of Wakayama Prefecture
-#| msgid "Okayama"
 msgid "Wakayama"
 msgstr "Wakayama"
 
@@ -10167,7 +10139,6 @@ msgid "Yao"
 msgstr "Yao"
 
 #. A city in Japan, capital of Kanagawa Prefecture
-#| msgid "Yokota"
 msgid "Yokohama"
 msgstr "Yokohama"
 
@@ -10293,7 +10264,6 @@ msgid "Bishkek"
 msgstr "Bishkek"
 
 #. A city in Osh state, Kyrgyzstan
-#| msgid "Oss"
 msgid "Osh"
 msgstr "Osh"
 
@@ -10804,7 +10774,6 @@ msgid "Palikir"
 msgstr "Palikir"
 
 #. The capital of Moldova
-#| msgid "Chişinău"
 msgid "Chișinău"
 msgstr "Chișinău"
 
@@ -11841,12 +11810,10 @@ msgid "Baia Mare"
 msgstr "Baia Mare"
 
 #. A county capital in Romania
-#| msgid "Bistrita"
 msgid "Bistrița"
 msgstr "Bistrița"
 
 #. A county capital in Romania
-#| msgid "Botoşani"
 msgid "Botoșani"
 msgstr "Botoșani"
 
@@ -11874,7 +11841,6 @@ msgid "Cluj-Napoca"
 msgstr "Cluj-Napoca"
 
 #. A county capital in Romania
-#| msgid "Constantine"
 msgid "Constanța"
 msgstr "Constanța"
 
@@ -11883,7 +11849,6 @@ msgid "Craiova"
 msgstr "Craiova"
 
 #. A county capital in Romania
-#| msgid "Călăraşi"
 msgid "Călărași"
 msgstr "Călărași"
 
@@ -11900,7 +11865,6 @@ msgid "Focșani"
 msgstr "Focșani"
 
 #. A county capital in Romania
-#| msgid "Galaţi"
 msgid "Galați"
 msgstr "Galați"
 
@@ -11913,7 +11877,6 @@ msgid "Iași"
 msgstr "Iași"
 
 #. A county capital in Romania
-#| msgid "Miercurea-Ciuc"
 msgid "Miercurea Ciuc"
 msgstr "Miercurea Ciuc"
 
@@ -11922,17 +11885,14 @@ msgid "Oradea"
 msgstr "Oradea"
 
 #. A county capital in Romania
-#| msgid "Piatra Neamţ"
 msgid "Piatra Neamț"
 msgstr "Piatra Neamț"
 
 #. A county capital in Romania
-#| msgid "Piteşti"
 msgid "Pitești"
 msgstr "Pitești"
 
 #. A county capital in Romania
-#| msgid "Ploieşti"
 msgid "Ploiești"
 msgstr "Ploiești"
 
@@ -11969,7 +11929,6 @@ msgid "Suceava"
 msgstr "Suceava"
 
 #. A county capital in Romania
-#| msgid "Timişoara"
 msgid "Timișoara"
 msgstr "Timișoara"
 
@@ -11978,7 +11937,6 @@ msgid "Tulcea"
 msgstr "Tulcea"
 
 #. A county capital in Romania
-#| msgid "Târgovişte"
 msgid "Târgoviște"
 msgstr "Târgoviște"
 
@@ -11987,7 +11945,6 @@ msgid "Târgu Jiu"
 msgstr "Târgu Jiu"
 
 #. A county capital in Romania
-#| msgid "Târgu-Mureş"
 msgid "Târgu Mureș"
 msgstr "Târgu Mureș"
 
@@ -12244,7 +12201,6 @@ msgstr "Rostov"
 #. A city in Russia.
 #. The local name in Russian is "Рязань".
 #.
-#| msgid "Kazan'"
 msgid "Ryazan'"
 msgstr "Ryazan'"
 
@@ -13757,7 +13713,6 @@ msgid "Kampala"
 msgstr "Kampala"
 
 #. A city in Ukraine: https://en.wikipedia.org/wiki/Berdiansk
-#| msgid "Bryansk"
 msgid "Berdiansk"
 msgstr "Berdiansk"
 
@@ -13768,12 +13723,10 @@ msgid "Boryspil'"
 msgstr "Boryspil'"
 
 #. Cherkasy Oblast administrative center: https://en.wikipedia.org/wiki/Cherkasy
-#| msgid "Cherokee"
 msgid "Cherkasy"
 msgstr "Cherkasy"
 
 #. Chernihiv Oblast administrative center: https://en.wikipedia.org/wiki/Chernihiv
-#| msgid "Chernivtsi"
 msgid "Chernihiv"
 msgstr "Chernihiv"
 
@@ -13781,7 +13734,6 @@ msgstr "Chernihiv"
 msgid "Chernivtsi"
 msgstr "Chernivtsi"
 
-#| msgid "Comoros"
 msgid "Chornomorsk"
 msgstr "Chornomorsk"
 
@@ -13833,7 +13785,6 @@ msgid "Kharkiv"
 msgstr "Kharkiv"
 
 #. Kherson Oblast administrative center
-#| msgid "Paterson"
 msgid "Kherson"
 msgstr "Kherson"
 
@@ -13844,12 +13795,9 @@ msgstr "Khmel'nitskiy"
 msgid "Konotop"
 msgstr "Konotop"
 
-#| msgid "Lovelock"
 msgid "Kovel"
 msgstr "Kovel"
 
-#| msgctxt "State in Germany"
-#| msgid "Bremen"
 msgid "Kremenchuk"
 msgstr "Kremenchuk"
 
@@ -13857,7 +13805,6 @@ msgstr "Kremenchuk"
 msgid "Kropyvnytskyi"
 msgstr "Kropyvnytskyi"
 
-#| msgid "Kryvyy Rih"
 msgid "Kryvyi Rih"
 msgstr "Kryvyi Rih"
 
@@ -13877,7 +13824,6 @@ msgid "L'viv"
 msgstr "L'viv"
 
 #. Luhans'k Oblast administrative center
-#| msgid "Wuhan"
 msgid "Luhans'k"
 msgstr "Luhans'k"
 
@@ -13888,13 +13834,10 @@ msgstr "Luts'k"
 msgid "Lysychansk"
 msgstr "Lysychansk"
 
-#| msgctxt "City in Illinois, United States"
-#| msgid "Marion"
 msgid "Mariupol"
 msgstr "Mariupol"
 
 #. A city in Ukraine: https://en.wikipedia.org/wiki/Melitopol
-#| msgid "Metropolis"
 msgid "Melitopol"
 msgstr "Melitopol"
 
@@ -13908,7 +13851,6 @@ msgstr "Mukachevo"
 msgid "Mykolayiv"
 msgstr "Mykolayiv"
 
-#| msgid "Uzhhorod"
 msgid "Myrhorod"
 msgstr "Myrhorod"
 
@@ -13922,8 +13864,6 @@ msgstr "Nova Kakhovka"
 msgid "Odesa"
 msgstr "Odesa"
 
-#| msgctxt "City in Piedmont, Italy"
-#| msgid "Alessandria"
 msgid "Oleksandriia"
 msgstr "Oleksandriia"
 
@@ -13941,7 +13881,6 @@ msgstr "Pryluky"
 msgid "Rivne"
 msgstr "Rivne"
 
-#| msgid "Stavropol'"
 msgid "Sevastopol"
 msgstr "Sevastopol"
 
@@ -13966,7 +13905,6 @@ msgid "Sumy"
 msgstr "Sumy"
 
 #. Ternopil' Oblast administrative center
-#| msgid "Terni"
 msgid "Ternopil"
 msgstr "Ternopil"
 
@@ -13989,8 +13927,6 @@ msgid "Volodymyr"
 msgstr "Volodymyr"
 
 #. Zaporizhzhia Oblast administrative center
-#| msgctxt "City in Italy"
-#| msgid "Gorizia"
 msgid "Zaporizhzhia"
 msgstr "Zaporizhzhia"
 
@@ -14355,7 +14291,6 @@ msgid "Norwich"
 msgstr "Norwich"
 
 #. A city in the East Midlands in the United Kingdom
-#| msgid "Effingham"
 msgctxt "City in the East Midlands, United Kingdom"
 msgid "Nottingham"
 msgstr "Nottingham"
