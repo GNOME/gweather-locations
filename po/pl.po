@@ -6,21 +6,23 @@
 # Tomasz Dominikowski <dominikowski@gmail.com>, 2008-2009.
 # Piotr Drąg <piotrdrag@gmail.com>, 2010-2023.
 # Aviary.pl <community-poland@mozilla.org>, 2008-2023.
+# Victoria <royal.victoria@proton.me>, 2026.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: libgweather-locations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-07 16:26+0000\n"
-"PO-Revision-Date: 2023-08-12 16:48+0200\n"
-"Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
-"Language-Team: Polish <community-poland@mozilla.org>\n"
+"POT-Creation-Date: 2026-03-03 07:26+0000\n"
+"PO-Revision-Date: 2026-03-03 10:36+0100\n"
+"Last-Translator: Victoria <royal.victoria@proton.me>\n"
+"Language-Team: Polish\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Gtranslator 49.0\n"
 
 #. TRANSLATORS: This is the designation for the last (most west) timezone on Earth
 #. https://en.wikipedia.org/wiki/Anywhere_on_Earth
@@ -4023,6 +4025,10 @@ msgstr "Campos do Jordão"
 #. A city in Rio Grande do Sul in Brazil
 msgid "Canoas"
 msgstr "Canoas"
+
+#. A city in Paraná in Brazil
+msgid "Cascavel"
+msgstr "Cascavel"
 
 #. A city in Rio Grande do Sul in Brazil
 msgid "Caxias do Sul"
