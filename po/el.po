@@ -2422,7 +2422,6 @@ msgid "Thuringia"
 msgstr "Θουριγγία"
 
 #. A union territory in India
-#, fuzzy
 #| msgid "Turks and Caicos Islands"
 msgctxt "Union Territory in India"
 msgid "Andaman and Nicobar Islands"
@@ -2449,15 +2448,11 @@ msgid "Bihar"
 msgstr "Μπιχάρ"
 
 #. A union territory in India
-#, fuzzy
-#| msgid "Chandigarh"
 msgctxt "Union Territory in India"
 msgid "Chandigarh"
 msgstr "Τσαντιγκάρ"
 
 #. A state in India
-#, fuzzy
-#| msgid "Chandigarh"
 msgctxt "State in India"
 msgid "Chhattisgarh"
 msgstr "Τσατισγκάρ"
@@ -9075,7 +9070,7 @@ msgstr "Χάιφα"
 
 #. A city in Israel
 msgid "Jerusalem"
-msgstr ""
+msgstr "Ιερουσαλήμ"
 
 #. A city in Israel
 msgid "Lod"
