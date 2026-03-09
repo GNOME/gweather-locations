@@ -9087,378 +9087,320 @@ msgstr "Ρος Πίνα"
 
 #. A city in Israel
 msgid "Shizzafon"
-msgstr "Shizzafon"
+msgstr "Σιζαφόν"
 
 #. A city in Israel
 msgid "Tel Aviv"
-msgstr "Tel Aviv"
+msgstr "Τελ Αβίβ"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Argentia"
 msgid "Agrigento"
-msgstr "Argentia"
+msgstr "Αγκριτζέντο"
 
 #. A city in Italy
 msgid "Albenga"
-msgstr "Albenga"
+msgstr "Αλμπένγκα"
 
 #. A city in Italy
-#, fuzzy
-#| msgctxt "City in Egypt"
-#| msgid "Alexandria"
 msgctxt "City in Piedmont, Italy"
 msgid "Alessandria"
-msgstr "Alexandria"
+msgstr "Αλεξάνδρεια (Ιταλία)"
 
 #. A city in Italy
 msgid "Alghero"
-msgstr "Alghero"
+msgstr "Αλγκέρο"
 
 #. A city in Italy
 msgid "Ancona"
 msgstr "Ανκόνα"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Adrian"
 msgid "Andria"
-msgstr "Adrian"
+msgstr "Άντρια"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Mostar"
 msgid "Aosta"
-msgstr "Mostar"
+msgstr "Αόστα"
 
 #. A city in Italy
 msgid "Arezzo"
-msgstr ""
+msgstr "Αρέτσο"
 
 #. A city in Italy
 msgid "Ascoli Piceno"
-msgstr ""
+msgstr "Άσκολι Πιτσένο"
 
 #. A city in Italy
 msgctxt "City in Piedmont, Italy"
 msgid "Asti"
-msgstr ""
+msgstr "Άστι"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Bellin"
 msgid "Avellino"
-msgstr "Bellin"
+msgstr "Αβελίνο"
 
 #. A city in Italy
 msgid "Aviano"
-msgstr "Aviano"
+msgstr "Αβιάνο"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Bari"
 msgctxt "City in Italy"
 msgid "Bari"
-msgstr "Bari"
+msgstr "Μπάρι"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Valletta"
 msgid "Barletta"
-msgstr "Βαλέττα"
+msgstr "Μπαρλέτα"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Bellin"
 msgid "Belluno"
-msgstr "Bellin"
+msgstr "Μπελούνο"
 
 #. A city in Italy
 msgid "Benevento"
-msgstr ""
+msgstr "Μπενεβέντο"
 
 #. A city in Italy
 msgid "Bergamo"
-msgstr "Bergamo"
+msgstr "Μπέργκαμο"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Pella"
 msgid "Biella"
-msgstr "Pella"
+msgstr "Μπιέλα"
 
 #. A city in Italy
 msgid "Bologna"
-msgstr "Bologna"
+msgstr "Μπολόνια"
 
 #. A city in Italy
 msgid "Bolzano"
-msgstr "Bolzano"
+msgstr "Μπολτσάνο"
 
 #. A city in Italy
 msgid "Brescia"
-msgstr "Brescia"
+msgstr "Μπρέσια"
 
 #. A city in Italy
 msgid "Breuil-Cervinia"
-msgstr "Breuil-Cervinia"
+msgstr "Μπρέιλ-Τσερβίνια"
 
 #. A city in Italy
 msgid "Brindisi"
-msgstr "Brindisi"
+msgstr "Πρίντεζι"
 
 #. A city in Italy
 msgid "Cagliari"
-msgstr "Cagliari"
+msgstr "Κάλιαρι"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Catania"
 msgid "Caltanissetta"
-msgstr "Catania"
+msgstr "Καλτανισέτα"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Campos"
 msgid "Campobasso"
-msgstr "Campos"
+msgstr "Καμπομπάσο"
 
 #. A city in Italy
 msgid "Capri"
-msgstr "Capri"
+msgstr "Κάπρι"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Carbondale"
 msgid "Carbonia"
-msgstr "Carbondale"
+msgstr "Καρμπόνια"
 
 #. A city in Italy
 msgid "Case Arfel"
-msgstr "Case Arfel"
+msgstr "Κάζε Άρφελ"
 
 #. A city in Italy
 msgctxt "City in Italy"
 msgid "Caserta"
-msgstr ""
+msgstr "Καζέρτα"
 
 #. A city in Italy
 msgid "Catania"
-msgstr "Catania"
+msgstr "Κατάνη"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Catania"
 msgid "Catanzaro"
-msgstr "Catania"
+msgstr "Καταντζάρο"
 
 #. A city in Italy
 msgid "Cervia"
-msgstr "Cervia"
+msgstr "Τσέρβια"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Rieti"
 msgid "Chieti"
-msgstr "Rieti"
+msgstr "Κιέτι"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Comox"
 msgctxt "City in Italy"
 msgid "Como"
-msgstr "Comox"
+msgstr "Κόμο"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Penza"
 msgid "Cosenza"
-msgstr "Penza"
+msgstr "Κοζέντσα"
 
 #. A city in Italy
 msgid "Crotone"
-msgstr "Crotone"
+msgstr "Κροτόνε"
 
 #. A city in Italy
 msgid "Cuneo"
-msgstr "Cuneo"
+msgstr "Κούνεο"
 
 #. A city in Italy
 msgid "Decimomannu"
-msgstr "Decimomannu"
+msgstr "Ντετσιμομάνου"
 
 #. A city in Italy
 msgid "Dobbiaco"
-msgstr "Dobbiaco"
+msgstr "Ντομπιάκο"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Ennadai"
 msgid "Enna"
-msgstr "Ennadai"
+msgstr "Έννα"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Vermont"
 msgid "Fermo"
-msgstr "Βερμόντ"
+msgstr "Φέρμο"
 
 #. A city in Italy
 msgid "Ferrara"
-msgstr "Ferrara"
+msgstr "Φεράρα"
 
 #. A city in Italy.
-#. "Florence" is the traditional English name.
-#. The local name in Italian is "Firenze".
-#.
 msgctxt "City in Italy"
 msgid "Florence"
-msgstr "Florence"
+msgstr "Φλωρεντία"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Poggiale"
 msgid "Foggia"
-msgstr "Poggiale"
+msgstr "Φότζια"
 
 #. A city in Italy
 msgid "Forlì"
-msgstr "Forlì"
+msgstr "Φορλί"
 
 #. A city in Italy
 msgid "Frosinone"
-msgstr "Frosinone"
+msgstr "Φροζινόνε"
 
 #. A city in Italy.
 #. "Genoa" is the traditional English name.
 #. The local name in Italian is "Genova".
 #.
 msgid "Genoa"
-msgstr "Genoa"
+msgstr "Γένοβα"
 
 #. A city in Italy
 msgid "Ginosa Marina"
-msgstr "Ginosa Marina"
+msgstr "Τζινόζα Μαρίνα"
 
 #. A city in Italy
 msgid "Gioia del Colle"
-msgstr "Gioia del Colle"
+msgstr "Τζόια ντελ Κόλε"
 
 #. A city in Italy
 msgctxt "City in Italy"
 msgid "Gorizia"
-msgstr ""
+msgstr "Γκορίτσια"
 
 #. A city in Italy
 msgid "Grazzanise"
-msgstr "Grazzanise"
+msgstr "Γκρατσανίζε"
 
 #. A city in Italy
 msgid "Grosseto"
-msgstr "Grosseto"
+msgstr "Γκροσέτο"
 
 #. A city in Italy
 msgid "Grottaglie"
-msgstr "Grottaglie"
+msgstr "Γκροτάλιε"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Sarnia"
 msgid "Isernia"
-msgstr "Sarnia"
+msgstr "Ιζέρνια"
 
 #. A city in Italy
 msgid "Isola del Cantone"
-msgstr "Isola del Cantone"
+msgstr "Ιζόλα ντελ Καντόνε"
 
 #. A city in Italy
 msgid "L'Aquila"
-msgstr "Λακουίλα"
+msgstr "Λ' Άκουιλα"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "La Serena"
 msgid "La Spezia"
-msgstr "La Serena"
+msgstr "Λα Σπέτσια"
 
 #. A city in Italy
 msgid "Laigueglia"
-msgstr "Laigueglia"
+msgstr "Λαϊγκουέλια"
 
 #. A city in Italy
 msgid "Lampedusa"
-msgstr "Lampedusa"
+msgstr "Λαμπεντούζα"
 
 #. A city in Italy
 msgid "Latina"
-msgstr "Latina"
+msgstr "Λατίνα"
 
 #. A city in Italy
 msgid "Lecce"
-msgstr "Lecce"
+msgstr "Λέτσε"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Lecce"
 msgid "Lecco"
-msgstr "Lecce"
+msgstr "Λέκκο"
 
 #. A city in Italy
 msgctxt "Italian city of Livorno"
 msgid "Leghorn"
-msgstr ""
+msgstr "Λιβόρνο"
 
 #. A city in Italy
 msgid "Lucca"
-msgstr "Lucca"
+msgstr "Λούκα"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Herat"
 msgid "Macerata"
-msgstr "Herat"
+msgstr "Ματσεράτα"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Manta"
 msgctxt "Italian city of Mantova"
 msgid "Mantua"
-msgstr "Manta"
+msgstr "Μάντοβα"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Massena"
 msgctxt "City in Italy"
 msgid "Massa"
-msgstr "Massena"
+msgstr "Μάσα"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Hatteras"
 msgid "Matera"
-msgstr "Hatteras"
+msgstr "Ματέρα"
 
 #. A city in Italy
 msgid "Messina"
-msgstr "Messina"
+msgstr "Μεσσήνη"
 
 #. A city in Italy.
 #. "Milan" is the traditional English name.
 #. The local name in Italian is "Milano".
 #.
 msgid "Milan"
-msgstr "Milan"
+msgstr "Μιλάνο"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Kadena"
 msgctxt "City in Italy"
 msgid "Modena"
-msgstr "Kadena"
+msgstr "Μόντενα"
 
 #. A city in Italy
 msgid "Monza"
-msgstr ""
+msgstr "Μόντσα"
 
 #. A city in Italy.
 #. "Naples" is the traditional English name.
@@ -9466,143 +9408,127 @@ msgstr ""
 #.
 msgctxt "City in Italy"
 msgid "Naples"
-msgstr "Naples"
+msgstr "Νάπολη"
 
 #. A city in Italy
 msgid "Novara"
-msgstr ""
+msgstr "Νοβάρα"
 
 #. A city in Italy
 msgid "Nuoro"
-msgstr ""
+msgstr "Νούορο"
 
 #. A city in Italy
 msgid "Olbia"
-msgstr "Olbia"
+msgstr "Όλμπια"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Bristol"
 msgid "Oristano"
-msgstr "Bristol"
+msgstr "Οριστάνο"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Paducah"
 msgctxt "Italian city of Padova"
 msgid "Padua"
-msgstr "Paducah"
+msgstr "Πάντοβα"
 
 #. A city in Italy
 msgid "Palazzo"
-msgstr "Palazzo"
+msgstr "Παλάτσο"
 
 #. A city in Italy
 msgid "Palermo"
-msgstr "Palermo"
+msgstr "Παλέρμο"
 
 #. A city in Italy
 msgid "Paneveggio"
-msgstr "Paneveggio"
+msgstr "Πανεβέτζιο"
 
 #. A city in Italy
 msgid "Pantelleria"
-msgstr "Pantelleria"
+msgstr "Παντελλερία"
 
 #. A city in Italy
 msgid "Parma"
-msgstr "Parma"
+msgstr "Πάρμα"
 
 #. A city in Italy
 msgid "Pavia"
-msgstr ""
+msgstr "Παβία"
 
 #. A city in Italy
 msgid "Perugia"
-msgstr "Perugia"
+msgstr "Περούτζια"
 
 #. A city in Italy
 msgid "Pesaro"
-msgstr ""
+msgstr "Πέζαρο"
 
 #. A city in Italy
 msgid "Pescara"
-msgstr "Pescara"
+msgstr "Πεσκάρα"
 
 #. A city in Italy
 msgid "Piacenza"
-msgstr "Piacenza"
+msgstr "Πιατσέντσα"
 
 #. A city in Italy
 msgid "Pisa"
-msgstr "Pisa"
+msgstr "Πίζα"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Chistochina"
 msgid "Pistoia"
-msgstr "Chistochina"
+msgstr "Πιστόια"
 
 #. A city in Italy
 msgid "Pontecagnano"
-msgstr "Pontecagnano"
+msgstr "Ποντεκανιάνο"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Borden"
 msgid "Pordenone"
-msgstr "Borden"
+msgstr "Πορντενόνε"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Penza"
 msgctxt "City in Italy"
 msgid "Potenza"
-msgstr "Penza"
+msgstr "Ποτέντσα"
 
 #. A city in Italy
 msgid "Pratica di Mare"
-msgstr "Pratica di Mare"
+msgstr "Πράτικα ντι Μάρε"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Pratt"
 msgctxt "City in Italy"
 msgid "Prato"
-msgstr "Pratt"
+msgstr "Πράτο"
 
 #. A city in Italy
 msgid "Ragusa"
-msgstr ""
+msgstr "Ραγκούζα"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Vienna"
 msgctxt "City in Italy"
 msgid "Ravenna"
-msgstr "Βιέννη"
+msgstr "Ραβέννα"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Reggio di Calabria"
 msgid "Reggio Emilia"
-msgstr "Reggio di Calabria"
+msgstr "Ρέτζιο Εμίλια"
 
 #. A city in Italy
 msgid "Reggio di Calabria"
-msgstr "Reggio di Calabria"
+msgstr "Ρέτζιο ντι Καλάμπρια"
 
 #. A city in Italy
 msgid "Resia"
-msgstr "Resia"
+msgstr "Ρέζια"
 
 #. A city in Italy
 msgid "Rieti"
-msgstr "Rieti"
+msgstr "Ριέτι"
 
 #. A city in Italy
 msgid "Rimini"
-msgstr "Rimini"
+msgstr "Ρίμινι"
 
 #. The capital of Italy.
 #. "Rome" is the traditional English name.
@@ -9614,171 +9540,145 @@ msgstr "Ρώμη"
 
 #. A city in Italy
 msgid "Ronchi dei Legionari"
-msgstr "Ronchi dei Legionari"
+msgstr "Ρόνκι ντεϊ Λετζονάρι"
 
 #. A city in Italy
 msgid "Rovigo"
-msgstr ""
+msgstr "Ροβίγκο"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Palermo"
 msgid "Salerno"
-msgstr "Palermo"
+msgstr "Σαλέρνο"
 
 #. A city in Italy
 msgid "Salignano"
-msgstr "Salignano"
+msgstr "Σαλινιάνο"
 
 #. A city in Italy
 msgid "San Stèfano"
-msgstr "San Stèfano"
+msgstr "Σαν Στέφανο"
 
 #. A city in Italy
 msgid "Sant'Eufemia Lamezia"
-msgstr "Sant'Eufemia Lamezia"
+msgstr "Σαντ'Εουφέμια Λαμέτσια"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Makassar"
 msgid "Sassari"
-msgstr "Makassar"
+msgstr "Σάσσαρι"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Savoonga"
 msgctxt "City in Italy"
 msgid "Savona"
-msgstr "Savoonga"
+msgstr "Σαβόνα"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Londrina"
 msgid "Sondrio"
-msgstr "Londrina"
+msgstr "Σόντριο"
 
 #. A city in Italy
 msgid "Sporminore"
-msgstr "Sporminore"
+msgstr "Σπορμινόρε"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Syracuse"
 msgctxt "Italian city of Siracusa"
 msgid "Syracuse"
-msgstr "Syracuse"
+msgstr "Συρακούσες"
 
 #. A city in Italy
 msgid "Tamaricciola"
-msgstr "Tamaricciola"
+msgstr "Ταμαριτσιόλα"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Tarapoto"
 msgid "Taranto"
-msgstr "Tarapoto"
+msgstr "Τάραντας"
 
 #. A city in Italy
 msgid "Tarvisio"
-msgstr "Tarvisio"
+msgstr "Ταρβίζιο"
 
 #. A city in Italy
 msgid "Teramo"
-msgstr ""
+msgstr "Τέραμο"
 
 #. A city in Italy
 msgid "Terni"
-msgstr ""
+msgstr "Τέρνι"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Trang"
 msgid "Trani"
-msgstr "Trang"
+msgstr "Τράνι"
 
 #. A city in Italy
 msgid "Trapani"
-msgstr "Trapani"
+msgstr "Τράπανι"
 
 #. A city in Italy
-#, fuzzy
-#| msgctxt "City in Ontario, Canada"
-#| msgid "Trenton"
 msgctxt "City in Italy"
 msgid "Trento"
-msgstr "Trenton"
+msgstr "Τρέντο"
 
 #. A city in Italy
 msgid "Trevico"
-msgstr "Trevico"
+msgstr "Τρεβίκο"
 
 #. A city in Italy
 msgid "Treviso"
-msgstr "Treviso"
+msgstr "Τρεβίζο"
 
 #. A city in Italy
 msgid "Trieste"
-msgstr "Trieste"
+msgstr "Τεργέστη"
 
 #. A city in Italy.
 #. "Turin" is the traditional English name.
 #. The local name is "Torino".
 #.
 msgid "Turin"
-msgstr "Turin"
+msgstr "Τορίνο"
 
 #. A city in Italy
 msgid "Udine"
-msgstr ""
+msgstr "Ούντινε"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Varennes"
 msgid "Varese"
-msgstr "Varennes"
+msgstr "Βαρέζε"
 
 #. A city in Italy.
 #. "Venice" is the traditional English name.
 #. The local name in Italian is "Venezia".
 #.
 msgid "Venice"
-msgstr "Venice"
+msgstr "Βενετία"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Albania"
 msgid "Verbania"
-msgstr "Αλβανία"
+msgstr "Βερμπάνια"
 
 #. A city in Italy
 msgid "Vercelli"
-msgstr ""
+msgstr "Βερτσέλι"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Verona"
 msgctxt "City in Italy"
 msgid "Verona"
-msgstr "Verona"
+msgstr "Βερόνα"
 
 #. A city in Italy
-#, fuzzy
-#| msgctxt "City in Spain"
-#| msgid "Valencia"
 msgid "Vibo Valentia"
-msgstr "Valencia"
+msgstr "Βίμπο Βαλέντια"
 
 #. A city in Italy
 msgid "Vicenza"
-msgstr "Vicenza"
+msgstr "Βιτσέντζα"
 
 #. A city in Italy
 msgid "Viterbo"
-msgstr "Viterbo"
+msgstr "Βιτέρμπο"
 
 #. A city in Italy
 msgid "Àrbatax"
-msgstr "Àrbatax"
+msgstr "Άρμπαταξ"
 
 #. The capital of Jamaica
 msgctxt "City in Jamaica"
@@ -9787,367 +9687,347 @@ msgstr "Κίνγκστον"
 
 #. A city in Jamaica
 msgid "Montego Bay"
-msgstr "Montego Bay"
+msgstr "Μοντέγκο Μπέι"
 
 #. A city in Japan
 msgid "Akita"
-msgstr "Akita"
+msgstr "Ακίτα"
 
 #. A city in Japan
 msgid "Ami"
-msgstr "Ami"
+msgstr "Άμι"
 
 #. A city in Japan
 msgid "Aomori"
-msgstr "Aomori"
+msgstr "Αομόρι"
 
 #. A city in Japan
 msgid "Asahikawa"
-msgstr "Asahikawa"
+msgstr "Ασαχικάβα"
 
 #. A city in Japan
 msgid "Ashiya"
-msgstr "Ashiya"
+msgstr "Ασίγια"
 
 #. A city in Japan, capital of Chiba Prefecture
-#, fuzzy
-#| msgid "Chibougamau"
 msgid "Chiba"
-msgstr "Chibougamau"
+msgstr "Τσίμπα"
 
 #. A city in Japan
 msgid "Chitose"
-msgstr "Chitose"
+msgstr "Τσιτόσε"
 
 #. A city in Japan
 msgid "Chofu"
-msgstr "Chofu"
+msgstr "Τσόφου"
 
 #. A city in Japan
 msgid "Fuji"
-msgstr "Fuji"
+msgstr "Φούτζι"
 
 #. A city in Japan
 msgid "Fukue"
-msgstr "Fukue"
+msgstr "Φουκούε"
 
 #. A city in Japan, capital of Fukui Prefecture
-#, fuzzy
-#| msgid "Fukue"
 msgid "Fukui"
-msgstr "Fukue"
+msgstr "Φουκούι"
 
 #. A city in Japan
 msgid "Fukuoka"
-msgstr "Fukuoka"
+msgstr "Φουκουόκα"
 
 #. A city in Japan, capital of Fukushima Prefecture
-#, fuzzy
-#| msgid "Matsushima"
 msgid "Fukushima"
-msgstr "Matsushima"
+msgstr "Φουκουσίμα"
 
 #. A city in Japan
 msgid "Futemma"
-msgstr "Futemma"
+msgstr "Φουτέμμα"
 
 #. A city in Japan
 msgid "Gifu"
-msgstr "Gifu"
+msgstr "Γκίφου"
 
 #. A city in Japan
 msgid "Hakodate"
-msgstr "Hakodate"
+msgstr "Χακοντάτε"
 
 #. A city in Japan
 msgid "Hamamatsu"
-msgstr "Hamamatsu"
+msgstr "Χαμαμάτσου"
 
 #. A city in Japan
 msgid "Hamanaka"
-msgstr "Hamanaka"
+msgstr "Χαμανάκα"
 
 #. A city in Japan
 msgid "Hanamaki"
-msgstr "Hanamaki"
+msgstr "Χαναμάκι"
 
 #. A city in Japan
 msgid "Hiroshima"
-msgstr "Hiroshima"
+msgstr "Χιροσίμα"
 
 #. A city in Japan
 msgid "Hofu"
-msgstr "Hofu"
+msgstr "Χόφου"
 
 #. A city in Japan
 msgid "Ishigaki"
-msgstr "Ishigaki"
+msgstr "Ισιγκάκι"
 
 #. A city in Japan
 msgid "Iwakuni"
-msgstr "Iwakuni"
+msgstr "Ιβακούνι"
 
 #. A city in Japan
 msgid "Izumo"
-msgstr "Izumo"
+msgstr "Ιζούμο"
 
 #. A city in Japan
 msgid "Janado"
-msgstr "Janado"
+msgstr "Τζανάδο"
 
 #. A city in Japan
 msgid "Kadena"
-msgstr "Kadena"
+msgstr "Καντένα"
 
 #. A city in Japan
 msgid "Kagoshima"
-msgstr "Kagoshima"
+msgstr "Καγκοσίμα"
 
 #. A city in Japan
 msgid "Kanayama"
-msgstr "Kanayama"
+msgstr "Καναγιάμα"
 
 #. A city in Japan, capital of Ishikawa Prefecture
-#, fuzzy
-#| msgid "Kanayama"
 msgid "Kanazawa"
-msgstr "Kanayama"
+msgstr "Καναζάβα"
 
 #. A city in Japan
 msgid "Kanoya"
-msgstr "Kanoya"
+msgstr "Κανόγια"
 
 #. A city in Japan
 msgid "Kashoji"
-msgstr "Kashoji"
+msgstr "Κασότζι"
 
 #. A city in Japan
 msgid "Kitakyushu"
-msgstr "Kitakyushu"
+msgstr "Κιτακιούσου"
 
 #. A city in Japan, capital of Hyogo Prefecture
 msgid "Kobe"
-msgstr ""
+msgstr "Κόμπε"
 
 #. A city in Japan, capital of Yamanashi Prefecture
 msgid "Kofu"
-msgstr ""
+msgstr "Κόφου"
 
 #. A city in Japan
 msgid "Komatsu"
-msgstr "Komatsu"
+msgstr "Κομάτσου"
 
 #. A city in Japan
 msgid "Komatsushima"
-msgstr "Komatsushima"
+msgstr "Κοματσουσίμα"
 
 #. A city in Japan
 msgid "Kumamoto"
-msgstr "Kumamoto"
+msgstr "Κουμαμότο"
 
 #. A city in Japan
 msgid "Kushiro"
-msgstr "Kushiro"
+msgstr "Κουσίρο"
 
 #. A city in Japan, capital of Kyoto Prefecture
 msgid "Kyoto"
-msgstr ""
+msgstr "Κιότο"
 
 #. A city in Japan, capital of Gunma Prefecture
-#, fuzzy
-#| msgid "Kashi"
 msgid "Maebashi"
-msgstr "Kashi"
+msgstr "Μαεμπάσι"
 
 #. A city in Japan
 msgid "Matsubara"
-msgstr "Matsubara"
+msgstr "Ματσουμπάρα"
 
 #. A city in Japan, capital of Shimane Prefecture
-#, fuzzy
-#| msgid "Matsubara"
 msgid "Matsue"
-msgstr "Matsubara"
+msgstr "Ματσούε"
 
 #. A city in Japan
 msgid "Matsumoto"
-msgstr "Matsumoto"
+msgstr "Ματσουμότο"
 
 #. A city in Japan
 msgid "Matsushima"
-msgstr "Matsushima"
+msgstr "Ματσουσίμα"
 
 #. A city in Japan
 msgid "Matsuyama"
-msgstr "Matsuyama"
+msgstr "Ματσουγιάμα"
 
 #. A city in Japan
 msgid "Memambetsu"
-msgstr "Memambetsu"
+msgstr "Μεμαμπέτσου"
 
 #. A city in Japan
 msgid "Mihonoseki"
-msgstr "Mihonoseki"
+msgstr "Μιχονοσέκι"
 
 #. A city in Japan
 msgid "Minami"
-msgstr "Minami"
+msgstr "Μινάμι"
 
 #. A city in Japan
 msgid "Misawa"
-msgstr "Misawa"
+msgstr "Μισάβα"
 
 #. A city in Japan
 msgid "Mito"
-msgstr "Mito"
+msgstr "Μίτο"
 
 #. A city in Japan
 msgid "Miyazaki"
-msgstr "Miyazaki"
+msgstr "Μιγιαζάκι"
 
 #. A city in Japan
 msgid "Mombetsu"
-msgstr "Mombetsu"
+msgstr "Μομπέτσου"
 
 #. A city in Japan, capital of Iwate Prefecture
-#, fuzzy
-#| msgid "Mori"
 msgid "Morioka"
-msgstr "Mori"
+msgstr "Μοριόκα"
 
 #. A city in Japan, capital of Nagano Prefecture
-#, fuzzy
-#| msgid "Lugano"
 msgid "Nagano"
-msgstr "Lugano"
+msgstr "Ναγκάνο"
 
 #. A city in Japan
 msgid "Nagasaki"
-msgstr "Nagasaki"
+msgstr "Ναγκασάκι"
 
 #. A city in Japan
 msgid "Nagoya"
-msgstr "Nagoya"
+msgstr "Ναγκόγια"
 
 #. A city in Japan
 msgid "Naha"
-msgstr "Naha"
+msgstr "Νάχα"
 
 #. A city in Japan
 msgid "Naka-shibetsu"
-msgstr "Naka-shibetsu"
+msgstr "Νάκα-σιμπέτσου"
 
 #. A city in Japan, capital of Nara Prefecture
 msgid "Nara"
-msgstr ""
+msgstr "Νάρα"
 
 #. A city in Japan
 msgid "Niigata"
-msgstr "Niigata"
+msgstr "Νιιγκάτα"
 
 #. A city in Japan
 msgid "Obihiro"
-msgstr "Obihiro"
+msgstr "Ομπιχίρο"
 
 #. A city in Japan
 msgid "Odaira"
-msgstr "Odaira"
+msgstr "Οντάιρα"
 
 #. A city in Japan
 msgid "Odaka"
-msgstr "Odaka"
+msgstr "Οντάκα"
 
 #. A city in Japan
 msgid "Odate"
-msgstr "Odate"
+msgstr "Οντάτε"
 
 #. A city in Japan
 msgid "Ofunakoshi"
-msgstr "Ofunakoshi"
+msgstr "Οφουνακόσι"
 
 #. A city in Japan
 msgid "Ogimachiya"
-msgstr "Ogimachiya"
+msgstr "Ογκιματσιγιά"
 
 #. A city in Japan
 msgid "Oita"
-msgstr "Oita"
+msgstr "Όιτα"
 
 #. A city in Japan
 msgid "Okata"
-msgstr "Okata"
+msgstr "Οκάτα"
 
 #. A city in Japan
 msgid "Okayama"
-msgstr "Okayama"
+msgstr "Οκαγιάμα"
 
 #. A city in Japan
 msgid "Okazato"
-msgstr "Okazato"
+msgstr "Οκαζάτο"
 
 #. A city in Japan
 msgid "Osaka"
-msgstr "Osaka"
+msgstr "Οσάκα"
 
 #. A city in Japan, capital of Shiga Prefecture
 msgid "Otsu"
-msgstr ""
+msgstr "Ότσου"
 
 #. A city in Japan
 msgid "Ozuki"
-msgstr "Ozuki"
+msgstr "Οζούκι"
 
 #. A city in Japan
 msgid "Saga"
-msgstr "Saga"
+msgstr "Σάγκα"
 
 #. A city in Japan, capital of Saitama Prefecture
 msgid "Saitama"
-msgstr ""
+msgstr "Σαϊτάμα"
 
 #. A city in Japan
 msgid "Sanrizuka"
-msgstr "Sanrizuka"
+msgstr "Σανριζούκα"
 
 #. A city in Japan, capital of Hokkaido Prefecture
-#, fuzzy
-#| msgid "Scappoose"
 msgid "Sapporo"
-msgstr "Scappoose"
+msgstr "Σαππόρο"
 
 #. A city in Japan
 msgid "Sawada"
-msgstr "Sawada"
+msgstr "Σαβάντα"
 
 #. A city in Japan
 msgid "Sendai"
-msgstr "Sendai"
+msgstr "Σεντάι"
 
 #. A city in Japan
 msgid "Shiroi"
-msgstr "Shiroi"
+msgstr "Σιρόι"
 
 #. A city in Japan, capital of Shizuoka Prefecture
 msgid "Shizuoka"
-msgstr ""
+msgstr "Σιζουόκα"
 
 #. A city in Japan
 msgid "Takamatsu"
-msgstr "Takamatsu"
+msgstr "Τακαμάτσου"
 
 #. A city in Japan
 msgid "Takatsu"
-msgstr "Takatsu"
+msgstr "Τακάτσου"
 
 #. A city in Japan
 msgid "Tateyama"
-msgstr "Tateyama"
+msgstr "Τατεγιάμα"
 
 #. A city in Japan, capital of Tokushima Prefecture
-#, fuzzy
-#| msgid "Komatsushima"
 msgid "Tokushima"
-msgstr "Komatsushima"
+msgstr "Τοκουσίμα"
 
 #. The capital of Japan
 msgid "Tokyo"
@@ -10155,73 +10035,67 @@ msgstr "Τόκιο"
 
 #. A city in Japan
 msgid "Tottori"
-msgstr "Tottori"
+msgstr "Τοτόρι"
 
 #. A city in Japan
 msgid "Toyama"
-msgstr "Toyama"
+msgstr "Τογιάμα"
 
 #. A city in Japan
 msgid "Toyooka"
-msgstr "Toyooka"
+msgstr "Τογιόκα"
 
 #. A city in Japan, capital of Mie Prefecture
-#, fuzzy
-#| msgid "Tsuiki"
 msgid "Tsu"
-msgstr "Tsuiki"
+msgstr "Τσου"
 
 #. A city in Japan
 msgid "Tsuiki"
-msgstr "Tsuiki"
+msgstr "Τσουίκι"
 
 #. A city in Japan
 msgid "Ushuku"
-msgstr "Ushuku"
+msgstr "Ουσούκου"
 
 #. A city in Japan, capital of Tochigi Prefecture
 msgid "Utsunomiya"
-msgstr ""
+msgstr "Ουτσουνόμιγια"
 
 #. A city in Japan, capital of Wakayama Prefecture
-#, fuzzy
-#| msgid "Okayama"
 msgid "Wakayama"
-msgstr "Okayama"
+msgstr "Βακαγιάμα"
 
 #. A city in Japan
 msgid "Wakkanai"
-msgstr "Wakkanai"
+msgstr "Βακανάι"
 
 #. A city in Japan
 msgid "Yamagata"
-msgstr "Yamagata"
+msgstr "Γιαμαγκάτα"
 
 #. A city in Japan
 msgid "Yamaguchi"
-msgstr "Yamaguchi"
+msgstr "Γιαμαγκούτσι"
 
 #. A city in Japan
 msgid "Yao"
-msgstr "Yao"
+msgstr "Γιάο"
 
 #. A city in Japan, capital of Kanagawa Prefecture
-#, fuzzy
-#| msgid "Yokota"
 msgid "Yokohama"
-msgstr "Yokota"
+msgstr "Γιοκοχάμα"
 
 #. A city in Japan
 msgid "Yokota"
-msgstr "Yokota"
+msgstr "Γιοκότα"
 
 #. A city in Japan
 msgid "Yoshinaga"
-msgstr "Yoshinaga"
+msgstr "Γιοσινάγκα"
 
 #. A city in Jersey
 msgid "La Hougue"
-msgstr "La Hougue"
+msgstr "Λα Ούγκ"
 
 #. The capital of Jersey
 msgid "Saint Helier"
@@ -10229,34 +10103,27 @@ msgstr "Σεντ Ελιέρ"
 
 #. A city in Jordan
 msgid "Al 'Aqabah"
-msgstr "Al 'Aqabah"
+msgstr "Άκαμπα"
 
 #. A city in Jordan
 msgid "Al Jizah"
-msgstr "Al Jizah"
+msgstr "Αλ Τζίζα"
 
 #. The capital of Jordan.
-#. "Amman" is the traditional English name.
-#. The local name in Arabic is "'Amman".
-#.
 msgid "Amman"
 msgstr "Αμμάν"
 
 #. A city in Kazakhstan
 msgid "Almaty"
-msgstr "Almaty"
+msgstr "Αλμάτι"
 
 #. A city in Kazakhstan.
-#. The local name in Russian is "Aktau".
-#.
 msgid "Aqtau"
-msgstr "Aqtau"
+msgstr "Ακτάου"
 
 #. A city in Kazakhstan.
-#. The local name in Russian is "Aktobe".
-#.
 msgid "Aqtöbe"
-msgstr "Aqtöbe"
+msgstr "Ακτόμπε"
 
 #. The capital of Kazakhstan
 msgid "Astana"
@@ -10264,47 +10131,39 @@ msgstr "Αστάνα"
 
 #. A city in Kazakhstan
 msgid "Atyrau"
-msgstr "Atyrau"
+msgstr "Ατιράου"
 
 #. A city in Kazakhstan.
-#. The local name in Russian is "Ural'sk".
-#.
 msgid "Oral"
-msgstr "Oral"
+msgstr "Οράλ"
 
 #. A city in Kazakhstan.
-#. The local name in Russian is "Karaganda".
-#.
 msgid "Qaraghandy"
-msgstr "Qaraghandy"
+msgstr "Καραγκάντα"
 
 #. A city in Kazakhstan.
-#. The local name in Russian is "Kostanay".
-#.
 msgid "Qostanay"
-msgstr "Qostanay"
+msgstr "Κοστανάι"
 
 #. A city in Kazakhstan.
-#. The local name in Russian is "Kyzylorda".
-#.
 msgid "Qyzylorda"
-msgstr "Qyzylorda"
+msgstr "Κυζυλόρντα"
 
 #. A city in Kazakhstan
 msgid "Shymkent"
-msgstr "Shymkent"
+msgstr "Σιμκέντ"
 
 #. A city in Kenya
 msgid "Eldoret"
-msgstr "Eldoret"
+msgstr "Ελντορέτ"
 
 #. A city in Kenya
 msgid "Kisumu"
-msgstr "Kisumu"
+msgstr "Κισούμου"
 
 #. A city in Kenya
 msgid "Mombasa"
-msgstr "Mombasa"
+msgstr "Μομπάσα"
 
 #. The capital of Kenya
 msgid "Nairobi"
@@ -10333,10 +10192,8 @@ msgid "Bishkek"
 msgstr "Μπισκέκ"
 
 #. A city in Osh state, Kyrgyzstan
-#, fuzzy
-#| msgid "Oshkosh"
 msgid "Osh"
-msgstr "Oshkosh"
+msgstr "Ος"
 
 #. The capital of Laos.
 #. "Vientiane" is the traditional English name.
@@ -10347,7 +10204,7 @@ msgstr "Βιεντιάν"
 
 #. A city in Latvia
 msgid "Liepāja"
-msgstr "Liepāja"
+msgstr "Λιεπάγια"
 
 #. The capital of Latvia
 msgid "Rīga"
@@ -10362,11 +10219,11 @@ msgstr "Βηρυτός"
 
 #. A city in Libya
 msgid "Baninah"
-msgstr "Baninah"
+msgstr "Μπενίνα"
 
 #. A city in Libya
 msgid "Sabha"
-msgstr "Sabha"
+msgstr "Σάμπχα"
 
 #. The capital of Libya.
 #. "Tripoli" is the traditional English name.
@@ -10381,11 +10238,11 @@ msgstr "Βαντούζ"
 
 #. A city in Lithuania
 msgid "Kaunas"
-msgstr "Kaunas"
+msgstr "Κάουνας"
 
 #. A city in Lithuania
 msgid "Palanga"
-msgstr "Palanga"
+msgstr "Παλάνγκα"
 
 #. The capital of Lithuania
 msgid "Vilnius"
@@ -10393,7 +10250,7 @@ msgstr "Βίλνιους"
 
 #. A city in Lithuania
 msgid "Šiauliai"
-msgstr "Šiauliai"
+msgstr "Σιαουλιάι"
 
 #. The capital of Luxembourg
 msgctxt "City in Luxembourg"
@@ -10411,11 +10268,11 @@ msgstr "Μακάο"
 #. The local name in Chinese is "Dangzai / 氹仔".
 #.
 msgid "Taipa"
-msgstr "Taipa"
+msgstr "Τάιπα"
 
 #. A city in Macedonia
 msgid "Ohrid"
-msgstr "Ohrid"
+msgstr "Οχρίδα"
 
 #. The capital of Macedonia
 msgid "Skopje"
@@ -10423,60 +10280,60 @@ msgstr "Σκόπια"
 
 #. A city in Madagascar
 msgid "Ankarena"
-msgstr "Ankarena"
+msgstr "Ανκαρένα"
 
 #. The capital of Madagascar
 msgid "Antananarivo"
-msgstr "Ταναναρίβη"
+msgstr "Ανταναναρίβο"
 
 #. A city in Madagascar
 msgid "Antsiranana"
-msgstr "Antsiranana"
+msgstr "Αντσιρανάνα"
 
 #. A city in Madagascar
 msgid "Fasenina-Ampasy"
-msgstr "Fasenina-Ampasy"
+msgstr "Φασενίνα-Αμπασί"
 
 #. A city in Madagascar
 msgid "Mahajanga"
-msgstr "Mahajanga"
+msgstr "Μαχατζάνγκα"
 
 #. A city in Madagascar
 msgid "Toamasina"
-msgstr "Toamasina"
+msgstr "Τοαμασίνα"
 
 #. A city in Madagascar
 msgid "Tolanaro"
-msgstr "Tolanaro"
+msgstr "Τολαναρό"
 
 #. A city in Malaysia
 msgid "Bintulu"
-msgstr "Bintulu"
+msgstr "Μπιντούλου"
 
 #. A city in Malaysia
 msgctxt "City in Malaysia"
 msgid "George Town"
-msgstr "George Town"
+msgstr "Τζορτζ Τάουν"
 
 #. A city in Malaysia
 msgid "Johor Bahru"
-msgstr "Johor Bahru"
+msgstr "Τζοχόρ Μπάρου"
 
 #. A city in Malaysia
 msgid "Klang"
-msgstr "Klang"
+msgstr "Κλανγκ"
 
 #. A city in Malaysia
 msgid "Kota Baharu"
-msgstr "Kota Baharu"
+msgstr "Κότα Μπάρου"
 
 #. A city in Malaysia
 msgid "Kota Kinabalu"
-msgstr "Kota Kinabalu"
+msgstr "Κότα Κιναμπάλου"
 
 #. A city in Malaysia
 msgid "Kuah"
-msgstr "Kuah"
+msgstr "Κουάχ"
 
 #. The capital of Malaysia
 msgid "Kuala Lumpur"
@@ -10484,48 +10341,48 @@ msgstr "Κουάλα Λουμπούρ"
 
 #. A city in Malaysia
 msgid "Kuantan"
-msgstr "Kuantan"
+msgstr "Κουαντάν"
 
 #. A city in Malaysia
 msgid "Kuching"
-msgstr "Kuching"
+msgstr "Κουτσίνγκ"
 
 #. A city in Malaysia
 msgid "Kudat"
-msgstr "Kudat"
+msgstr "Κουντάτ"
 
 #. A city in Malaysia
 msgid "Melaka"
-msgstr "Melaka"
+msgstr "Μαλάκα"
 
 #. A city in Malaysia
 msgid "Miri"
-msgstr "Miri"
+msgstr "Μίρι"
 
 #. A city in Malaysia
 msgid "Sandakan"
-msgstr "Sandakan"
+msgstr "Σαντακάν"
 
 #. A city in Malaysia
 msgid "Sepang"
-msgstr "Sepang"
+msgstr "Σεπάνγκ"
 
 #. A city in Malaysia
 msgid "Sibu"
-msgstr "Sibu"
+msgstr "Σίμπου"
 
 #. A city in Malaysia
 msgid "Sitiawan"
-msgstr "Sitiawan"
+msgstr "Σιτιαβάν"
 
 #. A city in Malaysia
 msgid "Tawau"
-msgstr "Tawau"
+msgstr "Ταβάου"
 
 #. A city in Malaysia
 msgctxt "City in Malaysia"
 msgid "Victoria"
-msgstr "Victoria"
+msgstr "Βικτόρια"
 
 #. The capital of the Maldives.
 #. "Male" is the traditional English name.
@@ -10536,11 +10393,11 @@ msgstr "Μαλέ"
 
 #. A city in Malta
 msgid "Luqa"
-msgstr "Luqa"
+msgstr "Λούκα"
 
 #. The capital of Malta
 msgid "Valletta"
-msgstr "Βαλέττα"
+msgstr "Βαλέτα"
 
 #. The capital of the Marshall Islands
 msgid "Majuro"
@@ -10552,19 +10409,19 @@ msgstr "Φορ-ντε-Φρανς"
 
 #. A city in Martinique
 msgid "Le Lamentin"
-msgstr "Le Lamentin"
+msgstr "Λε Λαμαντέν"
 
 #. A city in Mauritania
 msgid "Nouadhibou"
-msgstr "Nouadhibou"
+msgstr "Νουαντίμπου"
 
 #. The capital of Mauritania
 msgid "Nouakchott"
-msgstr "Νουαξότ"
+msgstr "Νουακσότ"
 
 #. A city in Mauritius
 msgid "Plaisance"
-msgstr "Plaisance"
+msgstr "Πλεζάνς"
 
 #. The capital of Mauritius
 msgid "Port Louis"
@@ -10572,11 +10429,11 @@ msgstr "Πορ Λουί"
 
 #. A city in Mauritius
 msgid "Port Mathurin"
-msgstr "Port Mathurin"
+msgstr "Πορ Ματουρίν"
 
 #. A city in Mayotte
 msgid "Dzaoudzi"
-msgstr "Dzaoudzi"
+msgstr "Ντζαουντζί"
 
 #. The capital of Mayotte
 msgid "Mamoudzou"
@@ -10584,269 +10441,267 @@ msgstr "Μαμουτζού"
 
 #. A city in Guerrero in Mexico
 msgid "Acapulco"
-msgstr "Acapulco"
+msgstr "Ακαπούλκο"
 
 #. A city in Aguascalientes in Mexico
 msgctxt "City in Aguascalientes, Mexico"
 msgid "Aguascalientes"
-msgstr "Aguascaliantes"
+msgstr "Αγουασκαλιέντες"
 
 #. A city in Campeche in Mexico
 msgctxt "City in Campeche, Mexico"
 msgid "Campeche"
-msgstr "Campeche"
+msgstr "Καμπέτσε"
 
 #. A city in Quintana Roo in Mexico
 msgid "Cancún"
-msgstr "Cancún"
+msgstr "Κανκούν"
 
 #. A city in Campeche in Mexico
 msgid "Carmen"
-msgstr "Carmen"
+msgstr "Κάρμεν"
 
 #. A city in Quintana Roo in Mexico
 msgid "Chetumal"
-msgstr "Chetumal"
+msgstr "Τσετουμάλ"
 
 #. A city in Yucatán in Mexico
 msgid "Chichén-Itzá"
-msgstr "Chichén-Itzá"
+msgstr "Τσιτσέν Ιτζά"
 
 #. A city in Chihuahua in Mexico
 msgctxt "City in Chihuahua, Mexico"
 msgid "Chihuahua"
-msgstr "Chihuahua"
+msgstr "Τσιουάουα"
 
 #. A city in Chihuahua in Mexico.
 #. One of several cities in Mexico called "Juárez".
 #.
 msgid "Ciudad Juárez"
-msgstr "Ciudad Juárez"
+msgstr "Σιουδάδ Χουάρες"
 
 #. A city in Sonora in Mexico
 msgid "Ciudad Obregón"
-msgstr "Ciudad Obregón"
+msgstr "Σιουδάδ Ομπρεγόν"
 
 #. A city in Tamaulipas in Mexico
 msgid "Ciudad Victoria"
-msgstr "Ciudad Victoria"
+msgstr "Σιουδάδ Βικτόρια"
 
 #. A city in Colima in Mexico
 msgctxt "City in Colima, Mexico"
 msgid "Colima"
-msgstr "Colima"
+msgstr "Κολίμα"
 
 #. A city in Quintana Roo in Mexico
 msgid "Cozumel"
-msgstr "Cozumel"
+msgstr "Κοσουμέλ"
 
 #. A city in Morelos in Mexico
 msgid "Cuernavaca"
-msgstr "Cuernavaca"
+msgstr "Κουερναβάκα"
 
 #. A city in Sinaloa in Mexico
 msgid "Culiacán"
-msgstr "Culiacán"
+msgstr "Κουλιακάν"
 
 #. A city in Durango in Mexico
 msgctxt "City in Durango, Mexico"
 msgid "Durango"
-msgstr "Durango"
+msgstr "Ντουράνγκο"
 
 #. A city in Oaxaca in Mexico
 msgid "El Zapote"
-msgstr "El Zapote"
+msgstr "Ελ Σαπότε"
 
 #. A city in Jalisco in Mexico
 msgid "Guadalajara"
-msgstr "Guadalajara"
+msgstr "Γουαδαλαχάρα"
 
 #. A city in Sonora in Mexico
 msgid "Guaymas"
-msgstr "Guaymas"
+msgstr "Γκουάιμας"
 
 #. A city in Sonora in Mexico
 msgid "Hermosillo"
-msgstr "Hermosillo"
+msgstr "Ερμοσίο"
 
 #. A city in Guerrero in Mexico
 msgid "Ixtapa"
-msgstr "Ixtapa"
+msgstr "Ιστάπα"
 
 #. A city in Oaxaca in Mexico
 msgid "Ixtepec"
-msgstr "Ixtepec"
+msgstr "Ιξτεπέκ"
 
 #. A city in Baja California Sur in Mexico
 msgctxt "City in Baja California Sur, Mexico"
 msgid "La Paz"
-msgstr "La Paz"
+msgstr "Λα Παζ"
 
 #. A city in Oaxaca in Mexico
 msgid "Laguna Tepic"
-msgstr "Laguna Tepic"
+msgstr "Λαγκούνα Τεπίκ"
 
 #. A city in Guanajuato in Mexico
 msgctxt "City in Guanajuato, Mexico"
 msgid "León"
-msgstr "León"
+msgstr "Λεόν"
 
 #. A city in Baja California Sur in Mexico
 msgid "Loreto"
-msgstr "Loreto"
+msgstr "Λορέτο"
 
 #. A city in Sinaloa in Mexico
 msgid "Los Mochis"
-msgstr "Los Mochis"
+msgstr "Λος Μότσις"
 
 #. A city in Colima in Mexico
 msgctxt "City in Colima, Mexico"
 msgid "Manzanillo"
-msgstr "Manzanillo"
+msgstr "Μανσανίγιο"
 
 #. A city in Tamaulipas in Mexico
 msgid "Matamoros"
-msgstr "Matamoros"
+msgstr "Ματαμόρος"
 
 #. A city in Sinaloa in Mexico
 msgid "Mazatlán"
-msgstr "Mazatlán"
+msgstr "Μαζατλάν"
 
 #. A city in Baja California in Mexico
 msgid "Mexicali"
-msgstr "Mexicali"
+msgstr "Μεξικάλι"
 
 #. The capital of Mexico.
 #. "Mexico City" is the traditional English name.
 #. The local name in Spanish is "México".
 #.
 msgid "Mexico City"
-msgstr "Μεξικό, Πόλη του"
+msgstr "Πόλη του Μεξικού"
 
 #. A city in Veracruz in Mexico
 msgid "Minatitlán"
-msgstr "Minatitlán"
+msgstr "Μινατιτλάν"
 
 #. A city in Coahuila in Mexico
 msgid "Monclova"
-msgstr "Monclova"
+msgstr "Μονκλόβα"
 
 #. A city in Nuevo León in Mexico
 msgid "Monterrey"
-msgstr "Monterrey"
+msgstr "Μοντερρέι"
 
 #. A city in Michoacán in Mexico
 msgid "Morelia"
-msgstr "Morelia"
+msgstr "Μορέλια"
 
 #. A city in Yucatán in Mexico
 msgctxt "City in Yucatán, Mexico"
 msgid "Mérida"
-msgstr "Mérida"
+msgstr "Μέριδα"
 
 #. A city in Tamaulipas in Mexico
 msgid "Nuevo Laredo"
-msgstr "Nuevo Laredo"
+msgstr "Νουέβο Λαρέδο"
 
 #. A city in Oaxaca in Mexico
 msgctxt "City in Oaxaca, Mexico"
 msgid "Oaxaca"
-msgstr "Oaxaca"
+msgstr "Οαχάκα"
 
 #. A city in Coahuila in Mexico
 msgid "Piedras Negras"
-msgstr "Piedras Negras"
+msgstr "Πιέδρας Νέγκρας"
 
 #. A city in Veracruz in Mexico.
 #. One of several cities in Mexico called "Poza Rica".
 #.
 msgid "Poza Rica de Hidalgo"
-msgstr "Poza Rica de Hidalgo"
+msgstr "Πόζα Ρίκα ντε Ιδάλγο"
 
 #. A city in Puebla in Mexico
 msgctxt "City in Puebla, Mexico"
 msgid "Puebla"
-msgstr "Puebla"
+msgstr "Πουέμπλα"
 
 #. A city in Oaxaca in Mexico
 msgid "Puerto Escondido"
-msgstr "Puerto Escondido"
+msgstr "Πουέρτο Εσκονδίδο"
 
 #. A city in Jalisco in Mexico
 msgid "Puerto Vallarta"
-msgstr "Puerto Vallarta"
+msgstr "Πουέρτο Βαγιάρτα"
 
 #. A city in Querétaro in Mexico
 msgctxt "City in Querétaro, Mexico"
 msgid "Querétaro"
-msgstr "Querétaro"
+msgstr "Κερέταρο"
 
 #. A city in Tamaulipas in Mexico
 msgid "Reynosa"
-msgstr "Reynosa"
+msgstr "Ρεϊνόσα"
 
 #. A city in Coahuila in Mexico
 msgid "Saltillo"
-msgstr "Saltillo"
+msgstr "Σαλτίγιο"
 
 #. A city in Baja California Sur in Mexico
 msgid "San José del Cabo"
-msgstr "San José del Cabo"
+msgstr "Σαν Χοσέ ντελ Κάμπο"
 
 #. A city in San Luis Potosí in Mexico
 msgctxt "City in San Luis Potosí, Mexico"
 msgid "San Luis Potosí"
-msgstr "San Luis Potosí"
+msgstr "Σαν Λουίς Ποτοσί"
 
 #. A city in Tamaulipas in Mexico
 msgid "Tampico"
-msgstr "Tampico"
+msgstr "Ταμπίκο"
 
 #. A city in Chiapas in Mexico
 msgid "Tapachula"
-msgstr "Tapachula"
+msgstr "Ταπατσούλα"
 
 #. A city in Baja California in Mexico
 msgid "Tijuana"
-msgstr "Tijuana"
+msgstr "Τιχουάνα"
 
 #. A city in México in Mexico
 msgid "Toluca"
-msgstr "Toluca"
+msgstr "Τολούκα"
 
 #. A city in Coahuila in Mexico
 msgid "Torreón"
-msgstr "Torreón"
+msgstr "Τορεόν"
 
 #. A city in Chiapas in Mexico
 msgid "Tuxtla"
-msgstr "Tuxtla"
+msgstr "Τούξτλα"
 
 #. A city in Michoacán in Mexico
 msgid "Uruapan"
-msgstr "Uruapan"
+msgstr "Ουρουαπάν"
 
 #. A city in Veracruz in Mexico
 msgctxt "City in Veracruz, Mexico"
 msgid "Veracruz"
-msgstr "Veracruz"
+msgstr "Βερακρούς"
 
 #. A city in Tabasco in Mexico
 msgid "Villahermosa"
-msgstr "Villahermosa"
+msgstr "Βιγιαερμόσα"
 
 #. A city in Zacatecas in Mexico
 msgctxt "City in Zacatecas, Mexico"
 msgid "Zacatecas"
-msgstr "Zacatecas"
+msgstr "Ζακατέκας"
 
 #. The capital of the Federated States of Micronesia
 msgid "Palikir"
 msgstr "Παλικίρ"
 
 #. The capital of Moldova
-#, fuzzy
-#| msgid "Chişinău"
 msgid "Chișinău"
 msgstr "Κισινάου"
 
@@ -10856,7 +10711,7 @@ msgid "Monaco"
 msgstr "Μονακό"
 
 #. The capital of Mongolia.
-#. The name is also written "Улаанбаатар".
+#. The name is also written "Улаανбаатар".
 #.
 msgid "Ulaanbaatar"
 msgstr "Ουλάν Μπατόρ"
@@ -10867,43 +10722,43 @@ msgstr "Ποντγκόριτσα"
 
 #. A city in Montenegro
 msgid "Tivat"
-msgstr "Tivat"
+msgstr "Τίβατ"
 
 #. A city in Morocco
 msgid "Agadir"
-msgstr "Agadir"
+msgstr "Αγκαντίρ"
 
 #. A city in Morocco
 msgid "Al Hoceima"
-msgstr "Al Hoceima"
+msgstr "Αλ Χοσέιμα"
 
 #. A city in Morocco
 msgid "Fes"
-msgstr "Fes"
+msgstr "Φεζ"
 
 #. A city in Morocco
 msgid "Marrakech"
-msgstr "Marrakech"
+msgstr "Μαρακές"
 
 #. A city in Morocco
 msgid "Meknes"
-msgstr "Meknes"
+msgstr "Μεκνές"
 
 #. A city in Morocco
 msgid "Nador"
-msgstr "Nador"
+msgstr "Ναντόρ"
 
 #. A city in Morocco
 msgid "Nouaseur"
-msgstr "Nouaseur"
+msgstr "Νουασέρ"
 
 #. A city in Morocco
 msgid "Ouarzazat"
-msgstr "Ouarzazat"
+msgstr "Ουαρζαζάτ"
 
 #. A city in Morocco
 msgid "Oujda"
-msgstr "Oujda"
+msgstr "Ούτζντα"
 
 #. The capital of Morocco
 msgid "Rabat"
@@ -10914,23 +10769,23 @@ msgstr "Ραμπάτ"
 #. The local name is "Tanger".
 #.
 msgid "Tangier"
-msgstr "Tangier"
+msgstr "Ταγγέρη"
 
 #. A city in Morocco
 msgid "Tetouan"
-msgstr "Tetouan"
+msgstr "Τετουάν"
 
 #. A city in Mozambique
 msgid "Beira"
-msgstr "Beira"
+msgstr "Μπέιρα"
 
 #. A city in Mozambique
 msgid "Chimoio"
-msgstr "Chimoio"
+msgstr "Τσιμόιο"
 
 #. A city in Mozambique
 msgid "Lichinga"
-msgstr "Lichinga"
+msgstr "Λιτσίνγκα"
 
 #. The capital of Mozambique
 msgid "Maputo"
@@ -10938,15 +10793,15 @@ msgstr "Μαπούτο"
 
 #. A city in Mozambique
 msgid "Nampula"
-msgstr "Nampula"
+msgstr "Ναμπούλα"
 
 #. A city in Mozambique
 msgid "Pemba"
-msgstr "Pemba"
+msgstr "Πέμπα"
 
 #. A city in Mozambique
 msgid "Quelimane"
-msgstr "Quelimane"
+msgstr "Κελιμάνε"
 
 #. The capital of Myanmar.
 #. "Rangoon" is the traditional English name.
@@ -10966,188 +10821,162 @@ msgstr "Κατμαντού"
 
 #. A city in the Netherlands
 msgid "Alkmaar"
-msgstr ""
+msgstr "Άλκμααρ"
 
 #. A city in the Netherlands
 msgid "Almelo"
-msgstr ""
+msgstr "Άλμελο"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Almería"
 msgid "Almere"
-msgstr "Almería"
+msgstr "Άλμερε"
 
 #. A city in the Netherlands
 msgid "Alphen aan den Rijn"
-msgstr ""
+msgstr "Άλφεν αν ντεν Ράιν"
 
 #. A city in the Netherlands
 msgid "Amersfoort"
-msgstr ""
+msgstr "Άμερσφορτ"
 
 #. The capital of the Netherlands
 msgid "Amsterdam"
 msgstr "Άμστερνταμ"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Sheldon"
 msgid "Apeldoorn"
-msgstr "Sheldon"
+msgstr "Άπελντοορν"
 
 #. A city in the Netherlands
 msgid "Arnhem"
-msgstr ""
+msgstr "Άρνεμ"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Massena"
 msgid "Assen"
-msgstr "Massena"
+msgstr "Άσσεν"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Bredeck"
 msgid "Breda"
-msgstr "Bredeck"
+msgstr "Μπρέντα"
 
 #. A city in the Netherlands
 msgid "Delft"
-msgstr ""
+msgstr "Ντελφτ"
 
 #. A city in the Netherlands.
 #. Officially 's-Hertogenbosch, but Den Bosch is more common
 msgid "Den Bosch"
-msgstr ""
+msgstr "Ντεν Μπος"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Dodge Center"
 msgid "Deventer"
-msgstr "Dodge Center"
+msgstr "Ντέβεντερ"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Woensdrecht"
 msgid "Dordrecht"
-msgstr "Woensdrecht"
+msgstr "Ντόρντρεχτ"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Eldoret"
 msgid "Ede"
-msgstr "Eldoret"
+msgstr "Έντε"
 
 #. A city in the Netherlands
 msgid "Eindhoven"
-msgstr "Eindhoven"
+msgstr "Αϊντχόφεν"
 
 #. A city in the Netherlands
 msgid "Emmen"
-msgstr ""
+msgstr "Έμμεν"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Liebenscheid"
 msgid "Enschede"
-msgstr "Liebenscheid"
+msgstr "Ένσχεντε"
 
 #. A city in the Netherlands
 msgid "Gouda"
-msgstr ""
+msgstr "Χάουντα"
 
 #. A city in the Netherlands
 msgid "Groningen"
-msgstr "Groningen"
+msgstr "Χρόνινγκεν"
 
 #. A city in the Netherlands
 msgid "Haarlem"
-msgstr ""
+msgstr "Χάαρλεμ"
 
 #. A city in the Netherlands
 msgid "Heerlen"
-msgstr ""
+msgstr "Χέερλεν"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Hammond"
 msgid "Helmond"
-msgstr "Hammond"
+msgstr "Χέλμοντ"
 
 #. A city in the Netherlands
 msgid "Hengelo"
-msgstr ""
+msgstr "Χένγκελο"
 
 #. A city in the Netherlands
 msgid "Hilversum"
-msgstr ""
+msgstr "Χίλβερσουμ"
 
 #. A city in the Netherlands
 msgid "Hoofddorp"
-msgstr ""
+msgstr "Χόφντορπ"
 
 #. A city in the Netherlands
 msgid "Hoorn"
-msgstr ""
+msgstr "Χόορν"
 
 #. A city in the Netherlands
 msgid "Leeuwarden"
-msgstr "Leeuwarden"
+msgstr "Λέουβαρντεν"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Meriden"
 msgid "Leiden"
-msgstr "Meriden"
+msgstr "Λέιντεν"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Halmstad"
 msgid "Lelystad"
-msgstr "Halmstad"
+msgstr "Λέλυσταντ"
 
 #. A city in the Netherlands
 msgid "Maastricht"
-msgstr "Maastricht"
+msgstr "Μάαστριχτ"
 
 #. A city in the Netherlands
 msgid "Nijmegen"
-msgstr ""
+msgstr "Ναϊμέχεν"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Odessa"
 msgid "Oss"
-msgstr "Odessa"
+msgstr "Όσσεν"
 
 #. A city in the Netherlands
 msgid "Roosendaal"
-msgstr ""
+msgstr "Ρόουσενταλ"
 
 #. A city in the Netherlands
 msgid "Rotterdam"
-msgstr "Rotterdam"
+msgstr "Ρότερνταμ"
 
 #. A city in the Netherlands
 msgid "Schiedam"
-msgstr ""
+msgstr "Σχιντάμ"
 
 #. A city in the Netherlands
 msgid "Sittard"
-msgstr ""
+msgstr "Σίταρντ"
 
 #. A city in the Netherlands.
 #. Official Dutch: 's-Gravenhage
 #. Colloquial Dutch: Den Haag
 msgid "The Hague"
-msgstr "The Hague"
+msgstr "Χάγη"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Limburg"
 msgid "Tilburg"
-msgstr "Limburg"
+msgstr "Τίλμπουρχ"
 
 #. A city in the Netherlands
 msgid "Utrecht"
@@ -11155,43 +10984,39 @@ msgstr "Ουτρέχτη"
 
 #. A city in the Netherlands
 msgid "Venlo"
-msgstr ""
+msgstr "Βένλο"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Sanandaj"
 msgid "Zaandam"
-msgstr "Sanandaj"
+msgstr "Ζάανταμ"
 
 #. A city in the Netherlands
 msgid "Zoetermeer"
-msgstr ""
+msgstr "Ζούτερμερ"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Bolle"
 msgid "Zwolle"
-msgstr "Bolle"
+msgstr "Ζβόλε"
 
 #. A city in the Netherlands Antilles
 msgid "Benners"
-msgstr "Benners"
+msgstr "Μπένερς"
 
 #. A city in the Netherlands Antilles
 msgid "Cupe Coy"
-msgstr "Cupe Coy"
+msgstr "Κουπ Κόι"
 
 #. A city in the Netherlands Antilles
 msgid "Dorp Nikiboko"
-msgstr "Dorp Nikiboko"
+msgstr "Ντορπ Νικιμπόκο"
 
 #. A city in the Netherlands Antilles
 msgid "Gato"
-msgstr "Gato"
+msgstr "Γκάτο"
 
 #. A city in New Caledonia
 msgid "Karenga"
-msgstr "Karenga"
+msgstr "Καρένγκα"
 
 #. The capital of New Caledonia
 msgid "Nouméa"
@@ -11199,21 +11024,19 @@ msgstr "Νουμέα"
 
 #. A city in New Zealand
 msgid "Auckland"
-msgstr "Auckland"
+msgstr "Όκλαντ"
 
 #. A city in New Zealand
 msgid "Christchurch"
-msgstr "Christchurch"
+msgstr "Κράισττσερτς"
 
 #. A city in New Zealand
-#, fuzzy
-#| msgid "Medina"
 msgid "Dunedin"
-msgstr "Medina"
+msgstr "Ντανεντίν"
 
 #. A city in New Zealand
 msgid "New Plymouth"
-msgstr "Νιου Πλύμουθ"
+msgstr "Νιού Πλύμουθ"
 
 #. The capital of New Zealand
 msgid "Wellington"
@@ -11221,19 +11044,19 @@ msgstr "Ουέλλινγκτον"
 
 #. A city in Nicaragua
 msgid "Bluefields"
-msgstr "Bluefields"
+msgstr "Μπλούφιλντς"
 
 #. A city in Nicaragua
 msgid "Chinandega"
-msgstr "Chinandega"
+msgstr "Τσιναντέγκα"
 
 #. A city in Nicaragua
 msgid "Jinotega"
-msgstr "Jinotega"
+msgstr "Χινοτέγκα"
 
 #. A city in Nicaragua
 msgid "Juigalpa"
-msgstr "Juigalpa"
+msgstr "Χουϊγάλπα"
 
 #. The capital of Nicaragua
 msgid "Managua"
@@ -11241,15 +11064,15 @@ msgstr "Μανάγκουα"
 
 #. A city in Nicaragua
 msgid "Puerto Cabezas"
-msgstr "Puerto Cabezas"
+msgstr "Πουέρτο Καμπέσας"
 
 #. A city in Nicaragua
 msgid "Rivas"
-msgstr "Rivas"
+msgstr "Ρίβας"
 
 #. A city in Niger
 msgid "Agadez"
-msgstr "Agadez"
+msgstr "Αγκαντέζ"
 
 #. The capital of Niger
 msgid "Niamey"
@@ -11257,26 +11080,26 @@ msgstr "Νιαμέι"
 
 #. A city in Niger
 msgid "Zinder"
-msgstr "Zinder"
+msgstr "Ζιντέρ"
 
 msgid "Abuja"
-msgstr "Abuja"
+msgstr "Αμπούτζα"
 
 #. A city in the Lagos Metropolitan Area, in Nigeria
 msgid "Ikeja"
-msgstr "Ikeja"
+msgstr "Ικέτζα"
 
 #. A city in Nigeria
 msgid "Ilorin"
-msgstr "Ilorin"
+msgstr "Ιλόριν"
 
 #. A city in Nigeria
 msgid "Kaduna"
-msgstr "Kaduna"
+msgstr "Καντούνα"
 
 #. A city in Nigeria
 msgid "Kano"
-msgstr "Kano"
+msgstr "Κάνο"
 
 #. A city and metropolitan area in Nigeria
 msgid "Lagos"
@@ -11284,7 +11107,7 @@ msgstr "Λάγος"
 
 #. A city in Nigeria
 msgid "Port Harcourt"
-msgstr "Port Harcourt"
+msgstr "Πορτ Χάρκορτ"
 
 #. The capital of Niue
 msgid "Alofi"
@@ -11293,137 +11116,135 @@ msgstr "Αλόφι"
 #. A city in Norfolk Island
 msgctxt "City in Norfolk Island"
 msgid "Kingston"
-msgstr "Kingston"
+msgstr "Κίνγκστον"
 
 #. The capital of North Korea.
-#. The local name in Korean is "평양".
-#.
 msgid "Pyongyang"
 msgstr "Πιονγκ Γιανγκ"
 
 #. A city in the Northern Mariana Islands
 msgid "Chalan Kanoa"
-msgstr "Chalan Kanoa"
+msgstr "Τσαλάν Κανόα"
 
 #. A city in Norway
 msgid "Alta"
-msgstr "Alta"
+msgstr "Άλτα"
 
 #. A city in Norway
 msgid "Berlevåg"
-msgstr "Berlevåg"
+msgstr "Μπέρλεβαγκ"
 
 #. A city in Norway
 msgid "Bodø"
-msgstr "Bodø"
+msgstr "Μπόντε"
 
 #. A city in Norway
 msgid "Bolle"
-msgstr "Bolle"
+msgstr "Μπόλε"
 
 #. A city in Norway
 msgid "Boltåsen"
-msgstr "Boltåsen"
+msgstr "Μπολτόσεν"
 
 #. A city in Norway
 msgid "Brønnøysund"
-msgstr "Brønnøysund"
+msgstr "Μπρένεϊσουντ"
 
 #. A city in Norway
 msgid "Båtsfjord"
-msgstr "Båtsfjord"
+msgstr "Μπότσφιορδ"
 
 #. A city in Norway
 msgid "Dalem"
-msgstr "Dalem"
+msgstr "Ντάλεμ"
 
 #. A city in Norway
 msgid "Djupdalen"
-msgstr "Djupdalen"
+msgstr "Ντιουπντάλεν"
 
 #. A city in Norway
 msgid "Eldskog"
-msgstr "Eldskog"
+msgstr "Έλντσκογκ"
 
 #. A city in Norway
 msgid "Fagernes"
-msgstr "Fagernes"
+msgstr "Φάγκερνες"
 
 #. A city in Norway
 msgid "Fiskenes"
-msgstr "Fiskenes"
+msgstr "Φίσκενες"
 
 #. A city in Norway
 msgid "Florø"
-msgstr "Florø"
+msgstr "Φλόρε"
 
 #. A city in Norway
 msgid "Førde"
-msgstr "Førde"
+msgstr "Φέρντε"
 
 #. A city in Norway
 msgid "Gardermoen"
-msgstr "Gardermoen"
+msgstr "Γκαρντερμόεν"
 
 #. A city in Norway
 msgid "Hammerfest"
-msgstr "Hammerfest"
+msgstr "Χάμερφεστ"
 
 #. A city in Norway
 msgid "Hasvik"
-msgstr "Hasvik"
+msgstr "Χάσβικ"
 
 #. A city in Norway
 msgid "Haugesund"
-msgstr "Haugesund"
+msgstr "Χάουγκεσουντ"
 
 #. A city in Norway
 msgid "Holm"
-msgstr "Holm"
+msgstr "Χολμ"
 
 #. A city in Norway
 msgid "Honningsvåg"
-msgstr "Honningsvåg"
+msgstr "Χόνινγκσβαγκ"
 
 #. A city in Norway
 msgid "Kirkenes"
-msgstr "Kirkenes"
+msgstr "Κίρκενες"
 
 #. A city in Norway
 msgid "Kjevik"
-msgstr "Kjevik"
+msgstr "Κγιέβικ"
 
 #. A city in Norway
 msgid "Kristiansund"
-msgstr "Kristiansund"
+msgstr "Κρίστιανσουντ"
 
 #. A city in Norway
 msgid "Mehamn"
-msgstr "Mehamn"
+msgstr "Μεχάμν"
 
 #. A city in Norway
 msgid "Molde"
-msgstr "Molde"
+msgstr "Μόλντε"
 
 #. A city in Norway
 msgid "Mosjøen"
-msgstr "Mosjøen"
+msgstr "Μόσιεν"
 
 #. A city in Norway
 msgid "Namsos"
-msgstr "Namsos"
+msgstr "Νάμσος"
 
 #. A city in Norway
 msgid "Narvik"
-msgstr "Narvik"
+msgstr "Νάρβικ"
 
 #. A city in Norway
 msgid "Notodden"
-msgstr "Notodden"
+msgstr "Νοτόντεν"
 
 #. A city in Norway
 msgid "Oseberg"
-msgstr "Oseberg"
+msgstr "Όσεμπεργκ"
 
 #. The capital of Norway
 msgid "Oslo"
@@ -11431,94 +11252,91 @@ msgstr "Όσλο"
 
 #. A city in Norway
 msgid "Rygge"
-msgstr "Rygge"
+msgstr "Ρίγκε"
 
 #. A city in Norway
 msgid "Røros"
-msgstr "Røros"
+msgstr "Ρέρος"
 
 #. A city in Norway
 msgid "Rørvik"
-msgstr "Rørvik"
+msgstr "Ρέρβικ"
 
 #. A city in Norway
 msgid "Røssvoll"
-msgstr "Røssvoll"
+msgstr "Ρέσβολ"
 
 #. A city in Norway
 msgid "Røst"
-msgstr "Røst"
+msgstr "Ρεστ"
 
 #. A city in Norway
 msgid "Sandane"
-msgstr "Sandane"
+msgstr "Σαντάνε"
 
 #. A city in Norway
 msgid "Skagen"
-msgstr "Skagen"
+msgstr "Σκάγκεν"
 
 #. A city in Norway
 msgid "Skien"
-msgstr "Skien"
+msgstr "Σίεν"
 
 #. A city in Norway
 msgid "Sola"
-msgstr "Sola"
+msgstr "Σόλα"
 
 #. A city in Norway
 msgid "Stokka"
-msgstr "Stokka"
+msgstr "Στόκα"
 
 #. A city in Norway
 msgid "Svartnes"
-msgstr "Svartnes"
+msgstr "Σβάρτνες"
 
 #. A city in Norway
 msgid "Svolvær"
-msgstr "Svolvær"
+msgstr "Σβόλβερ"
 
 #. A city in Norway
 msgid "Sørkjosen"
-msgstr "Sørkjosen"
+msgstr "Σέρκγιοσεν"
 
 #. A city in Norway
 msgid "Torp"
-msgstr "Torp"
+msgstr "Τορπ"
 
 #. A city in Norway
 msgid "Tromsø"
-msgstr "Tromsø"
+msgstr "Τρόμσε"
 
 #. A city in Norway
 msgid "Trondheim"
-msgstr "Trondheim"
+msgstr "Τρόντχαϊμ"
 
 #. A city in Norway
 msgid "Vadsø"
-msgstr "Vadsø"
+msgstr "Βάντσε"
 
 #. A city in Norway
 msgid "Ålesund"
-msgstr "Ålesund"
+msgstr "Όλεσουντ"
 
 #. A city in Norway
 msgid "Ørsta"
-msgstr "Ørsta"
+msgstr "Έρστα"
 
 #. A city in Oman
 msgid "Mu'askar al Murtafi'ah"
-msgstr "Mu'askar al Murtafi'ah"
+msgstr "Μουασκάρ αλ Μουρταφία"
 
 #. The capital of Oman.
-#. "Muscat" is the traditional English name.
-#. The local name in Arabic is "Masqat".
-#.
 msgid "Muscat"
 msgstr "Μουσκάτ"
 
 #. A city in Oman
 msgid "Salalah"
-msgstr "Salalah"
+msgstr "Σαλάλα"
 
 #. The capital of Pakistan
 msgid "Islamabad"
@@ -11526,29 +11344,27 @@ msgstr "Ισλαμαμπάντ"
 
 #. A city in Pakistan
 msgid "Karachi"
-msgstr "Karachi"
+msgstr "Καράτσι"
 
 #. A city in Pakistan
 msgid "Lahore"
-msgstr "Lahore"
+msgstr "Λαχόρη"
 
 #. A city in Pakistan
 msgid "Multan"
-msgstr ""
+msgstr "Μουλτάν"
 
 #. A city in Pakistan
 msgid "Nawabshah"
-msgstr "Nawabshah"
+msgstr "Ναβαμπσάχ"
 
 #. A city in Pakistan (KPK Capital)
-#, fuzzy
-#| msgid "Delaware"
 msgid "Peshawar"
-msgstr "Ντελαγουέρ"
+msgstr "Πεσάβαρ"
 
 #. A city in Pakistan (Balochistan Capital)
 msgid "Quetta"
-msgstr ""
+msgstr "Κουέτα"
 
 #. The capital of Palau
 msgid "Koror"
@@ -11560,68 +11376,59 @@ msgstr "Μελεκέοκ"
 
 #. A city in Palestinian
 msgid "Al Yāmūn"
-msgstr ""
+msgstr "Αλ Γιαμούν"
 
 #. A city in Palestine
-#, fuzzy
-#| msgid "Bethel"
 msgid "Bethlehem"
-msgstr "Bethel"
+msgstr "Βηθλεέμ"
 
 #. A city in Palestine
 msgid "Gaza"
-msgstr ""
+msgstr "Γάζα"
 
 #. A city in Palestine
 msgid "Gaza Strip"
-msgstr ""
+msgstr "Λωρίδα της Γάζας"
 
 #. A city in Palestine
-#, fuzzy
-#| msgctxt "City in Newfoundland and Labrador, Canada"
-#| msgid "Hebron"
 msgid "Hebron"
-msgstr "Hebron"
+msgstr "Χεβρώνα"
 
 #. A city in Palestine
 msgid "Khan Yunis"
-msgstr ""
+msgstr "Χαν Γιουνίς"
 
 #. A city in Palestine
 msgid "Nablus"
-msgstr ""
+msgstr "Ναμπλούς"
 
 #. A city in Palestine
 msgid "Rafah"
-msgstr ""
+msgstr "Ράφα"
 
 #. A city in Palestine
-#, fuzzy
-#| msgid "Tallaght"
 msgid "Ramallah"
-msgstr "Τάλατ"
+msgstr "Ραμάλα"
 
 #. A city in Palestine
-#, fuzzy
-#| msgid "West Bend"
 msgid "West Bank"
-msgstr "West Bend"
+msgstr "Δυτική Όχθη"
 
 #. A city in Panama
 msgid "David"
-msgstr "David"
+msgstr "Δαυίδ"
 
 #. A city in Panama
 msgid "Fuerte Kobbe"
-msgstr "Fuerte Kobbe"
+msgstr "Φουέρτε Κόμπε"
 
 #. The capital of Panama
 msgid "Panamá"
-msgstr "Παναμά, Πόλη του"
+msgstr "Πόλη του Παναμά"
 
 #. A city in Panama
 msgid "Tocumen"
-msgstr "Tocumen"
+msgstr "Τοκουμέν"
 
 #. The capital of Papua New Guinea
 msgid "Port Moresby"
@@ -11629,39 +11436,39 @@ msgstr "Πορτ Μόρεσμπι"
 
 #. The capital of Paraguay
 msgid "Asunción"
-msgstr "Ασουνθιόν"
+msgstr "Ασουνσιόν"
 
 #. A city in Paraguay
 msgid "Colonia Félix de Azara"
-msgstr "Colonia Félix de Azara"
+msgstr "Κολόνια Φέλιξ ντε Αζάρα"
 
 #. A city in Peru
 msgid "Andahuaylas"
-msgstr "Andahuaylas"
+msgstr "Ανταγουάιλας"
 
 #. A city in Peru
 msgid "Arequipa"
-msgstr "Arequipa"
+msgstr "Αρεκίπα"
 
 #. A city in Peru
 msgid "Ayacucho"
-msgstr "Ayacucho"
+msgstr "Αγιακούτσο"
 
 #. A city in Peru
 msgid "Chiclayo"
-msgstr "Chiclayo"
+msgstr "Τσικλάγιο"
 
 #. A city in Peru
 msgid "Cusco"
-msgstr "Cusco"
+msgstr "Κούσκο"
 
 #. A city in Peru
 msgid "Iquitos"
-msgstr "Iquitos"
+msgstr "Ικίτος"
 
 #. A city in Peru
 msgid "Juliaca"
-msgstr "Juliaca"
+msgstr "Χουλιάκα"
 
 #. The capital of Peru
 msgctxt "City in Peru"
@@ -11670,47 +11477,47 @@ msgstr "Λίμα"
 
 #. A city in Peru
 msgid "Pisco"
-msgstr "Pisco"
+msgstr "Πίσκο"
 
 #. A city in Peru
 msgid "Pucallpa"
-msgstr "Pucallpa"
+msgstr "Πουκάλπα"
 
 #. A city in Peru
 msgid "Puerto Maldonado"
-msgstr "Puerto Maldonado"
+msgstr "Πουέρτο Μαλδονάδο"
 
 #. A city in Peru
 msgid "Tacna"
-msgstr "Tacna"
+msgstr "Τάκνα"
 
 #. A city in Peru
 msgid "Talara"
-msgstr "Talara"
+msgstr "Ταλάρα"
 
 #. A city in Peru
 msgid "Tarapoto"
-msgstr "Tarapoto"
+msgstr "Ταραπότο"
 
 #. A city in Peru
 msgid "Trujillo"
-msgstr "Trujillo"
+msgstr "Τρουχίγιο"
 
 #. A city in Peru
 msgid "Tumbes"
-msgstr "Tumbes"
+msgstr "Τούμπες"
 
 #. A city in the Philippines
 msgid "Angeles"
-msgstr "Angeles"
+msgstr "Άνχελες"
 
 #. A city in the Philippines
 msgid "Davao"
-msgstr "Davao"
+msgstr "Νταβάο"
 
 #. A city in the Philippines
 msgid "Laoag"
-msgstr "Laoag"
+msgstr "Λαοάγκ"
 
 #. The capital of the Philippines
 msgid "Manila"
@@ -11718,22 +11525,21 @@ msgstr "Μανίλα"
 
 #. A city in the Philippines
 msgid "Masbate"
-msgstr "Masbate"
+msgstr "Μασμπάτε"
 
 #. A city in the Philippines
 msgid "Pildira"
-msgstr "Pildira"
+msgstr "Πιλντίρα"
 
 #. A city in the Philippines
 msgid "Subic"
-msgstr "Subic"
+msgstr "Σούμπικ"
 
 #. A city in the Philippines
 msgid "Zamboanga City"
-msgstr "Zamboanga City"
+msgstr "Πόλη Ζαμποάνγκα"
 
-#. A city in Poland:
-#. https://en.wikipedia.org/wiki/Bielsko-Bia%C5%82a
+#. A city in Poland
 msgid "Bielsko-Biala"
 msgstr "Μπιέλσκο-Μπιάλα"
 
@@ -11743,27 +11549,27 @@ msgstr "Μπίντγκοστς"
 
 #. A city in Poland
 msgid "Bytom"
-msgstr ""
+msgstr "Μπίτομ"
 
 #. A city in Poland
 msgid "Chorzów"
-msgstr ""
+msgstr "Χόζουφ"
 
 #. A city in Poland
 msgid "Gdańsk"
-msgstr "Gdańsk"
+msgstr "Γκντανσκ"
 
 #. A city in Poland
 msgid "Gliwice"
-msgstr ""
+msgstr "Γκλιβίτσε"
 
 #. A city in Poland
 msgid "Katowice"
-msgstr "Katowice"
+msgstr "Κατοβίτσε"
 
 #. A city in Poland
 msgid "Kraków"
-msgstr "Kraków"
+msgstr "Κρακοβία"
 
 #. A city in Poland
 msgid "Lublin"
@@ -11775,7 +11581,7 @@ msgstr "Όλστιν"
 
 #. A city in Poland
 msgid "Poznań"
-msgstr "Poznań"
+msgstr "Πόζναν"
 
 #. A city in Poland
 msgid "Radom"
@@ -11783,31 +11589,28 @@ msgstr "Ράντομ"
 
 #. A city in Poland
 msgid "Rzeszów"
-msgstr "Rzeszów"
+msgstr "Ζέσουφ"
 
 #. A city in Poland
 msgid "Szczecin"
-msgstr "Szczecin"
+msgstr "Στσέτσιν"
 
 #. A city in Poland
 msgid "Tarnowskie Góry"
-msgstr ""
+msgstr "Ταρνόφσκιε Γκούρι"
 
 #. The capital of Poland.
-#. "Warsaw" is the traditional English name.
-#. The local name in Polish is "Warszawa".
-#.
 msgctxt "City in Poland"
 msgid "Warsaw"
 msgstr "Βαρσοβία"
 
 #. A city in Poland
 msgid "Wrocław"
-msgstr "Wrocław"
+msgstr "Βρότσλαβ"
 
 #. A city in Poland
 msgid "Zabrze"
-msgstr ""
+msgstr "Ζάμπζε"
 
 #. A city in Poland
 msgid "Zielona Góra"
@@ -11815,444 +11618,369 @@ msgstr "Ζιελόνα Γκόρα"
 
 #. A city in Poland
 msgid "Łódź"
-msgstr "Łódź"
+msgstr "Λοτζ"
 
 #. A city in Portugal
 msgid "Beja"
-msgstr "Beja"
+msgstr "Μπέζα"
 
 #. A city in Portugal
 msgid "Castelo Branco"
-msgstr "Castelo Branco"
+msgstr "Καστέλο Μπράνκο"
 
 #. A city in Portugal
 msgid "Faro"
-msgstr "Faro"
+msgstr "Φάρο"
 
 #. A city in Portugal
 msgid "Flor da Rosa"
-msgstr "Flor da Rosa"
+msgstr "Φλόρ ντα Ρόζα"
 
 #. A city in Portugal
 msgid "Lajes"
-msgstr "Lajes"
+msgstr "Λάζες"
 
 #. The capital of Portugal.
-#. "Lisbon" is the traditional English name.
-#. The local name in Portuguese is "Lisboa".
-#.
 msgid "Lisbon"
 msgstr "Λισαβόνα"
 
 #. A city in Portugal
 msgid "Monte Real"
-msgstr "Monte Real"
+msgstr "Μόντε Ρεάλ"
 
 #. A city in Portugal
 msgid "Montijo"
-msgstr "Montijo"
+msgstr "Μοντίζο"
 
 #. A city in Portugal
 msgid "Ovar"
-msgstr "Ovar"
+msgstr "Οβάρ"
 
 #. A city in Portugal
 msgid "Ponta Delgada"
-msgstr "Ponta Delgada"
+msgstr "Πόντα Ντελγκάντα"
 
 #. A city in Portugal
 msgid "Porto"
-msgstr "Porto"
+msgstr "Πόρτο"
 
 #. A city in Portugal
 msgid "Porto Santo"
-msgstr "Porto Santo"
+msgstr "Πόρτο Σάντο"
 
 #. A city in Portugal.
-#. One of several cities in Portugal called "Santa Cruz".
-#.
 msgid "Santa Cruz das Flores"
-msgstr "Santa Cruz das Flores"
+msgstr "Σάντα Κρουζ ντας Φλόρες"
 
 #. A city in Portugal
 msgid "Sintra"
-msgstr "Sintra"
+msgstr "Σίντρα"
 
 #. A city in Portugal
 msgid "Água de Pena"
-msgstr "Água de Pena"
+msgstr "Άγκουα ντε Πένα"
 
 #. A city in Puerto Rico
 msgid "Carolina"
-msgstr "Carolina"
+msgstr "Καρολίνα"
 
 #. A city in Puerto Rico
 msgid "Ponce"
-msgstr "Ponce"
+msgstr "Πόνσε"
 
 #. A city in Puerto Rico
 msgid "Rafael Hernandez"
-msgstr "Rafael Hernandez"
+msgstr "Ραφαέλ Ερνάντες"
 
 #. A city in Puerto Rico
 msgid "San Juan"
-msgstr "San Juan"
+msgstr "Σαν Χουάν"
 
 #. The capital of Qatar.
-#. "Doha" is the traditional English name.
-#. The local name in Arabic is "Ad Dawhah / الدوحة".
-#.
 msgid "Doha"
 msgstr "Ντόχα"
 
 #. A county capital in Romania
-#, fuzzy
-#| msgid "Albania"
 msgid "Alba Iulia"
-msgstr "Αλβανία"
+msgstr "Άλμπα Ιούλια"
 
 #. A county capital in Romania
-#, fuzzy
-#| msgctxt "City in Egypt"
-#| msgid "Alexandria"
 msgid "Alexandria"
-msgstr "Alexandria"
+msgstr "Αλεξάνδρεια (Ρουμανία)"
 
 #. A county capital in Romania
 msgid "Arad"
-msgstr "Arad"
+msgstr "Αράντ"
 
 #. A county capital in Romania
 msgid "Bacău"
-msgstr "Bacău"
+msgstr "Μπακάου"
 
 #. A county capital in Romania
 msgid "Baia Mare"
-msgstr "Baia Mare"
+msgstr "Μπάια Μάρε"
 
 #. A county capital in Romania
-#, fuzzy
-#| msgid "Austria"
 msgid "Bistrița"
-msgstr "Αυστρία"
+msgstr "Μπίστριτσα"
 
 #. A county capital in Romania
 msgid "Botoșani"
-msgstr ""
+msgstr "Μποτοσάνι"
 
 #. A county capital in Romania
 msgid "Brașov"
-msgstr ""
+msgstr "Μπρασόβ"
 
 #. A county capital in Romania
 msgid "Brăila"
-msgstr ""
+msgstr "Μπραΐλα"
 
 #. The capital of Romania.
-#. "Bucharest" is the traditional English name.
-#. The local name in Romanian is "București".
-#.
 msgid "Bucharest"
 msgstr "Βουκουρέστι"
 
 #. A county capital in Romania
 msgid "Buzău"
-msgstr ""
+msgstr "Μπουζάου"
 
 #. A county capital in Romania
 msgid "Cluj-Napoca"
-msgstr "Cluj-Napoca"
+msgstr "Κλουζ-Ναπόκα"
 
 #. A county capital in Romania
-#, fuzzy
-#| msgid "Constantine"
 msgid "Constanța"
-msgstr "Constantine"
+msgstr "Κωνστάντζα"
 
 #. A county capital in Romania
 msgid "Craiova"
-msgstr "Craiova"
+msgstr "Κραϊόβα"
 
 #. A county capital in Romania
 msgid "Călărași"
-msgstr ""
+msgstr "Καλαράσι"
 
 #. A county capital in Romania
 msgid "Deva"
-msgstr ""
+msgstr "Ντέβα"
 
 #. A county capital in Romania
 msgid "Drobeta-Turnu Severin"
-msgstr ""
+msgstr "Ντρομπέτα-Τούρνου Σεβερίν"
 
 #. A county capital in Romania
 msgid "Focșani"
-msgstr ""
+msgstr "Φωξάνη"
 
 #. A county capital in Romania
 msgid "Galați"
-msgstr ""
+msgstr "Γαλάτσι"
 
 #. A county capital in Romania
 msgid "Giurgiu"
-msgstr ""
+msgstr "Τζιούρτζιου"
 
 #. A county capital in Romania
 msgid "Iași"
-msgstr ""
+msgstr "Ιάσιο"
 
 #. A county capital in Romania
 msgid "Miercurea Ciuc"
-msgstr ""
+msgstr "Μιέρκουρεα Τσούκ"
 
 #. A county capital in Romania
 msgid "Oradea"
-msgstr "Oradea"
+msgstr "Οράντια"
 
 #. A county capital in Romania
 msgid "Piatra Neamț"
-msgstr ""
+msgstr "Πιάτρα Νέαμτς"
 
 #. A county capital in Romania
 msgid "Pitești"
-msgstr ""
+msgstr "Πιτέστι"
 
 #. A county capital in Romania
 msgid "Ploiești"
-msgstr ""
+msgstr "Πλοέστι"
 
 #. A county capital in Romania
 msgid "Reșița"
-msgstr ""
+msgstr "Ρέσιτσα"
 
 #. A county capital in Romania
 msgid "Râmnicu Vâlcea"
-msgstr ""
+msgstr "Ράμνικου Βίλτσεα"
 
 #. A county capital in Romania
 msgid "Satu Mare"
-msgstr "Satu Mare"
+msgstr "Σάτου Μάρε"
 
 #. A county capital in Romania
-#, fuzzy
-#| msgctxt "City in Bermuda"
-#| msgid "Saint George"
 msgid "Sfântu Gheorghe"
-msgstr "Saint George"
+msgstr "Σφάντου Γκεόργκε"
 
 #. A county capital in Romania
 msgid "Sibiu"
-msgstr "Sibiu"
+msgstr "Σιμπίου"
 
 #. A county capital in Romania
-#, fuzzy
-#| msgid "Latina"
 msgid "Slatina"
-msgstr "Latina"
+msgstr "Σλατίνα"
 
 #. A county capital in Romania
 msgid "Slobozia"
-msgstr ""
+msgstr "Σλομποζία"
 
 #. A county capital in Romania
 msgid "Suceava"
-msgstr "Suceava"
+msgstr "Σουτσάβα"
 
 #. A county capital in Romania
-#, fuzzy
-#| msgid "Timişoara"
 msgid "Timișoara"
-msgstr "Timişoara"
+msgstr "Τιμισοάρα"
 
 #. A county capital in Romania
 msgid "Tulcea"
-msgstr "Tulcea"
+msgstr "Τούλτσεα"
 
 #. A county capital in Romania
 msgid "Târgoviște"
-msgstr ""
+msgstr "Ταργκόβιστε"
 
 #. A county capital in Romania
-#, fuzzy
-#| msgid "Târgu-Mureş"
 msgid "Târgu Jiu"
-msgstr "Târgu-Mureş"
+msgstr "Τίργκου Ζίου"
 
 #. A county capital in Romania
-#, fuzzy
-#| msgid "Târgu-Mureş"
 msgid "Târgu Mureș"
-msgstr "Târgu-Mureş"
+msgstr "Τίργκου Μούρες"
 
 #. A county capital in Romania
 msgid "Vaslui"
-msgstr ""
+msgstr "Βασλούι"
 
 #. A county capital in Romania
 msgid "Zalău"
-msgstr ""
+msgstr "Ζαλάου"
 
-#. A city in Russia.
-#. The local name in Russian is "Абакан".
-#.
+#. A city in Russia
 msgid "Abakan"
-msgstr "Abakan"
+msgstr "Αμπακάν"
 
-#. A city in Russia.
-#. The local name in Russian is "Адлер".
-#.
+#. A city in Russia
 msgid "Adler"
-msgstr "Adler"
+msgstr "Άντλερ"
 
-#. A city in Russia.
-#. The local name in Russian is "Анадырь".
-#.
+#. A city in Russia
 msgid "Anadyr'"
-msgstr "Anadyr'"
+msgstr "Αναντίρ"
 
-#. A city in Russia.
-#. The local name in Russian is "Анапа".
-#.
+#. A city in Russia
 msgid "Anapa"
-msgstr "Anapa"
+msgstr "Ανάπα"
 
-#. A city in Russia.
-#. The local name in Russian is "Архангельск".
-#.
+#. A city in Russia
 msgid "Arkhangel'sk"
-msgstr "Arkhangel'sk"
+msgstr "Αρχάγγελσκ"
 
-#. A city in Russia.
-#. The local name in Russian is "Астрахань".
-#.
+#. A city in Russia
 msgid "Astrakhan'"
-msgstr "Astrakhan'"
+msgstr "Αστραχάν"
 
-#. A city in Russia.
-#. The local name in Russian is "Барнаул".
-#.
+#. A city in Russia
 msgid "Barnaul"
-msgstr "Barnaul"
+msgstr "Μπαρναούλ"
 
-#. A city in Russia.
-#. The local name in Russian is "Благовещенск".
-#.
+#. A city in Russia
 msgid "Blagoveschensk"
-msgstr ""
+msgstr "Μπλαγκοβέστσενσκ"
 
-#. A city in Russia.
-#. The local name in Russian is "Братск".
-#.
+#. A city in Russia
 msgid "Bratsk"
-msgstr "Bratsk"
+msgstr "Μπράτσκ"
 
-#. A city in Russia.
-#. The local name in Russian is "Брянск".
-#.
+#. A city in Russia
 msgid "Bryansk"
-msgstr "Bryansk"
+msgstr "Μπριάνσκ"
 
-#. A city in Russia.
-#. The local name in Russian is "Чебоксары".
-#.
+#. A city in Russia
 msgid "Cheboksary"
-msgstr "Cheboksary"
+msgstr "Τσεμποκσάρι"
 
-#. A city in Russia.
-#. The local name in Russian is "Челябинск".
-#.
+#. A city in Russia
 msgid "Chelyabinsk"
-msgstr "Chelyabinsk"
+msgstr "Τσελιάμπινσκ"
 
-#. A city in Russia.
-#. The local name in Russian is "Чита".
-#.
+#. A city in Russia
 msgid "Chita"
-msgstr "Chita"
+msgstr "Τσιτά"
 
-#. A city in Russia.
-#. The local name in Russian is "Чульман".
-#.
+#. A city in Russia
 msgid "Chul'man"
-msgstr "Chul'man"
+msgstr "Τσουλμάν"
 
-#. A city in Russia.
-#. The local name in Russian is "Энгельс".
-#.
+#. A city in Russia
 msgid "Engel's"
-msgstr "Engel's"
+msgstr "Ένγκελς"
 
-#. A city in Russia.
-#. The local name in Russian is "Иркутск".
-#.
+#. A city in Russia
 msgid "Irkutsk"
-msgstr "Irkutsk"
+msgstr "Ιρκούτσκ"
 
-#. A city in Russia.
-#. The local name in Russian is "Ижевск".
-#.
+#. A city in Russia
 msgid "Izhevsk"
-msgstr "Izhevsk"
+msgstr "Ιζέφσκ"
 
-#. A city in Russia.
-#. The local name in Russian is "Калининград".
-#.
+#. A city in Russia
 msgid "Kaliningrad"
-msgstr "Kaliningrad"
+msgstr "Καλίνινγκραντ"
 
-#. A city in Russia.
-#. The local name in Russian is "Казань".
-#.
+#. A city in Russia
 msgid "Kazan'"
-msgstr "Kazan'"
+msgstr "Καζάν"
 
-#. A city in Russia.
-#. The local name in Russian is "Кемерово".
-#.
+#. A city in Russia
 msgid "Kemerovo"
-msgstr "Kemerovo"
+msgstr "Κέμεροβο"
 
-#. A city in Russia.
-#. The local name in Russian is "Хабаровск".
-#.
+#. A city in Russia
 msgid "Khabarovsk"
-msgstr "Khabarovsk"
+msgstr "Χαμπάροφσκ"
 
-#. A city in Russia.
-#. The local name in Russian is "Ханты-Мансийск".
-#.
+#. A city in Russia
 msgid "Khanty-Mansiysk"
-msgstr "Khanty-Mansiysk"
+msgstr "Χάντι-Μανσίισκ"
 
 #. A city in Russia.
 #. The local name in Russian is "Краснодар".
 #.
 msgid "Krasnodar"
-msgstr "Krasnodar"
+msgstr "Κρασνοντάρ"
 
 #. A city in Russia.
 #. The local name in Russian is "Красноярск".
 #.
 msgid "Krasnoyarsk"
-msgstr "Krasnoyarsk"
+msgstr "Κρασνογιάρσκ"
 
 #. A city in Russia.
 #. The local name in Russian is "Магадан".
 #.
 msgid "Magadan"
-msgstr "Magadan"
+msgstr "Μαγκαντάν"
 
 #. A city in Russia.
 #. The local name in Russian is "Минеральные Воды".
 #.
 msgid "Mineral'nyye Vody"
-msgstr "Mineral'nyye Vody"
+msgstr "Μινεράλνιε Βόντι"
 
 #. A city in Russia.
 #. The local name in Russian is "Мирный".
 #.
 msgid "Mirnyy"
-msgstr "Mirnyy"
+msgstr "Μίρνι"
 
 #. The capital of Russia.
 #. "Moscow" is the traditional English name.
@@ -12266,19 +11994,19 @@ msgstr "Μόσχα"
 #. The local name in Russian is "Мурманск".
 #.
 msgid "Murmansk"
-msgstr "Murmansk"
+msgstr "Μούρμανσκ"
 
 #. A city in Russia.
 #. The local name in Russian is "Нальчик".
 #.
 msgid "Nal'chik"
-msgstr "Nal'chik"
+msgstr "Νάλτσικ"
 
 #. A city in Russia.
 #. The local name in Russian is "Нижневартовск".
 #.
 msgid "Nizhnevartovsk"
-msgstr "Nizhnevartovsk"
+msgstr "Νιζνεβάρτοφσκ"
 
 #. A city in Russia.
 #. The local name in Russian is "Нижний Новгород".
@@ -12290,57 +12018,55 @@ msgstr "Νίζνι Νόβγκοροντ"
 #. The local name in Russian is "Новокузнецк".
 #.
 msgid "Novokuznetsk"
-msgstr "Novokuznetsk"
+msgstr "Νοβοκουζνέτσκ"
 
 #. A city in Russia.
 #. The local name in Russian is "Новосибирск".
 #.
 msgid "Novosibirsk"
-msgstr "Novosibirsk"
+msgstr "Νοβοσιμπίρσκ"
 
 #. A city in Russia.
 #. The local name in Russian is "Омск".
 #.
 msgid "Omsk"
-msgstr "Omsk"
+msgstr "Ομσκ"
 
 #. A city in Russia.
 #. The local name in Russian is "Оренбург".
 #.
 msgid "Orenburg"
-msgstr "Orenburg"
+msgstr "Ορενμπούργκ"
 
 #. A city in Russia.
 #. The local name in Russian is "Пенза".
 #.
 msgid "Penza"
-msgstr "Penza"
+msgstr "Πένζα"
 
 #. A city in Russia.
 #. The local name in Russian is "Пермь".
 #.
 msgid "Perm"
-msgstr "Πέρμ"
+msgstr "Περμ"
 
 #. A city in Russia.
 #. The local name in Russian is "Петропавловск-Камчатский".
 #.
 msgid "Petropavlovsk"
-msgstr "Petropavlovsk"
+msgstr "Πετροπαβλόφσκ"
 
 #. A city in Russia.
 #. The local name in Russian is "Ростов-на-Дону".
 #.
 msgid "Rostov"
-msgstr "Rostov"
+msgstr "Ροστόφ"
 
 #. A city in Russia.
 #. The local name in Russian is "Рязань".
 #.
-#, fuzzy
-#| msgid "Kazan'"
 msgid "Ryazan'"
-msgstr "Kazan'"
+msgstr "Ριαζάν"
 
 #. A city in Russia
 msgid "Rybinsk"
@@ -12362,7 +12088,7 @@ msgstr "Σαμάρα"
 
 #. A city in Russia
 msgid "Saratov"
-msgstr "Saratov"
+msgstr "Σαράτοφ"
 
 #. A city in Russia.
 #. The local name in Russian is "Ставрополь".
@@ -12374,91 +12100,91 @@ msgstr "Σταυρούπολη"
 #. The local name in Russian is "Сургут".
 #.
 msgid "Surgut"
-msgstr "Surgut"
+msgstr "Σουργκούτ"
 
 #. A city in Russia
 msgid "Syktyvkar"
-msgstr "Syktyvkar"
+msgstr "Σικτιβκάρ"
 
 #. A city in Russia
 msgid "Tiksi"
-msgstr "Tiksi"
+msgstr "Τίκσι"
 
 #. A city in Russia
 msgid "Tomsk"
-msgstr "Tomsk"
+msgstr "Τομσκ"
 
 #. A city in Russia
 msgid "Tyumen"
-msgstr "Tyumen"
+msgstr "Τιουμέν"
 
 #. A city in Russia
 msgid "Udachnyy"
-msgstr "Udachnyy"
+msgstr "Ουντάτσνι"
 
 #. A city in Russia
 msgid "Ufa"
-msgstr "Ufa"
+msgstr "Ουφά"
 
 #. A city in Russia
 msgid "Ul'yanovsk"
-msgstr "Ul'yanovsk"
+msgstr "Ουλιάνοφσκ"
 
 #. A city in Russia
 msgid "Ulan-Ude"
-msgstr "Ulan-Ude"
+msgstr "Ουλάν-Ουντέ"
 
 #. A city in Russia
 msgid "Velikiye Luki"
-msgstr "Velikiye Luki"
+msgstr "Βελίκι Λούκι"
 
 #. A city in Russia
 msgid "Vladivostok"
-msgstr "Vladivostok"
+msgstr "Βλαδιβοστόκ"
 
 #. A city in Russia
 msgid "Volgograd"
-msgstr "Volgograd"
+msgstr "Βολγκογκράντ"
 
 #. A city in Russia
 msgid "Voronezh"
-msgstr "Voronezh"
+msgstr "Βορόνεζ"
 
 #. A city in Russia
 msgid "Yakutsk"
-msgstr "Yakutsk"
+msgstr "Γιακούτσκ"
 
 #. A city in Russia
 msgid "Yaroslavl"
-msgstr "Γιαροσλάβ"
+msgstr "Γιαροσλάβλ"
 
 #. A city in Russia
 msgid "Yekaterinburg"
-msgstr "Yekaterinburg"
+msgstr "Αικατερινούπολη"
 
 #. A city in Russia.
 #. The local name in Russian is "Йошкар-Ола".
 #.
 msgid "Yoshkar-Ola"
-msgstr "Yoshkar-Ola"
+msgstr "Γιοσκάρ-Όλα"
 
 #. A city in Russia
 msgid "Yuzhno-Sakhalinsk"
-msgstr "Yuzhno-Sakhalinsk"
+msgstr "Γιούζνο-Σαχαλίνσκ"
 
 #. The capital of Réunion
 msgid "Saint-Denis"
-msgstr "Σεν Ντενί"
+msgstr "Σεν-Ντενί"
 
 #. A city in Réunion
 msgctxt "City in Réunion"
 msgid "Saint-Pierre"
-msgstr "Saint-Pierre"
+msgstr "Σεν-Πιέρ"
 
 #. A city in Saint Helena
 msgctxt "City in Saint Helena"
 msgid "Georgetown"
-msgstr "Georgetown"
+msgstr "Τζορτζτάουν"
 
 #. The capital of Saint Kitts and Nevis
 msgid "Basseterre"
@@ -12466,12 +12192,12 @@ msgstr "Μπασετέρ"
 
 #. A city in Saint Kitts and Nevis
 msgid "Golden Rock"
-msgstr "Golden Rock"
+msgstr "Γκόλντεν Ροκ"
 
 #. A city in Saint Kitts and Nevis
 msgctxt "City in Saint Kitts and Nevis"
 msgid "Newcastle"
-msgstr "Newcastle"
+msgstr "Νιούκαστλ"
 
 #. The capital of Saint Lucia
 msgid "Castries"
@@ -12479,20 +12205,20 @@ msgstr "Κάστρις"
 
 #. A city in Saint Lucia
 msgid "Pointe Sable"
-msgstr "Pointe Sable"
+msgstr "Πουάντ Σαμπλ"
 
 #. A city in Saint Lucia
 msgid "Vigie"
-msgstr "Vigie"
+msgstr "Βίτζι"
 
 #. The capital of Saint Pierre and Miquelon
 msgctxt "City in Saint Pierre and Miquelon"
 msgid "Saint-Pierre"
-msgstr "Σεν Πιερ"
+msgstr "Σεν-Πιέρ"
 
 #. A city in Saint Vincent and the Grenadines
 msgid "Arnos Vale"
-msgstr "Arnos Vale"
+msgstr "Άρνος Βέιλ"
 
 #. The capital of Saint Vincent and the Grenadines
 msgid "Kingstown"
@@ -12509,104 +12235,104 @@ msgstr "Άγιος Μαρίνος"
 
 #. A city in Saudi Arabia
 msgid "'Ar'ar"
-msgstr "'Ar'ar"
+msgstr "Αράρ"
 
 #. A city in Saudi Arabia
 msgid "Abha"
-msgstr "Abha"
+msgstr "Άμπχα"
 
 #. A city in Saudi Arabia
 msgid "Ad Dalfa'ah"
-msgstr "Ad Dalfa'ah"
+msgstr "Αντ Νταλφά"
 
 #. A city in Saudi Arabia
 msgid "Ad Dammam"
-msgstr "Ad Dammam"
+msgstr "Νταμάμ"
 
 #. A city in Saudi Arabia
 msgid "Al 'Aqiq"
-msgstr "Al 'Aqiq"
+msgstr "Αλ Ακίκ"
 
 #. A city in Saudi Arabia
 msgid "Al Qaysumah"
-msgstr "Al Qaysumah"
+msgstr "Αλ Καϊσουμά"
 
 #. A city in Saudi Arabia
 msgid "Al Qurayyat"
-msgstr "Al Qurayyat"
+msgstr "Αλ Κουραγιάτ"
 
 #. A city in Saudi Arabia
 msgid "Al Wajh"
-msgstr "Al Wajh"
+msgstr "Αλ Ουάτζ"
 
 #. A city in Saudi Arabia
 msgid "Al Wuday'ah"
-msgstr "Al Wuday'ah"
+msgstr "Αλ Γουνταϊά"
 
 #. A city in Saudi Arabia
 msgid "Ar Ruqayyiqah"
-msgstr "Ar Ruqayyiqah"
+msgstr "Αρ Ρουκαϊγικά"
 
 #. A city in Saudi Arabia
 msgid "At Ta'if"
-msgstr "At Ta'if"
+msgstr "Ταΐφ"
 
 #. A city in Saudi Arabia.
 #. "Dhahran" is the traditional English name.
 #. The local name in Arabic is "Az Zahran".
 #.
 msgid "Dhahran"
-msgstr "Dhahran"
+msgstr "Νταχράν"
 
 #. A city in Saudi Arabia
 msgid "Ha'il"
-msgstr "Ha'il"
+msgstr "Χαΐλ"
 
 #. A city in Saudi Arabia
 msgid "Jiddah"
-msgstr "Jiddah"
+msgstr "Τζέντα"
 
 #. A city in Saudi Arabia
 msgid "Jizan"
-msgstr "Jizan"
+msgstr "Τζιζάν"
 
 #. A city in Saudi Arabia
 msgid "Khamis Mushayt"
-msgstr "Khamis Mushayt"
+msgstr "Χαμίς Μουσάιτ"
 
 #. A city in Saudi Arabia
 msgid "Masjid Ibn Rashid"
-msgstr "Masjid Ibn Rashid"
+msgstr "Μαστζίντ Ιμπν Ρασίντ"
 
 #. A city in Saudi Arabia.
 #. "Mecca" is the traditional English name.
 #. The local name in Arabic is "Makkah".
 #.
 msgid "Mecca"
-msgstr "Mecca"
+msgstr "Μέκκα"
 
 #. A city in Saudi Arabia.
 #. "Medina" is the traditional English name.
 #. The local name in Arabic is "Al Madinah al Munawwarah".
 #.
 msgid "Medina"
-msgstr "Medina"
+msgstr "Μεδίνα"
 
 #. A city in Saudi Arabia
 msgid "Najran"
-msgstr "Najran"
+msgstr "Νατζράν"
 
 #. A city in Saudi Arabia
 msgid "Qal'at Bishah"
-msgstr "Qal'at Bishah"
+msgstr "Καλ'άτ Μπισά"
 
 #. A city in Saudi Arabia
 msgid "Qara"
-msgstr "Qara"
+msgstr "Κάρα"
 
 #. A city in Saudi Arabia
 msgid "Rafha"
-msgstr "Rafha"
+msgstr "Ράφα"
 
 #. The capital of Saudi Arabia.
 #. "Riyadh" is the traditional English name.
@@ -12617,23 +12343,23 @@ msgstr "Ριάντ"
 
 #. A city in Saudi Arabia
 msgid "Tabuk"
-msgstr "Tabuk"
+msgstr "Ταμπούκ"
 
 #. A city in Saudi Arabia
 msgid "Tamrah"
-msgstr "Tamrah"
+msgstr "Τάμρα"
 
 #. A city in Saudi Arabia
 msgid "Turayf"
-msgstr "Turayf"
+msgstr "Τουράιφ"
 
 #. A city in Saudi Arabia
 msgid "Yanbu' al Bahr"
-msgstr "Yanbu' al Bahr"
+msgstr "Γιανμπού αλ Μπαρ"
 
 #. A city in Senegal
 msgid "Boukot Ouolof"
-msgstr "Boukot Ouolof"
+msgstr "Μπουκότ Ουολόφ"
 
 #. The capital of Senegal
 msgid "Dakar"
@@ -12641,15 +12367,15 @@ msgstr "Ντακάρ"
 
 #. A city in Senegal
 msgid "Saint-Louis"
-msgstr "Saint-Louis"
+msgstr "Σεν-Λουί"
 
 #. A city in Senegal
 msgid "Tambacounda"
-msgstr "Tambacounda"
+msgstr "Ταμπακούντα"
 
 #. A city in Senegal
 msgid "Ziguinchor"
-msgstr "Ziguinchor"
+msgstr "Ζιγκινσόρ"
 
 #. The capital of Serbia.
 #. "Belgrade" is the traditional English name.
@@ -12660,19 +12386,19 @@ msgstr "Βελιγράδι"
 
 #. A city in Serbia
 msgid "Niš"
-msgstr "Niš"
+msgstr "Νις"
 
 #. A city in Serbia
 msgid "Vršac"
-msgstr "Vršac"
+msgstr "Βρσατς"
 
 #. A city in Serbia
 msgid "Zemun"
-msgstr "Zemun"
+msgstr "Ζέμουν"
 
 #. A city in the Seychelles
 msgid "Cascade"
-msgstr "Cascade"
+msgstr "Κασκέιντ"
 
 #. The capital of the Seychelles
 msgctxt "City in Seychelles"
@@ -12685,7 +12411,7 @@ msgstr "Φριτάουν"
 
 #. A city in Sierra Leone
 msgid "Lungi"
-msgstr "Lungi"
+msgstr "Λούνγκι"
 
 #. The capital of Singapore
 msgctxt "City in Singapore"
@@ -12698,27 +12424,27 @@ msgstr "Μπρατισλάβα"
 
 #. A city in Slovakia
 msgid "Dolný Hričov"
-msgstr "Dolný Hričov"
+msgstr "Ντολνί Χρίτσοφ"
 
 #. A city in Slovakia
 msgid "Kamenica nad Cirochou"
-msgstr "Kamenica nad Cirochou"
+msgstr "Καμένιτσα ναντ Τσιρόχου"
 
 #. A city in Slovakia
 msgid "Košice"
-msgstr "Košice"
+msgstr "Κόσιτσε"
 
 #. A city in Slovakia
 msgid "Lučenec"
-msgstr "Lučenec"
+msgstr "Λούτσενετς"
 
 #. A city in Slovakia
 msgid "Piešťany"
-msgstr "Piešťany"
+msgstr "Πιεστάνι"
 
 #. A city in Slovakia
 msgid "Poprad"
-msgstr "Poprad"
+msgstr "Πόπραντ"
 
 #. A city in Slovakia
 msgid "Prešov"
@@ -12726,15 +12452,15 @@ msgstr "Πρέσοφ"
 
 #. A city in Slovakia
 msgid "Prievidza"
-msgstr "Prievidza"
+msgstr "Πριεβίντζα"
 
 #. A city in Slovakia
 msgid "Sliač"
-msgstr "Sliač"
+msgstr "Σλιάτς"
 
 #. A city in Slovakia
 msgid "Žilina"
-msgstr "Žilina"
+msgstr "Ζίλινα"
 
 #. The capital of Slovenia
 msgid "Ljubljana"
@@ -12742,43 +12468,43 @@ msgstr "Λιουμπλιάνα"
 
 #. A city in Slovenia
 msgid "Maribor"
-msgstr "Maribor"
+msgstr "Μάριμπορ"
 
 #. A city in Slovenia
 msgid "Portorož"
-msgstr "Portorož"
+msgstr "Πορτορόζ"
 
 #. The capital of the Solomon Islands
 msgid "Honiara"
-msgstr "Ονιάρα"
+msgstr "Χονιάρα"
 
 #. A city in South Africa
 msgid "Bloemfontein"
-msgstr "Bloemfontein"
+msgstr "Μπλουμφοντέιν"
 
 #. A city in South Africa
 msgid "Cape Town"
-msgstr "Cape Town"
+msgstr "Κέιπ Τάουν"
 
 #. A city in South Africa
 msgid "Durban"
-msgstr "Durban"
+msgstr "Ντέρμπαν"
 
 #. A city in South Africa
 msgid "Johannesburg"
-msgstr "Johannesburg"
+msgstr "Γιοχάνεσμπουργκ"
 
 #. A city in South Africa
 msgid "Klerksdorp"
-msgstr "Klerksdorp"
+msgstr "Κλέρκσντορπ"
 
 #. A city in South Africa
 msgid "Port Elizabeth"
-msgstr "Port Elizabeth"
+msgstr "Πορτ Ελίζαμπεθ"
 
 #. A city in South Africa
 msgid "Potchefstroom"
-msgstr "Potchefstroom"
+msgstr "Πότσεφστρουμ"
 
 #. The capital of South Africa
 msgid "Pretoria"
@@ -12786,75 +12512,63 @@ msgstr "Πρετόρια"
 
 #. A city in South Africa
 msgid "Springs"
-msgstr "Springs"
+msgstr "Σπρινγκς"
 
 #. A city in South Africa
 msgid "Upington"
-msgstr "Upington"
+msgstr "Άπινγκτον"
 
 #. A city in South Africa
 msgid "Vereeniging"
-msgstr "Vereeniging"
+msgstr "Φερινίχινγκ"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "부산".
 #.
-#, fuzzy
-#| msgid "Pusan"
 msgid "Busan"
-msgstr "Pusan"
+msgstr "Πουσάν"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "청주".
 #.
-#, fuzzy
-#| msgid "Ch'ongju"
 msgid "Cheongju"
-msgstr "Ch'ongju"
+msgstr "Τσονγκτζού"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "대구".
 #.
-#, fuzzy
-#| msgid "Taegu"
 msgid "Daegu"
-msgstr "Taegu"
+msgstr "Νταεγού"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "군산".
 #.
-#, fuzzy
-#| msgid "Kunsan"
 msgid "Gunsan"
-msgstr "Kunsan"
+msgstr "Γκουνσάν"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "인천".
 #.
-#, fuzzy
-#| msgid "Inch'on"
 msgid "Incheon"
-msgstr "Inch'on"
+msgstr "Ιντσόν"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "제주".
 #.
 msgid "Jeju"
-msgstr ""
+msgstr "Τζετζού"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "오산".
 #.
 msgid "Osan"
-msgstr "Osan"
+msgstr "Οσάν"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "평택".
 #.
-#, fuzzy
-#| msgid "P'yongt'aek"
 msgid "Pyeongtaek"
-msgstr "P'yongt'aek"
+msgstr "Πιονγκτέκ"
 
 #. The capital of South Korea.
 #. The name written in Hangul (Korean) is "서울".
@@ -12866,137 +12580,133 @@ msgstr "Σεούλ"
 #. The name written in Hangul (Korean) is "울산".
 #.
 msgid "Ulsan"
-msgstr ""
+msgstr "Ουλσάν"
 
 #. A city in Spain
 msgid "A Coruña"
-msgstr "A Coruña"
+msgstr "Λα Κορούνια"
 
 #. A city in Spain
 msgid "Agoncillo"
-msgstr "Agoncillo"
+msgstr "Αγονθίγιο"
 
 #. A city in Spain
 msgid "Albacete"
-msgstr ""
+msgstr "Αλμπαθέτε"
 
 #. A city in Spain
 msgid "Alcantarilla"
-msgstr "Alcantarilla"
+msgstr "Αλκανταρίγια"
 
 #. A city in Spain
 msgid "Alcorcón"
-msgstr "Alcorcón"
+msgstr "Αλκορκόν"
 
 #. A city in Spain
 msgid "Alicante"
-msgstr "Alicante"
+msgstr "Αλικάντε"
 
 #. A city in Spain
 msgid "Almería"
-msgstr "Almería"
+msgstr "Αλμερία"
 
 #. A city in Spain
 msgid "Armilla"
-msgstr "Armilla"
+msgstr "Αρμίγια"
 
 #. A city in Spain
 msgid "Atogo"
-msgstr "Atogo"
+msgstr "Ατόγο"
 
 #. A city in Spain
 msgid "Avilés"
-msgstr "Avilés"
+msgstr "Αβιλές"
 
 #. A city in Spain
 msgid "Badajoz"
-msgstr ""
+msgstr "Μπαδαχόθ"
 
 #. A city in Spain
 msgid "Barajas"
-msgstr "Barajas"
+msgstr "Μπαράχας"
 
 #. A city in Spain
 msgctxt "City in Spain"
 msgid "Barcelona"
-msgstr "Barcelona"
+msgstr "Βαρκελώνη"
 
 #. A city in Spain
 msgid "Bilbao"
-msgstr "Bilbao"
+msgstr "Μπιλμπάο"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Burgas"
 msgid "Burgos"
-msgstr "Burgas"
+msgstr "Μπούργος"
 
 #. A city in Spain
 msgid "Caravaca de la Cruz"
-msgstr ""
+msgstr "Καραβάκα ντε λα Κρουθ"
 
 #. A city in Spain
 msgid "Castellón de la Plana"
-msgstr ""
+msgstr "Καστεγιόν ντε λα Πλάνα"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Ciudad Choluteca"
 msgid "Ciudad Real"
-msgstr "Ciudad Choluteca"
+msgstr "Σιουδάδ Ρεάλ"
 
 #. A city in Spain
 msgid "Colmenar Viejo"
-msgstr "Colmenar Viejo"
+msgstr "Κολμενάρ Βιέχο"
 
 #. A city in Spain
 msgid "Corcovados"
-msgstr "Corcovados"
+msgstr "Κορκοβάδος"
 
 #. A city in Spain
 msgid "Cuatro Vientos"
-msgstr "Cuatro Vientos"
+msgstr "Κουάτρο Βιέντος"
 
 #. A city in Spain
 msgid "Cuenca"
-msgstr ""
+msgstr "Κουένκα"
 
 #. A city in Spain
 msgid "Cáceres"
-msgstr ""
+msgstr "Κάθερες"
 
 #. A city in Spain
 msgid "Cádiz"
-msgstr ""
+msgstr "Κάδιθ"
 
 #. A city in Spain
 msgctxt "City in Spain"
 msgid "Córdoba"
-msgstr "Córdoba"
+msgstr "Κόρδοβα"
 
 #. A city in Spain
 msgid "El Matorral"
-msgstr "El Matorral"
+msgstr "Ελ Ματοράλ"
 
 #. A city in Spain
 msgid "Fuenlabrada"
-msgstr "Fuenlabrada"
+msgstr "Φουενλαμπράδα"
 
 #. A city in Spain
 msgid "Fuenterrabía"
-msgstr "Fuenterrabía"
+msgstr "Φουεντεραμπία"
 
 #. A city in Spain
 msgid "Gando"
-msgstr "Gando"
+msgstr "Γκάντο"
 
 #. A city in Spain
 msgid "Gerona"
-msgstr "Gerona"
+msgstr "Χερόνα"
 
 #. A city in Spain
 msgid "Getafe"
-msgstr "Getafe"
+msgstr "Χετάφε"
 
 #. A city in Spain
 msgid "Gijón"
@@ -13004,75 +12714,69 @@ msgstr "Χιχόν"
 
 #. A city in Spain
 msgid "Granada"
-msgstr "Granada"
+msgstr "Γρανάδα"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Guadalajara"
 msgctxt "City in Spain"
 msgid "Guadalajara"
-msgstr "Guadalajara"
+msgstr "Γουαδαλαχάρα"
 
 #. A city in Spain
 msgid "Güime"
-msgstr "Güime"
+msgstr "Γκουίμε"
 
 #. A city in Spain
 msgid "Huelva"
-msgstr ""
+msgstr "Ουέλβα"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Pescara"
 msgid "Huesca"
-msgstr "Pescara"
+msgstr "Ουέσκα"
 
 #. A city in Spain
 msgid "Ibiza"
-msgstr "Ibiza"
+msgstr "Ίμπιζα"
 
 #. A city in Spain
 msgid "Jaén"
-msgstr ""
+msgstr "Χαέν"
 
 #. A city in Spain
 msgid "Jerez"
-msgstr "Jerez"
+msgstr "Χερέθ"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Palma"
 msgid "Las Palmas"
-msgstr "Palma"
+msgstr "Λας Πάλμας"
 
 #. A city in Spain
 msgid "Leganés"
-msgstr "Leganés"
+msgstr "Λεγανές"
 
 #. A city in Spain
 msgctxt "City in Spain"
 msgid "León"
-msgstr "León"
+msgstr "Λεόν"
 
 #. A city in Spain
 msgid "Lleida"
-msgstr "Λέριδα"
+msgstr "Λιέιδα"
 
 #. A city in Spain
 msgid "Logroño"
-msgstr ""
+msgstr "Λογρόνιο"
 
 #. A city in Spain
 msgid "Los Baldíos"
-msgstr "Los Baldíos"
+msgstr "Λος Μπαλντίος"
 
 #. A city in Spain
 msgid "Los Llanos"
-msgstr "Los Llanos"
+msgstr "Λος Γιάνος"
 
 #. A city in Spain
 msgid "Lugo"
-msgstr ""
+msgstr "Λούγο"
 
 #. The capital of Spain
 msgid "Madrid"
@@ -13080,202 +12784,174 @@ msgstr "Μαδρίτη"
 
 #. A city in Spain
 msgid "Mahón"
-msgstr "Mahón"
+msgstr "Μαόν"
 
 #. A city in Spain
 msgid "Melilla"
-msgstr "Melilla"
+msgstr "Μελίγια"
 
 #. A city in Spain
 msgid "Morón"
-msgstr "Morón"
+msgstr "Μορόν"
 
 #. A city in Spain
 msgid "Murcia"
-msgstr ""
+msgstr "Μούρθια"
 
 #. A city in Spain
 msgid "Málaga"
-msgstr "Málaga"
+msgstr "Μάλαγα"
 
 #. A city in Spain
 msgid "Móstoles"
-msgstr "Móstoles"
+msgstr "Μόστολες"
 
 #. A city in Spain
 msgid "Noáin"
-msgstr "Noáin"
+msgstr "Νοάιν"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Odense"
 msgid "Ourense"
-msgstr "Odense"
+msgstr "Ουρένσε"
 
 #. A city in Spain
 msgctxt "City in Spain"
 msgid "Oviedo"
-msgstr ""
+msgstr "Οβιέδο"
 
 #. A city in Spain
-#, fuzzy
-#| msgctxt "City in Spain"
-#| msgid "Valencia"
 msgid "Palencia"
-msgstr "Valencia"
+msgstr "Παλένθια"
 
 #. A city in Spain
 msgid "Palma"
-msgstr "Palma"
+msgstr "Πάλμα"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Pampa"
 msgid "Pamplona"
-msgstr "Pampa"
+msgstr "Παμπλόνα"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Monteria"
 msgid "Pontevedra"
-msgstr "Monteria"
+msgstr "Ποντεβέδρα"
 
 #. A city in Spain
 msgid "Reus"
-msgstr "Reus"
+msgstr "Ρέους"
 
 #. A city in Spain
 msgid "Rota"
-msgstr "Rota"
+msgstr "Ρότα"
 
 #. A city in Spain
 msgid "Sabadell"
-msgstr "Sabadell"
+msgstr "Σαμπαδέλ"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Salamanca"
 msgctxt "City in Spain"
 msgid "Salamanca"
-msgstr "Salamanca"
+msgstr "Σαλαμάνκα"
 
 #. A city in Spain
 msgid "San Javier"
-msgstr "San Javier"
+msgstr "Σαν Χαβιέρ"
 
 #. A city in Spain
 msgid "San Pablo"
-msgstr "San Pablo"
+msgstr "Σαν Πάμπλο"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "San Stèfano"
 msgctxt "City in Spain"
 msgid "San Sebastián"
-msgstr "San Stèfano"
+msgstr "Σαν Σεμπαστιάν"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Santa Cruz das Flores"
 msgid "Santa Cruz de Tenerife"
-msgstr "Santa Cruz das Flores"
+msgstr "Σάντα Κρουθ ντε Τενερίφε"
 
 #. A city in Spain
 msgid "Santander"
-msgstr "Santander"
+msgstr "Σανταντέρ"
 
 #. A city in Spain
 msgctxt "City in Spain"
 msgid "Santiago"
-msgstr "Santiago"
+msgstr "Σαντιάγο"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Seldovia"
 msgid "Segovia"
-msgstr "Seldovia"
+msgstr "Σεγκόβια"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Senneville"
 msgctxt "City in Spain"
 msgid "Seville"
-msgstr "Senneville"
+msgstr "Σεβίλλη"
 
 #. A city in Spain
-#, fuzzy
-#| msgctxt "City in Arizona, United States"
-#| msgid "Peoria"
 msgid "Soria"
-msgstr "Peoria"
+msgstr "Σόρια"
 
 #. A city in Spain
 msgid "Talavera la Real"
-msgstr "Talavera la Real"
+msgstr "Ταλαβέρα λα Ρεάλ"
 
 #. A city in Spain
 msgid "Tamaduste"
-msgstr "Tamaduste"
+msgstr "Ταμαντούστε"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Paragon"
 msgctxt "City in Spain"
 msgid "Tarragona"
-msgstr "Paragon"
+msgstr "Ταρραγόνα"
 
 #. A city in Spain
 msgctxt "City in Spain"
 msgid "Teruel"
-msgstr ""
+msgstr "Τερουέλ"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Toledo"
 msgctxt "City in Spain"
 msgid "Toledo"
-msgstr "Toledo"
+msgstr "Τολέδο"
 
 #. A city in Spain
 msgid "Torrejón del Rey"
-msgstr "Torrejón del Rey"
+msgstr "Τορεχόν ντελ Ρέι"
 
 #. A city in Spain
 msgctxt "City in Spain"
 msgid "Valencia"
-msgstr "Valencia"
+msgstr "Βαλένθια"
 
 #. A city in Spain
 msgctxt "City in Spain"
 msgid "Valladolid"
-msgstr ""
+msgstr "Βαγιαδολίδ"
 
 #. A city in Spain
 msgid "Vigo"
-msgstr "Vigo"
+msgstr "Βίγο"
 
 #. A city in Spain
 msgid "Villanubla"
-msgstr "Villanubla"
+msgstr "Βιγιανούμπλα"
 
 #. A city in Spain
 msgid "Vitoria-Gasteiz"
-msgstr "Vitoria-Gasteiz"
+msgstr "Βιτόρια-Γκαστέις"
 
 #. A city in Spain
 msgid "Zamora"
-msgstr ""
+msgstr "Θαμόρα"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Zaragoza"
 msgctxt "City in Spain"
 msgid "Zaragoza"
-msgstr "Zaragoza"
+msgstr "Σαραγόσα"
 
 #. A city in Spain
 msgid "Ávila"
-msgstr ""
+msgstr "Άβιλα"
 
 #. The capital of Sri Lanka
 msgid "Colombo"
@@ -13283,11 +12959,11 @@ msgstr "Κολόμπο"
 
 #. A city in Sri Lanka
 msgid "Katunayaka"
-msgstr "Katunayaka"
+msgstr "Κατουναγιάκα"
 
 #. The capital of Sri Lanka
 msgid "Sri Jayewardenepura Kotte"
-msgstr "Sri Jayewardenapura Kotte"
+msgstr "Σρι Τζαγιαβαρντενεπούρα Κότε"
 
 #. The capital of Sudan.
 #. "Khartoum" is the traditional English name.
@@ -13302,7 +12978,7 @@ msgstr "Παραμαρίμπο"
 
 #. A city in Suriname
 msgid "Zanderij"
-msgstr "Zanderij"
+msgstr "Ζάντερι"
 
 #. The capital of Svalbard and Jan Mayen
 msgid "Longyearbyen"
@@ -13314,91 +12990,91 @@ msgstr "Λομπάμπα"
 
 #. A city in Swaziland
 msgid "Manzini"
-msgstr "Manzini"
+msgstr "Μανζίνι"
 
 #. The capital of Swaziland
 msgid "Mbabane"
-msgstr "Μπαμπανέ"
+msgstr "Μπαμπάν"
 
 #. A city in Sweden
 msgid "Borlänge"
-msgstr "Borlänge"
+msgstr "Μπορλένγκε"
 
 #. A city in Sweden
 msgid "Gällivare"
-msgstr "Gällivare"
+msgstr "Γκελιβάρε"
 
 #. A city in Sweden
 msgid "Göteborg"
-msgstr "Göteborg"
+msgstr "Γκέτεμποργκ"
 
 #. A city in Sweden
 msgid "Halmstad"
-msgstr "Halmstad"
+msgstr "Χάλμσταντ"
 
 #. A city in Sweden
 msgid "Jönköping"
-msgstr "Jönköping"
+msgstr "Γιένσεπινγκ"
 
 #. A city in Sweden
 msgid "Kalmar"
-msgstr "Kalmar"
+msgstr "Κάλμαρ"
 
 #. A city in Sweden
 msgid "Karlstad"
-msgstr "Karlstad"
+msgstr "Κάρλσταντ"
 
 #. A city in Sweden
 msgid "Kiruna"
-msgstr "Kiruna"
+msgstr "Κίρουνα"
 
 #. A city in Sweden
 msgid "Kramfors"
-msgstr "Kramfors"
+msgstr "Κράμφορς"
 
 #. A city in Sweden
 msgid "Kristianstad"
-msgstr "Kristianstad"
+msgstr "Κρίστιανσταντ"
 
 #. A city in Sweden
 msgid "Linköping"
-msgstr "Linköping"
+msgstr "Λινσέπινγκ"
 
 #. A city in Sweden
 msgid "Ljungbyhed"
-msgstr "Ljungbyhed"
+msgstr "Λιουνγκμπιχέντ"
 
 #. A city in Sweden
 msgid "Luleå"
-msgstr "Luleå"
+msgstr "Λουλέο"
 
 #. A city in Sweden
 msgid "Lycksele"
-msgstr "Lycksele"
+msgstr "Λίξελε"
 
 #. A city in Sweden
 msgid "Malmö"
-msgstr "Malmö"
+msgstr "Μάλμε"
 
 #. A city in Sweden
 msgid "Norrköping"
-msgstr "Norrköping"
+msgstr "Νόρσεπινγκ"
 
 #. A city in Sweden
 msgid "Nyköping"
-msgstr "Nyköping"
+msgstr "Νύσεπινγκ"
 
 #. A city in Sweden
 msgid "Ronneby"
-msgstr "Ronneby"
+msgstr "Ρόνεμπι"
 
 #. A city in Sweden
 msgid "Skellefteå"
-msgstr "Skellefteå"
+msgstr "Σκελεφτέο"
 
 #. A city in Sweden
 msgid "Skövde"
-msgstr "Skövde"
+msgstr "Σκέβντε"
 
 #. The capital of Sweden
 msgid "Stockholm"
@@ -13406,55 +13082,51 @@ msgstr "Στοκχόλμη"
 
 #. A city in Sweden
 msgid "Sundsvall"
-msgstr "Sundsvall"
+msgstr "Σούντσβαλ"
 
 #. A city in Sweden
 msgid "Söderhamn"
-msgstr "Söderhamn"
+msgstr "Σεντερχάμν"
 
 #. A city in Sweden
 msgid "Umeå"
-msgstr "Umeå"
+msgstr "Ούμεο"
 
 #. A city in Sweden
-#, fuzzy
-#| msgid "Upsala"
 msgid "Uppsala"
-msgstr "Upsala"
+msgstr "Ουψάλα"
 
 #. A city in Sweden
 msgid "Visby"
-msgstr "Visby"
+msgstr "Βίσμπι"
 
 #. A city in Sweden
 msgid "Västerås"
-msgstr "Västerås"
+msgstr "Βεστερός"
 
 #. A city in Sweden
 msgid "Växjö"
-msgstr "Växjö"
+msgstr "Βέξιο"
 
 #. A city in Sweden
 msgid "Ängelholm"
-msgstr "Ängelholm"
+msgstr "Ένγκελχολμ"
 
 #. A city in Sweden
 msgid "Örebro"
-msgstr "Örebro"
+msgstr "Έρεμπρο"
 
 #. A city in Sweden
 msgid "Örnsköldsvik"
-msgstr "Örnsköldsvik"
+msgstr "Ερνσκελντσβίκ"
 
 #. A city in Sweden
-#, fuzzy
-#| msgid "Ålesund"
 msgid "Östersund"
-msgstr "Ålesund"
+msgstr "Έστερσουντ"
 
 #. A city in Switzerland
 msgid "Basel"
-msgstr "Basel"
+msgstr "Βασιλεία"
 
 #. The capital of Switzerland
 msgid "Bern"
@@ -13465,11 +13137,11 @@ msgstr "Βέρνη"
 #. The local name is "Genève".
 #.
 msgid "Geneva"
-msgstr "Geneva"
+msgstr "Γενεύη"
 
 #. A city in Switzerland
 msgid "Grenchen"
-msgstr "Grenchen"
+msgstr "Γκρένχεν"
 
 #. A city in Switzerland
 msgid "Lausanne"
@@ -13477,38 +13149,38 @@ msgstr "Λοζάνη"
 
 #. A city in Switzerland
 msgid "Lugano"
-msgstr "Lugano"
+msgstr "Λουγκάνο"
 
 #. A city in Switzerland
 msgid "Neuchâtel"
-msgstr "Neuchâtel"
+msgstr "Νεσατέλ"
 
 #. A city in Switzerland
 msgid "Sankt Gallen"
-msgstr "Sankt Gallen"
+msgstr "Σανκτ Γκάλεν"
 
 #. A city in Switzerland
 msgid "Sion"
-msgstr "Sion"
+msgstr "Σιόν"
 
 #. A city in Switzerland
 msgid "St. Moritz"
-msgstr "St. Moritz"
+msgstr "Σεν Μόριτζ"
 
 #. A city in Switzerland
 msgid "Zürich"
-msgstr "Zürich"
+msgstr "Ζυρίχη"
 
 #. A city in Syria
 msgid "Al Qamishli"
-msgstr "Al Qamishli"
+msgstr "Αλ Καμισλί"
 
 #. A city in Syria.
 #. "Aleppo" is the traditional English name.
 #. The local name in Arabic is "Halab".
 #.
 msgid "Aleppo"
-msgstr "Aleppo"
+msgstr "Χαλέπι"
 
 #. The capital of Syria.
 #. "Damascus" is the traditional English name.
@@ -13519,20 +13191,20 @@ msgstr "Δαμασκός"
 
 #. A city in Syria
 msgid "Dayr az Zawr"
-msgstr "Dayr az Zawr"
+msgstr "Ντέιρ εζ-Ζορ"
 
 #. A city in Syria.
 #. "Latakia" is the traditional English name.
 #. The local name in Arabic is "Al Ladhiqiyah".
 #.
 msgid "Latakia"
-msgstr "Latakia"
+msgstr "Λατάκεια"
 
 #. A city in Taiwan.
 #. The name is also written "高雄".
 #.
 msgid "Kaohsiung"
-msgstr "Kaohsiung"
+msgstr "Καοσιούνγκ"
 
 #. The capital of Taiwan.
 #. The name is also written "臺北".
@@ -13544,7 +13216,7 @@ msgstr "Ταϊπέι"
 #. The name is also written "埔頂".
 #.
 msgid "Taoyuan"
-msgstr "Taoyuan"
+msgstr "Ταογιουάν"
 
 #. The capital of Tajikistan
 msgid "Dushanbe"
@@ -13552,11 +13224,11 @@ msgstr "Ντουσάνμπε"
 
 #. A city in Tanzania
 msgid "Arusha"
-msgstr "Arusha"
+msgstr "Αρούσα"
 
 #. A city in Tanzania
 msgid "Bukoba"
-msgstr "Bukoba"
+msgstr "Μπουκόμπα"
 
 #. The capital of Tanzania
 msgid "Dar es Salaam"
@@ -13564,51 +13236,51 @@ msgstr "Νταρ ες Σαλάμ"
 
 #. A city in Tanzania
 msgid "Dodoma"
-msgstr "Dodoma"
+msgstr "Ντοντόμα"
 
 #. A city in Tanzania
 msgid "Iringa"
-msgstr "Iringa"
+msgstr "Ιρίνγκα"
 
 #. A city in Tanzania
 msgid "Kigoma"
-msgstr "Kigoma"
+msgstr "Κιγκόμα"
 
 #. A city in Tanzania
 msgid "Mbeya"
-msgstr "Mbeya"
+msgstr "Μμπέγια"
 
 #. A city in Tanzania
 msgid "Morogoro"
-msgstr "Morogoro"
+msgstr "Μορογκόρο"
 
 #. A city in Tanzania
 msgid "Moshi"
-msgstr "Moshi"
+msgstr "Μόσι"
 
 #. A city in Tanzania
 msgid "Mtwara"
-msgstr "Mtwara"
+msgstr "Μτουάρα"
 
 #. A city in Tanzania
 msgid "Musoma"
-msgstr "Musoma"
+msgstr "Μουσόμα"
 
 #. A city in Tanzania
 msgid "Mwanza"
-msgstr "Mwanza"
+msgstr "Μουάνζα"
 
 #. A city in Tanzania
 msgid "Songea"
-msgstr "Songea"
+msgstr "Σονγκέα"
 
 #. A city in Tanzania
 msgid "Tabora"
-msgstr "Tabora"
+msgstr "Ταμπόρα"
 
 #. A city in Tanzania
 msgid "Zanzibar"
-msgstr "Zanzibar"
+msgstr "Ζανζιβάρη"
 
 #. The capital of Thailand.
 #. "Bangkok" is the traditional English name.
@@ -13619,67 +13291,67 @@ msgstr "Μπανγκόκ"
 
 #. A city in Thailand
 msgid "Chiang Mai"
-msgstr "Chiang Mai"
+msgstr "Τσιάνγκ Μάι"
 
 #. A city in Thailand
 msgid "Chon Buri"
-msgstr "Chon Buri"
+msgstr "Τσονμπούρι"
 
 #. A city in Thailand
 msgid "Hat Yai"
-msgstr "Hat Yai"
+msgstr "Χατ Γιάι"
 
 #. A city in Thailand
 msgid "Hua Hin"
-msgstr "Hua Hin"
+msgstr "Χουά Χιν"
 
 #. A city in Thailand
 msgid "Khon Kaen"
-msgstr "Khon Kaen"
+msgstr "Κον Καέν"
 
 #. A city in Thailand
 msgid "Lampang"
-msgstr "Lampang"
+msgstr "Λαμπάνγκ"
 
 #. A city in Thailand
 msgid "Mae Hong Son"
-msgstr "Mae Hong Son"
+msgstr "Μάε Χονγκ Σον"
 
 #. A city in Thailand
 msgid "Nan"
-msgstr "Nan"
+msgstr "Ναν"
 
 #. A city in Thailand
 msgid "Phrae"
-msgstr "Phrae"
+msgstr "Πράε"
 
 #. A city in Thailand
 msgid "Phuket"
-msgstr "Phuket"
+msgstr "Πουκέτ"
 
 #. A city in Thailand
 msgid "Ranong"
-msgstr "Ranong"
+msgstr "Ρανόνγκ"
 
 #. A city in Thailand
 msgid "Rayong"
-msgstr "Rayong"
+msgstr "Ραγιόνγκ"
 
 #. A city in Thailand
 msgid "Surat Thani"
-msgstr "Surat Thani"
+msgstr "Σουράτ Θάνι"
 
 #. A city in Thailand
 msgid "Trang"
-msgstr "Trang"
+msgstr "Τρανγκ"
 
 #. A city in Thailand
 msgid "Ubon Ratchathani"
-msgstr "Ubon Ratchathani"
+msgstr "Ουμπόν Ρατσαθάνι"
 
 #. A city in Thailand
 msgid "Udon Thani"
-msgstr "Udon Thani"
+msgstr "Ουντόν Θάνι"
 
 #. The capital of Togo
 msgid "Lome"
@@ -13687,11 +13359,11 @@ msgstr "Λομέ"
 
 #. A city in Togo
 msgid "Niamtougou"
-msgstr "Niamtougou"
+msgstr "Νιαμτουγκού"
 
 #. A city in Tonga
 msgid "Fua'amotu"
-msgstr "Fua'amotu"
+msgstr "Φουαμότου"
 
 #. The capital of Tonga
 msgid "Nuku'alofa"
@@ -13699,11 +13371,11 @@ msgstr "Νουκουαλόφα"
 
 #. A city in Trinidad and Tobago
 msgid "Bon Accord"
-msgstr "Bon Accord"
+msgstr "Μπον Ακόρντ"
 
 #. A city in Trinidad and Tobago
 msgid "Piarco"
-msgstr "Piarco"
+msgstr "Πιάρκο"
 
 #. The capital of Trinidad and Tobago
 msgid "Port-of-Spain"
@@ -13711,55 +13383,55 @@ msgstr "Πορτ οφ Σπέιν"
 
 #. A city in Tunisia
 msgid "Bizerte"
-msgstr "Bizerte"
+msgstr "Μπιζέρτα"
 
 #. A city in Tunisia
 msgid "El Borma"
-msgstr "El Borma"
+msgstr "Ελ Μπόρμα"
 
 #. A city in Tunisia
 msgid "Gabes"
-msgstr "Gabes"
+msgstr "Γκαμπές"
 
 #. A city in Tunisia
 msgid "Gafsa"
-msgstr "Gafsa"
+msgstr "Γκάφσα"
 
 #. A city in Tunisia
 msgid "Houmt Souk"
-msgstr "Houmt Souk"
+msgstr "Χουμτ Σουκ"
 
 #. A city in Tunisia
 msgid "Jendouba"
-msgstr "Jendouba"
+msgstr "Τζεντούμπα"
 
 #. A city in Tunisia
 msgid "Kairouan"
-msgstr "Kairouan"
+msgstr "Καϊρουάν"
 
 #. A city in Tunisia
 msgid "Monastir"
-msgstr "Monastir"
+msgstr "Μοναστήρι (Τυνησία)"
 
 #. A city in Tunisia
 msgid "Qulaybiyah"
-msgstr "Qulaybiyah"
+msgstr "Κελιμπία"
 
 #. A city in Tunisia
 msgid "Remada"
-msgstr "Remada"
+msgstr "Ρεμάντα"
 
 #. A city in Tunisia
 msgid "Sfax"
-msgstr "Sfax"
+msgstr "Σφαξ"
 
 #. A city in Tunisia
 msgid "Tabarka"
-msgstr "Tabarka"
+msgstr "Ταμπάρκα"
 
 #. A city in Tunisia
 msgid "Tozeur"
-msgstr "Tozeur"
+msgstr "Τοζέρ"
 
 #. The capital of Tunisia
 msgid "Tunis"
@@ -13767,117 +13439,115 @@ msgstr "Τύνιδα"
 
 #. A city in Turkey
 msgid "Adana"
-msgstr "Adana"
+msgstr "Άδανα"
 
 #. The capital of Turkey
 msgid "Ankara"
 msgstr "Άγκυρα"
 
 #. A city in Turkey
-#, fuzzy
-#| msgid "Antalya"
 msgid "Antakya"
-msgstr "Antalya"
+msgstr "Αντιόχεια"
 
 #. A city in Turkey
 msgid "Antalya"
-msgstr "Antalya"
+msgstr "Αττάλεια"
 
 #. A city in Turkey
 msgid "Balikesir"
-msgstr "Balikesir"
+msgstr "Μπαλικεσίρ"
 
 #. A city in Turkey
 msgid "Bandirma"
-msgstr "Bandirma"
+msgstr "Πάνορμος (Κυζίκου)"
 
 #. A city in Turkey
 msgid "Bodrum"
-msgstr "Bodrum"
+msgstr "Αλικαρνασσός"
 
 #. A city in Turkey
 msgid "Burdur"
-msgstr "Burdur"
+msgstr "Πολυδώριο"
 
 #. A city in Turkey
 msgid "Bursa"
-msgstr "Bursa"
+msgstr "Προύσα"
 
 #. A city in Turkey
 msgid "Corlu"
-msgstr "Corlu"
+msgstr "Τυρολόη"
 
 #. A city in Turkey
 msgid "Dalaman"
-msgstr "Dalaman"
+msgstr "Νταλαμάν"
 
 #. A city in Turkey
 msgid "Diyarbakir"
-msgstr "Diyarbakir"
+msgstr "Ντιγιάρμπακιρ"
 
 #. A city in Turkey
 msgid "Erzurum"
-msgstr "Erzurum"
+msgstr "Ερζερούμ"
 
 #. A city in Turkey
 msgid "Eskisehir"
-msgstr "Eskisehir"
+msgstr "Εσκισεχίρ"
 
 #. A city in Turkey
 msgid "Gaziantep"
-msgstr "Gaziantep"
+msgstr "Γκαζιαντέπ"
 
 #. A city in Turkey
 msgid "Istanbul"
-msgstr "Istanbul"
+msgstr "Κωνσταντινούπολη"
 
 #. A city in Turkey
 msgid "Izmir"
-msgstr "Izmir"
+msgstr "Σμύρνη"
 
 #. A city in Turkey
 msgid "Kars"
-msgstr "Kars"
+msgstr "Καρς"
 
 #. A city in Turkey
 msgid "Kayseri"
-msgstr "Kayseri"
+msgstr "Καισάρεια"
 
 #. A city in Turkey
 msgid "Kislakoy"
-msgstr "Kislakoy"
+msgstr "Κισλακόι"
 
 #. A city in Turkey
 msgid "Konya"
-msgstr "Konya"
+msgstr "Ικόνιο"
 
 #. A city in Turkey
 msgid "Malatya"
-msgstr "Malatya"
+msgstr "Μαλάτεια"
 
 #. A city in Turkey
 msgid "Merzifon"
-msgstr "Merzifon"
+msgstr "Μερζιφούντα"
 
 #. A city in Turkey
 msgid "Nevsehir"
-msgstr "Nevsehir"
+msgstr "Νεβσεχίρ"
 
 #. A city in Turkey
 msgid "Samsun"
-msgstr "Samsun"
+msgstr "Σαμψούντα"
 
 #. A city in Turkey
 msgid "Tepetarla"
-msgstr "Tepetarla"
+msgstr "Τεπεταρλά"
 
 #. A city in Turkey
 msgid "Trabzon"
-msgstr "Trabzon"
+msgstr "Τραπεζούντα"
 
 #. A city in Turkey
 msgid "Van"
-msgstr "Van"
+msgstr "Βαν"
 
 #. The capital of Turkmenistan.
 #. "Ashgabat" is the traditional English name.
@@ -13892,95 +13562,87 @@ msgstr "Φουναφούτι"
 
 #. A city in Uganda
 msgid "Arua"
-msgstr "Arua"
+msgstr "Αρούα"
 
 #. A city in Uganda
 msgid "Entebbe"
-msgstr "Entebbe"
+msgstr "Εντέμπε"
 
 #. A city in Uganda
 msgid "Kabale"
-msgstr "Kabale"
+msgstr "Καμπάλε"
 
 #. The capital of Uganda
 msgid "Kampala"
 msgstr "Καμπάλα"
 
 #. A city in Ukraine: https://en.wikipedia.org/wiki/Berdiansk
-#, fuzzy
-#| msgid "Bryansk"
 msgid "Berdiansk"
-msgstr "Bryansk"
+msgstr "Μπερντιάνσκ"
 
 msgid "Berdychiv"
-msgstr ""
+msgstr "Μπερντίτσιφ"
 
 msgid "Boryspil'"
-msgstr "Boryspil'"
+msgstr "Μπορίσπιλ"
 
 #. Cherkasy Oblast administrative center: https://en.wikipedia.org/wiki/Cherkasy
-#, fuzzy
-#| msgid "Cherokee"
 msgid "Cherkasy"
-msgstr "Cherokee"
+msgstr "Τσερκάσι"
 
 #. Chernihiv Oblast administrative center: https://en.wikipedia.org/wiki/Chernihiv
-#, fuzzy
-#| msgid "Chernivtsi"
 msgid "Chernihiv"
-msgstr "Τσερνιβτσί"
+msgstr "Τσερνίχιβ"
 
 #. Chernivtsi Oblast administrative center: https://en.wikipedia.org/wiki/Chernivtsi
 msgid "Chernivtsi"
 msgstr "Τσερνιβτσί"
 
-#, fuzzy
-#| msgid "Comoros"
 msgid "Chornomorsk"
-msgstr "Κομόρες"
+msgstr "Τσορνομόρσκ"
 
 msgid "Chortkiv"
-msgstr ""
+msgstr "Τσορτκίφ"
 
 msgid "Chuhuiv"
-msgstr ""
+msgstr "Τσουχούιβ"
 
 #. Dnipropetrovsk Oblast administrative center
 msgid "Dnipro"
-msgstr ""
+msgstr "Ντνίπρο"
 
 #. Donets'k Oblast administrative center
 msgid "Donets'k"
-msgstr "Donets'k"
+msgstr "Ντονέτσκ"
 
 msgid "Dubno"
-msgstr ""
+msgstr "Ντούμπνο"
 
 #. A city in Ukraine: https://en.wikipedia.org/wiki/Enerhodar
 msgid "Enerhodar"
-msgstr ""
+msgstr "Ενερχοντάρ"
 
 msgid "Hostomel'"
-msgstr "Hostomel'"
+msgstr "Χοστόμελ"
 
 #. Ivano-Frankivsk Oblast administrative center
 msgid "Ivano-Frankivs'k"
-msgstr "Ivano-Frankivs'k"
+msgstr "Ιβάνο-Φρανκίβσκ"
 
 msgid "Izium"
-msgstr ""
+msgstr "Ιζιούμ"
 
 msgid "Izmail"
-msgstr ""
+msgstr "Ισμαήλ"
 
 msgid "Kalush"
-msgstr ""
+msgstr "Καλούς"
 
 msgid "Kamianets-Podilskyi"
-msgstr ""
+msgstr "Καμιανέτς-Ποντίλσκι"
 
 msgid "Kerch"
-msgstr ""
+msgstr "Κερτς"
 
 #. Kharkiv Oblast administrative center
 msgid "Kharkiv"
