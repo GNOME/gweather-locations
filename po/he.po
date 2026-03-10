@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: po-locations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-13 03:18+0000\n"
-"PO-Revision-Date: 2025-02-27 10:27+0200\n"
+"POT-Creation-Date: 2026-03-08 10:20+0000\n"
+"PO-Revision-Date: 2026-03-09 16:48+0200\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: צוות התרגום של KDE ישראל\n"
 "Language: he\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.8\n"
 
 #. TRANSLATORS: This is the designation for the last (most west) timezone on Earth
 #. https://en.wikipedia.org/wiki/Anywhere_on_Earth
@@ -4020,6 +4020,10 @@ msgstr "קמפוס דו חורדאו"
 #. A city in Rio Grande do Sul in Brazil
 msgid "Canoas"
 msgstr "קאנואס"
+
+#. A city in Paraná in Brazil
+msgid "Cascavel"
+msgstr "קסקבל"
 
 #. A city in Rio Grande do Sul in Brazil
 msgid "Caxias do Sul"
@@ -8638,7 +8642,7 @@ msgstr "פקאלונגן"
 
 #. A city in Indonesia
 msgid "Pekanbaru"
-msgstr "פֶּקָנְבַּארוּ"
+msgstr "פֶּקָנְבַּארוּ"
 
 #. A city in Indonesia
 msgid "Pematang Siantar"
