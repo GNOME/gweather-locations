@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: locations.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-08 10:20+0000\n"
+"POT-Creation-Date: 2026-03-10 20:01+0000\n"
 "PO-Revision-Date: 2020-09-30 23:34+0300\n"
 "Last-Translator: Efstathios Iosifidis <eiosifidis@gnome.org>\n"
 "Language-Team: Greek, Modern (1453-) <opensuse-translation-el@opensuse.org>\n"
@@ -1657,7 +1657,7 @@ msgstr "Άκρε"
 #. several of the time zones will appear to be redundant,
 #. but exactly which ones seem redundant may differ from
 #. year to year, and there's no good way to identify the
-#. zones other than by listing states. Anyway, "Brasília
+#. zones other than by listing states.  Anyway, "Brasília
 #. Time" is the most common timezone, being used by about a
 #. third of the states in Brazil (Distrito Federal,
 #. Espírito Santo, Goiás, Minas Gerais, Paraná, Rio de
@@ -1867,7 +1867,8 @@ msgstr "Ώρα Βραχωδών Ορέων"
 #. observe Daylight Saving Time with the rest of the zone.
 #.
 msgid "Mountain Time, no DST (Northeast BC)"
-msgstr "Ώρα Βραχωδών Ορέων, χωρίς θερινή ώρα (Βορειοανατολική Βρετανική Κολομβία)"
+msgstr ""
+"Ώρα Βραχωδών Ορέων, χωρίς θερινή ώρα (Βορειοανατολική Βρετανική Κολομβία)"
 
 #. The time zone used in the central-east part of North
 #. America. In Mexico it is called "Tiempo del Centro", and
@@ -2422,7 +2423,6 @@ msgid "Thuringia"
 msgstr "Θουριγγία"
 
 #. A union territory in India
-#| msgid "Turks and Caicos Islands"
 msgctxt "Union Territory in India"
 msgid "Andaman and Nicobar Islands"
 msgstr "Νήσοι Ανταμάν και Νικομπάρ"
@@ -2462,7 +2462,7 @@ msgctxt "Union Territory in India"
 msgid "Dadra and Nagar Haveli and Daman and Diu"
 msgstr "Ντάντρα και Ναγκάρ Χαβέλι και Νταμάν και Ντιού"
 
-#. A union territory in India
+#. A  union territory in India
 msgctxt "Union Territory in India"
 msgid "Delhi"
 msgstr "Δελχί"
@@ -3676,7 +3676,7 @@ msgstr "Μπιερσέ"
 
 #. The capital of Belgium.
 #. "Brussels" is the traditional English name.
-#. The local name is "Bruxelles".
+#. The local name in French is "Bruxelles".
 #. The local name in Dutch is "Brussel".
 #.
 msgid "Brussels"
@@ -4145,7 +4145,7 @@ msgstr "Ζαραγκουά ντο Σουλ"
 msgid "Joinville"
 msgstr "Ζοϊνβίλε"
 
-#. A city in Paraίba in Brazil
+#. A city in Paraíba in Brazil
 msgid "João Pessoa"
 msgstr "Ζοάο Πεσόα"
 
@@ -4465,7 +4465,7 @@ msgstr "Ταουμπατέ"
 msgid "Tefé"
 msgstr "Τεφέ"
 
-#. A city in Piauί in Brazil
+#. A city in Piauí in Brazil
 msgid "Teresina"
 msgstr "Τερεζίνα"
 
@@ -4474,7 +4474,8 @@ msgid "Tubarão"
 msgstr "Τουμπαράο"
 
 #. A city in Pará in Brazil
-msgid "Tucuruί"
+#| msgid "Tucuruί"
+msgid "Tucuruí"
 msgstr "Τουκουρουί"
 
 #. A city in Minas Gerais in Brazil
@@ -6270,18 +6271,26 @@ msgid "Beijing"
 msgstr "Πεκίνο"
 
 #. A city in Jilin in China.
+#. The name is also written "长春".
+#.
 msgid "Changchun"
 msgstr "Τσανγκτσούν"
 
 #. A city in Hunan in China.
+#. The name is also written "长沙".
+#.
 msgid "Changsha"
 msgstr "Τσανγκσά"
 
 #. A city in Sichuan in China.
+#. The name is also written "成都".
+#.
 msgid "Chengdu"
 msgstr "Τσενγκντού"
 
 #. A city in Chongqing in China.
+#. The name is also written "重庆".
+#.
 msgctxt "City in Chongqing, China"
 msgid "Chongqing"
 msgstr "Τσονγκτσίνγκ"
@@ -6291,10 +6300,14 @@ msgid "Dalian"
 msgstr "Νταλιάν"
 
 #. A city in Fujian in China.
+#. The name is also written "福州".
+#.
 msgid "Fuzhou"
 msgstr "Φουτζόου"
 
 #. A city in Guangdong in China.
+#. The name is also written "广州".
+#.
 msgid "Guangzhou"
 msgstr "Κουανγκτσόου"
 
@@ -6303,14 +6316,20 @@ msgid "Guilin"
 msgstr "Γκουιλίν"
 
 #. A city in Zhejiang in China.
+#. The name is also written "杭州".
+#.
 msgid "Hangzhou"
 msgstr "Χανγκτσόου"
 
 #. A city in Heilongjiang in China.
+#. The name is also written "哈尔滨".
+#.
 msgid "Harbin"
 msgstr "Χαρμπίν"
 
 #. A city in Anhui in China.
+#. The name is also written "合肥".
+#.
 msgid "Hefei"
 msgstr "Χεφέι"
 
@@ -6391,8 +6410,10 @@ msgstr "Ταϊγιουάν"
 #. A city in Tianjin in China.
 #. The name is also written "天津".
 #.
+#| msgctxt "State in China"
+#| msgid "Tianjin"
 msgctxt "City in Tianjin, China"
-msgid "天津"
+msgid "Tianjin"
 msgstr "Τιαντζίν"
 
 #. A city in Xinjiang in China.
@@ -7666,6 +7687,9 @@ msgid "Meßstetten"
 msgstr "Μεστέτεν"
 
 #. A city in Bavaria in Germany.
+#. "Munich" is the traditional English name.
+#. The local name is "München".
+#.
 msgid "Munich"
 msgstr "Μόναχο"
 
@@ -7686,6 +7710,8 @@ msgid "Naumburg (Saale)"
 msgstr "Νάουμπουργκ (Ζάαλε)"
 
 #. A city in Bavaria in Germany.
+#. One of several cities in Germany called "Neuburg".
+#.
 msgid "Neuburg an der Donau"
 msgstr "Νόιμπουργκ αν ντερ Ντόναου"
 
@@ -7702,6 +7728,9 @@ msgid "Nordholz"
 msgstr "Νόρντχολτς"
 
 #. A city in Bavaria in Germany.
+#. "Nuremberg" is the traditional English name.
+#. The local name is "Nürnberg".
+#.
 msgid "Nuremberg"
 msgstr "Νυρεμβέργη"
 
@@ -7934,7 +7963,6 @@ msgid "Thessaloníki"
 msgstr "Θεσσαλονίκη"
 
 #. A city in Greece
-#| msgid "Tikal"
 msgid "Trikala"
 msgstr "Τρίκαλα"
 
@@ -8159,14 +8187,19 @@ msgid "Reykjavík"
 msgstr "Ρέικιαβικ"
 
 #. A city in Iceland
-msgid "Ytri-Njarðvíκ"
+#| msgid "Ytri-Njarðvíκ"
+msgid "Ytri-Njarðvík"
 msgstr "Ύτρι-Νιαρδβίκ"
 
 #. A city in India
+#. the local name in Bengali is "আগরতলা/Agortôla"
+#.
 msgid "Agartala"
 msgstr "Αγκαρτάλα"
 
 #. A city in India
+#. the local name in Hindi is "आगरा"
+#.
 msgid "Agra"
 msgstr "Άγκρα"
 
@@ -8175,14 +8208,20 @@ msgid "Ahmadabad"
 msgstr "Αχμενταμπάντ"
 
 #. A city in India
+#. the local name in Hindi is "इलाहाबाद"
+#.
 msgid "Allahabad"
 msgstr "Αλαχαμπάντ"
 
 #. A city in India
+#. the local name in Punjabi is "ਅੰਮ੍ਰਿਤਸਰ"
+#.
 msgid "Amritsar"
 msgstr "Αμριτσάρ"
 
 #. A city in India
+#. the local name in Marathi is "औरंगाबाद"
+#.
 msgid "Aurangabad"
 msgstr "Αουρανγκαμπάντ"
 
@@ -8191,22 +8230,35 @@ msgid "Bagdogra"
 msgstr "Μπαγκντόγκρα"
 
 #. A city in India - local airport
+#. "Bengaluru" is the new name
+#.
 msgid "Bangalore"
 msgstr "Μπανγκαλόρ"
 
 #. A city in India.
+#. "Benares" is the traditional English name.
+#. The local name is "Varanasi".
+#. The local name in Hindi is "वाराणसी".
+#.
 msgid "Benares"
 msgstr "Μπεναρές (Βαρανάσι)"
 
 #. A city in India
+#. the local name in Gujrati is "ભાવનગર"
+#. the local name in Hindi is "भावनगर"
+#.
 msgid "Bhavnagar"
 msgstr "Μπαβναγκάρ"
 
 #. A city in India.
+#. The local name in Hindi is "भोपाल".
+#.
 msgid "Bhopal"
 msgstr "Μποπάλ"
 
 #. A city in India.
+#. The local name in Oriya is "ଭୁବେନଶ୍ବର".
+#.
 msgid "Bhubaneshwar"
 msgstr "Μπουμπανέσβαρ"
 
@@ -8219,10 +8271,16 @@ msgid "Car Nicobar"
 msgstr "Νήσος Καρ Νικομπάρ"
 
 #. A union territory in India.
+#. The local name in Hindi is "चण्डीगढ़ / चंडीगढ़"
+#. The local name in Punjabi is "ਚੰਡੀਗੜ੍ਹ"
+#.
 msgid "Chandigarh"
 msgstr "Τσαντιγκάρ"
 
 #. A city in India.
+#. "Madras" is the traditional English name.
+#. The local name in Tamil is "Chennai / சென்னை".
+#.
 msgid "Chennai"
 msgstr "Τσενάι"
 
@@ -8304,7 +8362,7 @@ msgid "Nagpur"
 msgstr "Ναγκπούρ"
 
 #. The capital of India.
-#. The local name in Urdu is "نئی δلی".
+#. The local name in Urdu is "نئی دلی".
 #. The local name in Panjabi is "ਨਵੀਂ ਦਿੱਲੀ".
 #. The local name in Hindi is "नई दिल्ली".
 #.
@@ -8935,7 +8993,7 @@ msgid "Tehran"
 msgstr "Τεχεράνη"
 
 #. A city in Iran.
-#. The name is also written "یزد".
+#. The name is also written "يزد".
 #.
 msgid "Yazd"
 msgstr "Γιαζντ"
@@ -9266,6 +9324,9 @@ msgid "Ferrara"
 msgstr "Φεράρα"
 
 #. A city in Italy.
+#. "Florence" is the traditional English name.
+#. The local name in Italian is "Firenze".
+#.
 msgctxt "City in Italy"
 msgid "Florence"
 msgstr "Φλωρεντία"
@@ -10105,6 +10166,9 @@ msgid "Al Jizah"
 msgstr "Αλ Τζίζα"
 
 #. The capital of Jordan.
+#. "Amman" is the traditional English name.
+#. The local name in Arabic is "'Amman".
+#.
 msgid "Amman"
 msgstr "Αμμάν"
 
@@ -10113,10 +10177,14 @@ msgid "Almaty"
 msgstr "Αλμάτι"
 
 #. A city in Kazakhstan.
+#. The local name in Russian is "Aktau".
+#.
 msgid "Aqtau"
 msgstr "Ακτάου"
 
 #. A city in Kazakhstan.
+#. The local name in Russian is "Aktobe".
+#.
 msgid "Aqtöbe"
 msgstr "Ακτόμπε"
 
@@ -10129,18 +10197,26 @@ msgid "Atyrau"
 msgstr "Ατιράου"
 
 #. A city in Kazakhstan.
+#. The local name in Russian is "Ural'sk".
+#.
 msgid "Oral"
 msgstr "Οράλ"
 
 #. A city in Kazakhstan.
+#. The local name in Russian is "Karaganda".
+#.
 msgid "Qaraghandy"
 msgstr "Καραγκάντα"
 
 #. A city in Kazakhstan.
+#. The local name in Russian is "Kostanay".
+#.
 msgid "Qostanay"
 msgstr "Κοστανάι"
 
 #. A city in Kazakhstan.
+#. The local name in Russian is "Kyzylorda".
+#.
 msgid "Qyzylorda"
 msgstr "Κυζυλόρντα"
 
@@ -10706,7 +10782,7 @@ msgid "Monaco"
 msgstr "Μονακό"
 
 #. The capital of Mongolia.
-#. The name is also written "Улаανбаатар".
+#. The name is also written "Улаанбаатар".
 #.
 msgid "Ulaanbaatar"
 msgstr "Ουλάν Μπατόρ"
@@ -11114,6 +11190,8 @@ msgid "Kingston"
 msgstr "Κίνγκστον"
 
 #. The capital of North Korea.
+#. The local name in Korean is "평양".
+#.
 msgid "Pyongyang"
 msgstr "Πιονγκ Γιανγκ"
 
@@ -11326,6 +11404,9 @@ msgid "Mu'askar al Murtafi'ah"
 msgstr "Μουασκάρ αλ Μουρταφία"
 
 #. The capital of Oman.
+#. "Muscat" is the traditional English name.
+#. The local name in Arabic is "Masqat".
+#.
 msgid "Muscat"
 msgstr "Μουσκάτ"
 
@@ -11534,7 +11615,8 @@ msgstr "Σούμπικ"
 msgid "Zamboanga City"
 msgstr "Πόλη Ζαμποάνγκα"
 
-#. A city in Poland
+#. A city in Poland:
+#. https://en.wikipedia.org/wiki/Bielsko-Bia%C5%82a
 msgid "Bielsko-Biala"
 msgstr "Μπιέλσκο-Μπιάλα"
 
@@ -11595,6 +11677,9 @@ msgid "Tarnowskie Góry"
 msgstr "Ταρνόφσκιε Γκούρι"
 
 #. The capital of Poland.
+#. "Warsaw" is the traditional English name.
+#. The local name in Polish is "Warszawa".
+#.
 msgctxt "City in Poland"
 msgid "Warsaw"
 msgstr "Βαρσοβία"
@@ -11636,6 +11721,9 @@ msgid "Lajes"
 msgstr "Λάζες"
 
 #. The capital of Portugal.
+#. "Lisbon" is the traditional English name.
+#. The local name in Portuguese is "Lisboa".
+#.
 msgid "Lisbon"
 msgstr "Λισαβόνα"
 
@@ -11664,6 +11752,8 @@ msgid "Porto Santo"
 msgstr "Πόρτο Σάντο"
 
 #. A city in Portugal.
+#. One of several cities in Portugal called "Santa Cruz".
+#.
 msgid "Santa Cruz das Flores"
 msgstr "Σάντα Κρουζ ντας Φλόρες"
 
@@ -11692,6 +11782,9 @@ msgid "San Juan"
 msgstr "Σαν Χουάν"
 
 #. The capital of Qatar.
+#. "Doha" is the traditional English name.
+#. The local name in Arabic is "Ad Dawhah / الدوحة".
+#.
 msgid "Doha"
 msgstr "Ντόχα"
 
@@ -11732,6 +11825,9 @@ msgid "Brăila"
 msgstr "Μπραΐλα"
 
 #. The capital of Romania.
+#. "Bucharest" is the traditional English name.
+#. The local name in Romanian is "București".
+#.
 msgid "Bucharest"
 msgstr "Βουκουρέστι"
 
@@ -11859,91 +11955,135 @@ msgstr "Βασλούι"
 msgid "Zalău"
 msgstr "Ζαλάου"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Абакан".
+#.
 msgid "Abakan"
 msgstr "Αμπακάν"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Адлер".
+#.
 msgid "Adler"
 msgstr "Άντλερ"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Анадырь".
+#.
 msgid "Anadyr'"
 msgstr "Αναντίρ"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Анапа".
+#.
 msgid "Anapa"
 msgstr "Ανάπα"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Архангельск".
+#.
 msgid "Arkhangel'sk"
 msgstr "Αρχάγγελσκ"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Астрахань".
+#.
 msgid "Astrakhan'"
 msgstr "Αστραχάν"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Барнаул".
+#.
 msgid "Barnaul"
 msgstr "Μπαρναούλ"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Благовещенск".
+#.
 msgid "Blagoveschensk"
 msgstr "Μπλαγκοβέστσενσκ"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Братск".
+#.
 msgid "Bratsk"
 msgstr "Μπράτσκ"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Брянск".
+#.
 msgid "Bryansk"
 msgstr "Μπριάνσκ"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Чебоксары".
+#.
 msgid "Cheboksary"
 msgstr "Τσεμποκσάρι"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Челябинск".
+#.
 msgid "Chelyabinsk"
 msgstr "Τσελιάμπινσκ"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Чита".
+#.
 msgid "Chita"
 msgstr "Τσιτά"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Чульман".
+#.
 msgid "Chul'man"
 msgstr "Τσουλμάν"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Энгельс".
+#.
 msgid "Engel's"
 msgstr "Ένγκελς"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Иркутск".
+#.
 msgid "Irkutsk"
 msgstr "Ιρκούτσκ"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Ижевск".
+#.
 msgid "Izhevsk"
 msgstr "Ιζέφσκ"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Калининград".
+#.
 msgid "Kaliningrad"
 msgstr "Καλίνινγκραντ"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Казань".
+#.
 msgid "Kazan'"
 msgstr "Καζάν"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Кемерово".
+#.
 msgid "Kemerovo"
 msgstr "Κέμεροβο"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Хабаровск".
+#.
 msgid "Khabarovsk"
 msgstr "Χαμπάροφσκ"
 
-#. A city in Russia
+#. A city in Russia.
+#. The local name in Russian is "Ханты-Мансийск".
+#.
 msgid "Khanty-Mansiysk"
 msgstr "Χάντι-Μανσίισκ"
 
@@ -13668,6 +13808,9 @@ msgid "Kryvyi Rih"
 msgstr "Κρίβι Ριχ"
 
 #. The capital of Ukraine.
+#. "Kiev" is the old English name. The local name in
+#. Ukrainian is "Київ", which transliterates to "Kyiv".
+#.
 msgid "Kyiv"
 msgstr "Κίεβο"
 
@@ -13794,6 +13937,9 @@ msgid "Zhytomyr"
 msgstr "Ζιτόμιρ"
 
 #. The capital of the United Arab Emirates.
+#. "Abu Dhabi" is the traditional English name.
+#. The local name in Arabic is "Abu Zaby".
+#.
 msgid "Abu Dhabi"
 msgstr "Άμπου Ντάμπι"
 
@@ -13806,6 +13952,9 @@ msgid "Al Fujayrah"
 msgstr "Φουτζέιρα"
 
 #. A city in the United Arab Emirates.
+#. "Dubai" is the traditional English name.
+#. The local name in Arabic is "Dubayy".
+#.
 msgid "Dubai"
 msgstr "Ντουμπάι"
 
@@ -13814,6 +13963,9 @@ msgid "Ra's al Khaymah"
 msgstr "Ρας αλ-Χαϊμά"
 
 #. A city in the United Arab Emirates.
+#. "Sharjah" is the traditional English name.
+#. The local name in Arabic is "Ash Shariqah".
+#.
 msgid "Sharjah"
 msgstr "Σάρτζα"
 
@@ -13826,12 +13978,16 @@ msgstr "Αμπερντίν"
 msgid "Belfast"
 msgstr "Μπέλφαστ"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgctxt "City in East and South East England, United Kingdom"
 msgid "Benson"
 msgstr "Μπένσον"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Biggin Hill"
 msgstr "Μπίγκιν Χιλ"
 
@@ -13844,35 +14000,51 @@ msgstr "Μπέρμιγχαμ"
 msgid "Blackpool"
 msgstr "Μπλάκπουλ"
 
-#. A city in South and South West England in the United Kingdom
+#. A city in South and South West England in the United
+#. Kingdom
+#.
 msgid "Boscombe"
 msgstr "Μπόσκομ"
 
-#. A city in South and South West England in the United Kingdom
+#. A city in South and South West England in the United
+#. Kingdom
+#.
 msgid "Bournemouth"
 msgstr "Μπόρνμουθ"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Bracknell"
 msgstr "Μπράκνελ"
 
-#. A city on the South East coast of England in the United Kingdom
+#. A city on the South East coast of England in the United
+#. Kingdom
+#.
 msgid "Brighton"
 msgstr "Μπράιτον"
 
-#. A city in South and South West England in the United Kingdom
+#. A city in South and South West England in the United
+#. Kingdom
+#.
 msgid "Bristol"
 msgstr "Μπρίστολ"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Brize Norton"
 msgstr "Μπράιζ Νόρτον"
 
-#. A city in South and South West England in the United Kingdom
+#. A city in South and South West England in the United
+#. Kingdom
+#.
 msgid "Butes"
 msgstr "Μπιούτς"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgctxt "City in East and South East England, United Kingdom"
 msgid "Cambridge"
 msgstr "Κέιμπριτζ"
@@ -13882,6 +14054,8 @@ msgid "Campbeltown"
 msgstr "Κάμπελταουν"
 
 #. A city in Wales in the United Kingdom.
+#. The local name in Welsh is "Caerdydd".
+#.
 msgctxt "City in Wales, United Kingdom"
 msgid "Cardiff"
 msgstr "Κάρντιφ"
@@ -13934,7 +14108,9 @@ msgstr "Εδιμβούργο"
 msgid "Eglinton"
 msgstr "Έγκλιντον"
 
-#. A city in South and South West England in the United Kingdom
+#. A city in South and South West England in the United
+#. Kingdom
+#.
 msgid "Exeter"
 msgstr "Έξετερ"
 
@@ -13942,11 +14118,15 @@ msgstr "Έξετερ"
 msgid "Fairford"
 msgstr "Φέιρφορντ"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Farnborough"
 msgstr "Φάρνμπορο"
 
-#. A city in South and South West England in the United Kingdom
+#. A city in South and South West England in the United
+#. Kingdom
+#.
 msgid "Filton"
 msgstr "Φίλτον"
 
@@ -13963,11 +14143,15 @@ msgstr "Γκράμισντεϊλ"
 msgid "Hawarden"
 msgstr "Χάουαρντεν"
 
-#. A city in South and South West England in the United Kingdom
+#. A city in South and South West England in the United
+#. Kingdom
+#.
 msgid "Helston"
 msgstr "Χέλστον"
 
-#. A city in South and South West England in the United Kingdom
+#. A city in South and South West England in the United
+#. Kingdom
+#.
 msgid "Hugh Town"
 msgstr "Χιου Τάουν"
 
@@ -13975,7 +14159,9 @@ msgstr "Χιου Τάουν"
 msgid "Inverness"
 msgstr "Ινβερνές"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Ipswich"
 msgstr "Ίπσουιτς"
 
@@ -13999,7 +14185,9 @@ msgstr "Κέρκγουολ"
 msgid "Kirmington"
 msgstr "Κέρμινγκτον"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Lakenheath"
 msgstr "Λέικενχιθ"
 
@@ -14033,15 +14221,21 @@ msgstr "Λονδίνο"
 msgid "Lossiemouth"
 msgstr "Λόσιμουθ"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Luton"
 msgstr "Λούτον"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Lydd"
 msgstr "Λιντ"
 
-#. A city in South and South West England in the United Kingdom
+#. A city in South and South West England in the United
+#. Kingdom
+#.
 msgid "Lyneham"
 msgstr "Λάινεχαμ"
 
@@ -14050,19 +14244,27 @@ msgctxt "City in North West England, United Kingdom"
 msgid "Manchester"
 msgstr "Μάντσεστερ"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Manston"
 msgstr "Μάνστον"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Marham"
 msgstr "Μάρχαμ"
 
-#. A city in South and South West England in the United Kingdom
+#. A city in South and South West England in the United
+#. Kingdom
+#.
 msgid "Middle Wallop"
 msgstr "Μιντλ Γουάλοπ"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Mildenhall"
 msgstr "Μίλντενχολ"
 
@@ -14075,11 +14277,15 @@ msgctxt "City in North East England, United Kingdom"
 msgid "Newcastle"
 msgstr "Νιούκαστλ"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Northolt"
 msgstr "Νόρθολτ"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Norwich"
 msgstr "Νόριτς"
 
@@ -14088,7 +14294,9 @@ msgctxt "City in the East Midlands, United Kingdom"
 msgid "Nottingham"
 msgstr "Νότιγχαμ"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Odiham"
 msgstr "Όντιχαμ"
 
@@ -14100,7 +14308,9 @@ msgstr "Οξφόρδη"
 msgid "Pembrey"
 msgstr "Πέμπρεϊ"
 
-#. A city in South and South West England in the United Kingdom
+#. A city in South and South West England in the United
+#. Kingdom
+#.
 msgctxt "City in South and South West England, United Kingdom"
 msgid "Plymouth"
 msgstr "Πλίμουθ"
@@ -14117,24 +14327,34 @@ msgstr "Σεντ Άθαν"
 msgid "Shawbury"
 msgstr "Σόμπερι"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Shoreham-by-Sea"
 msgstr "Σόρχαμ-μπάι-Σι"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Southampton"
 msgstr "Σαουθάμπτον"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgctxt "City in East and South East England, United Kingdom"
 msgid "Southend"
 msgstr "Σάουθεντ"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Stansted Mountfitchet"
 msgstr "Στάνστεντ Μάουντφιτσετ"
 
-#. A city in South and South West England in the United Kingdom
+#. A city in South and South West England in the United
+#. Kingdom
+#.
 msgid "Staverton"
 msgstr "Στάβερτον"
 
@@ -14163,7 +14383,9 @@ msgstr "Βάλεϊ"
 msgid "Waddington"
 msgstr "Γουάντινγκτον"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Wainfleet"
 msgstr "Γουέινφλιτ"
 
@@ -14171,11 +14393,15 @@ msgstr "Γουέινφλιτ"
 msgid "Wick"
 msgstr "Γουίκ"
 
-#. A city in East and South East England in the United Kingdom
+#. A city in East and South East England in the United
+#. Kingdom
+#.
 msgid "Wittering"
 msgstr "Γουίτερινγκ"
 
-#. A city in South and South West England in the United Kingdom
+#. A city in South and South West England in the United
+#. Kingdom
+#.
 msgid "Yeovilton"
 msgstr "Γιοβίλτον"
 
@@ -17633,7 +17859,9 @@ msgid "Lawrence"
 msgstr "Λόρενς"
 
 #. A city in Georgia in the United States
-msgctxt "City in Georgia, United Kingdom"
+#| msgctxt "City in Georgia, United Kingdom"
+#| msgid "Lawrenceville"
+msgctxt "City in Georgia, United States"
 msgid "Lawrenceville"
 msgstr "Λόρενσβιλ"
 
@@ -21054,6 +21282,9 @@ msgid "Samarqand"
 msgstr "Σαμαρκάνδη"
 
 #. The capital of Uzbekistan.
+#. "Tashkent" is the traditional English name.
+#. The local name is "Toshkent".
+#.
 msgid "Tashkent"
 msgstr "Τασκένδη"
 
@@ -21202,10 +21433,16 @@ msgid "Da Nang"
 msgstr "Ντα Νανγκ"
 
 #. The capital of Viet Nam.
+#. "Hanoi" is the traditional English name.
+#. The local name in Vietnamese is "Ha Noi".
+#.
 msgid "Hanoi"
 msgstr "Ανόι"
 
 #. A city in Viet Nam.
+#. "Ho Chi Minh City" is the traditional English name.
+#. The local name in Vietnamese is "Thanh Pho Ho Chi Minh".
+#.
 msgid "Ho Chi Minh City"
 msgstr "Πόλη Χο Τσι Μινχ"
 
@@ -21238,6 +21475,9 @@ msgid "Sa'dah"
 msgstr "Σαάντα"
 
 #. The capital of Yemen.
+#. "Sanaa" is the traditional English name.
+#. The local name in Arabic is "San'a'".
+#.
 msgid "Sanaa"
 msgstr "Σανά"
 
@@ -21266,8 +21506,14 @@ msgid "Ndola"
 msgstr "Ντόλα"
 
 #. A city in the Åland Islands.
+#. The local name in Finnish is "Maarianhamina".
+#.
 msgid "Mariehamn"
 msgstr "Μαριέχαμν"
+
+#~ msgctxt "City in Tianjin, China"
+#~ msgid "天津"
+#~ msgstr "Τιαντζίν"
 
 #~ msgid "De Kooy"
 #~ msgstr "De Kooy"
