@@ -14,16 +14,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libgweather-locations master\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-18 17:50+0000\n"
-"PO-Revision-Date: 2023-08-17 21:59+0300\n"
-"Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
+"POT-Creation-Date: 2026-03-10 20:01+0000\n"
+"PO-Revision-Date: 2026-03-11 02:28+0300\n"
+"Last-Translator: Berk Elyesa Yıldırım <beryesa@sayafe.org>\n"
 "Language-Team: Türkçe <takim@gnome.org.tr>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.8\n"
 "X-DamnedLies-Scope: partial\n"
 
 #. TRANSLATORS: This is the designation for the last (most west) timezone on Earth
@@ -2303,7 +2303,7 @@ msgstr "Şanghay"
 
 #. A state/province/territory in China
 msgid "Shanxi"
-msgstr "Şansi"
+msgstr "Şensi"
 
 #. A state/province/territory in China
 msgid "Sichuan"
@@ -3556,7 +3556,7 @@ msgstr "Tulln"
 #. The local name in German is "Wien".
 #.
 msgid "Vienna"
-msgstr "Vienna"
+msgstr "Viyana"
 
 #. A city in Austria
 msgid "Wiener Neustadt"
@@ -4030,6 +4030,10 @@ msgstr "Campos do Jordão"
 #. A city in Rio Grande do Sul in Brazil
 msgid "Canoas"
 msgstr "Canoas"
+
+#. A city in Paraná in Brazil
+msgid "Cascavel"
+msgstr "Cascavel"
 
 #. A city in Rio Grande do Sul in Brazil
 msgid "Caxias do Sul"
@@ -6273,26 +6277,26 @@ msgstr "Pekin"
 #. The name is also written "长春".
 #.
 msgid "Changchun"
-msgstr "Changchun"
+msgstr "Çangçun"
 
 #. A city in Hunan in China.
 #. The name is also written "长沙".
 #.
 msgid "Changsha"
-msgstr "Changsha"
+msgstr "Çangşa"
 
 #. A city in Sichuan in China.
 #. The name is also written "成都".
 #.
 msgid "Chengdu"
-msgstr "Chengdu"
+msgstr "Çengdu"
 
 #. A city in Chongqing in China.
 #. The name is also written "重庆".
 #.
 msgctxt "City in Chongqing, China"
 msgid "Chongqing"
-msgstr "Chongqing"
+msgstr "Çongçing"
 
 #. A city in Liaoning in China
 msgid "Dalian"
@@ -6336,7 +6340,7 @@ msgstr "Hefei"
 #. The name is also written "呼和浩特".
 #.
 msgid "Hohhot"
-msgstr "Hohhot"
+msgstr "Huhhot"
 
 #. A city in Shandong in China.
 #. The name is also written "济南"
@@ -6345,7 +6349,7 @@ msgstr "Jinan"
 
 #. A city in Xinjiang in China
 msgid "Kashi"
-msgstr "Kashi"
+msgstr "Kaşgar"
 
 #. A city in Yunnan in China.
 #. The name is also written "昆明".
@@ -6363,7 +6367,7 @@ msgstr "Lanzhou"
 #. The name is also written "南京".
 #.
 msgid "Nanjing"
-msgstr "Nanjing"
+msgstr "Nankin"
 
 #. A city in Guangxi in China.
 #. The name is also written "南宁".
@@ -6373,7 +6377,7 @@ msgstr "Nanning"
 
 #. A city in Shandong in China
 msgid "Qingdao"
-msgstr "Qingdao"
+msgstr "Çingdao"
 
 #. A city in Hainan in China
 msgid "Sanya"
@@ -6394,7 +6398,7 @@ msgstr "Shantou"
 #. The name is also written "沈阳".
 #.
 msgid "Shenyang"
-msgstr "Shenyang"
+msgstr "Şenyang"
 
 #. A city in Guangdong in China
 msgid "Shenzhen"
@@ -6411,37 +6415,37 @@ msgstr "Taiyuan"
 #.
 msgctxt "City in Tianjin, China"
 msgid "Tianjin"
-msgstr "Tianjin"
+msgstr "Tientsin"
 
 #. A city in Xinjiang in China.
 #. The name is also written "乌鲁木齐".
 #.
 msgid "Urumqi"
-msgstr "Urumqi"
+msgstr "Urumçi"
 
 #. A city in Hubei in China.
 #. The name is also written "武汉".
 #.
 msgid "Wuhan"
-msgstr "Wuhan"
+msgstr "Vuhan"
 
 #. A city in Shaanxi in China.
 #. The name is also written "西安".
 #.
 msgid "Xi'an"
-msgstr "Xi'an"
+msgstr "Şian"
 
 #. A city in Fujian in China.
 #. The name is also written "厦门".
 #.
 msgid "Xiamen"
-msgstr "Zemen"
+msgstr "Xiamen"
 
 #. A city in Henan in China.
 #. The name is also written "郑州".
 #.
 msgid "Zhengzhou"
-msgstr "Zhengzhou"
+msgstr "Çengçou"
 
 #. A city in Christmas Island
 msgid "Drumsite"
@@ -6717,7 +6721,7 @@ msgstr "Plzeň"
 #. The local name in Czech is "Praha".
 #.
 msgid "Prague"
-msgstr "Prague"
+msgstr "Prag"
 
 #. A city in the Czech Republic
 msgid "Zlín"
@@ -9268,7 +9272,7 @@ msgstr "Caserta"
 
 #. A city in Italy
 msgid "Catania"
-msgstr "Catania"
+msgstr "Katanya"
 
 #. A city in Italy
 msgid "Catanzaro"
@@ -9344,7 +9348,7 @@ msgstr "Frosinone"
 #. The local name in Italian is "Genova".
 #.
 msgid "Genoa"
-msgstr "Genoa"
+msgstr "Cenova"
 
 #. A city in Italy
 msgid "Ginosa Marina"
@@ -9443,7 +9447,7 @@ msgstr "Messina"
 #. The local name in Italian is "Milano".
 #.
 msgid "Milan"
-msgstr "Milan"
+msgstr "Milano"
 
 #. A city in Italy
 msgctxt "City in Italy"
@@ -9634,7 +9638,7 @@ msgstr "Sporminore"
 #. A city in Italy
 msgctxt "Italian city of Siracusa"
 msgid "Syracuse"
-msgstr "Syracuse"
+msgstr "Siraküza"
 
 #. A city in Italy
 msgid "Tamaricciola"
@@ -9701,7 +9705,7 @@ msgstr "Varese"
 #. The local name in Italian is "Venezia".
 #.
 msgid "Venice"
-msgstr "Venice"
+msgstr "Venedik"
 
 #. A city in Italy
 msgid "Verbania"
@@ -13271,7 +13275,7 @@ msgstr "Bern"
 #. The local name is "Genève".
 #.
 msgid "Geneva"
-msgstr "Geneva"
+msgstr "Cenevre"
 
 #. A city in Switzerland
 msgid "Grenchen"
