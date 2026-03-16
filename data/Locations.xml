@@ -898,11 +898,6 @@
         <coordinates>31.200000 29.950000</coordinates>
       </location>
       <location>
-        <name>Alexandria Borg El Arab</name>
-        <code>HEBA</code>
-        <coordinates>31.516667 30.166667</coordinates>
-      </location>
-      <location>
         <name>Asswan</name>
         <code>HESN</code>
         <coordinates>23.966667 32.783333</coordinates>
@@ -6550,31 +6545,6 @@
         </timezone>
       </timezones>
       <tz-hint>Asia/Tashkent</tz-hint>
-      <location>
-        <name>Nukus / Karakalpakstan</name>
-        <code>UTNN</code>
-        <coordinates>42.480000 59.630000</coordinates>
-      </location>
-      <location>
-        <name>Samarqand</name>
-        <code>UTSS</code>
-        <coordinates>39.566667 66.950000</coordinates>
-      </location>
-      <location>
-        <name>Tashkent</name>
-        <code>UTTT</code>
-        <coordinates>41.266667 69.266667</coordinates>
-      </location>
-      <location>
-        <name>Termiz</name>
-        <code>UTST</code>
-        <coordinates>37.233333 67.266667</coordinates>
-      </location>
-      <location>
-        <name>Urganch</name>
-        <code>UTNU</code>
-        <coordinates>41.583333 60.645000</coordinates>
-      </location>
       <city>
         <!-- A city in Uzbekistan -->
         <_name>Nukus</_name>
