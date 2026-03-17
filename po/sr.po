@@ -12,18 +12,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: locations-compendium\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-23 12:43+0000\n"
-"PO-Revision-Date: 2024-11-13 21:40+0100\n"
-"Last-Translator: Милош Поповић <gpopac@gmail.com>\n"
+"POT-Creation-Date: 2026-03-16 23:05+0000\n"
+"PO-Revision-Date: 2026-03-17 23:44+0100\n"
+"Last-Translator: Марко М. Костић <marko.m.kostic@gmail.com>\n"
 "Language-Team: Serbian <Serbian <gnome-sr@googlegroups.com>>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n==1? 3 : n%10==1 && n%100!=11 ? 0 : "
-"n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+"n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Project-Style: gnome\n"
-"X-Generator: Gtranslator 46.1\n"
+"X-Generator: Poedit 3.9\n"
 
 #. TRANSLATORS: This is the designation for the last (most west) timezone on Earth
 #. https://en.wikipedia.org/wiki/Anywhere_on_Earth
@@ -4028,6 +4028,10 @@ msgstr "Кампос де Хордао"
 #. A city in Rio Grande do Sul in Brazil
 msgid "Canoas"
 msgstr "Каноас"
+
+#. A city in Paraná in Brazil
+msgid "Cascavel"
+msgstr "Каскавел"
 
 #. A city in Rio Grande do Sul in Brazil
 msgid "Caxias do Sul"
@@ -21504,150 +21508,3 @@ msgstr "Недола"
 #.
 msgid "Mariehamn"
 msgstr "Марихамн"
-
-#~ msgid "Braşov"
-#~ msgstr "Брашов"
-
-#~ msgid "Focşani"
-#~ msgstr "Фокшани"
-
-#~ msgid "Iaşi"
-#~ msgstr "Иаси"
-
-#~ msgid "Mihail Kogălniceanu"
-#~ msgstr "Михаил Когалницеану"
-
-#~ msgid "Reşiţa"
-#~ msgstr "Решица"
-
-#~ msgid "Mokroye"
-#~ msgstr "Мокро"
-
-#~ msgid "Telichka"
-#~ msgstr "Теличка"
-
-#~ msgid "De Kooy"
-#~ msgstr "Де Кој"
-
-#~ msgid "Deelen"
-#~ msgstr "Дејлен"
-
-#~ msgid "Gilze"
-#~ msgstr "Килзе"
-
-#~ msgid "Oost-Vlieland"
-#~ msgstr "Ост Флиланд"
-
-#~ msgid "Volkel"
-#~ msgstr "Фолкел"
-
-#~ msgid "Cheju"
-#~ msgstr "Чеју"
-
-#~ msgid "Donakonda"
-#~ msgstr "Донаконда"
-
-#~ msgid "Warangal"
-#~ msgstr "Варангал"
-
-#~ msgid "Abbeville"
-#~ msgstr "Абевиј"
-
-#~ msgid "Acon"
-#~ msgstr "Акон"
-
-#~ msgid "Ambérieu-en-Bugey"
-#~ msgstr "Амберје-ан-Бижеи"
-
-#~ msgid "Avord"
-#~ msgstr "Аворд"
-
-#~ msgid "Cazaux"
-#~ msgstr "Казо"
-
-#~ msgid "Châlons-en-Champagne"
-#~ msgstr "Шалон у Шампањи"
-
-#~ msgid "Châteaudun"
-#~ msgstr "Шатодин"
-
-#~ msgid "Creil"
-#~ msgstr "Креј"
-
-#~ msgid "Kowloon"
-#~ msgstr "Ковлун"
-
-#~ msgid "Shahin Shahr"
-#~ msgstr "Шахин Шахер"
-
-#~ msgid "Monaghan"
-#~ msgstr "Манаган"
-
-#~ msgid "Elat"
-#~ msgstr "Еилат"
-
-#~ msgid "Mahanayim"
-#~ msgstr "Маханајим"
-
-#~ msgid "Mahane Yisra'el"
-#~ msgstr "Махан Израел"
-
-#~ msgid "Ramot Remez"
-#~ msgstr "Рамот Рамез"
-
-#~ msgid "Valkenburg"
-#~ msgstr "Фалкенбурх"
-
-#~ msgid "Flesland"
-#~ msgstr "Флесланд"
-
-#~ msgid "Strigino"
-#~ msgstr "Стрижино"
-
-#~ msgid "Dubnica nad Váhom"
-#~ msgstr "Дубница на Ваху"
-
-#~ msgid "Martin"
-#~ msgstr "Мартин"
-
-#~ msgid "Nové Zámky"
-#~ msgstr "Нови Замак"
-
-#~ msgid "Partizánske"
-#~ msgstr "Партизанско"
-
-#~ msgid "Ružomberok"
-#~ msgstr "Ружомберок"
-
-#~ msgid "Spišská Nová Ves"
-#~ msgstr "Спишска Нова Вес"
-
-#~ msgid "Svidník"
-#~ msgstr "Свидник"
-
-#~ msgid "Trenčín"
-#~ msgstr "Тренчин"
-
-#~ msgid "Chagor"
-#~ msgstr "Чагор"
-
-#~ msgid "Kiev"
-#~ msgstr "Кијев"
-
-#~ msgid "Lakeside"
-#~ msgstr "Лејксајд"
-
-#~ msgid "Willow Grove"
-#~ msgstr "Виолу Гров"
-
-#~ msgid "Nitra"
-#~ msgstr "Нитра"
-
-#~ msgid "Dunleary"
-#~ msgstr "Данлири"
-
-#~ msgid "Glentavraun"
-#~ msgstr "Глентаврон"
-
-#~ msgid "Shannon"
-#~ msgstr "Шенон"
