@@ -17,8 +17,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libgweather fr\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-03 04:06+0000\n"
-"PO-Revision-Date: 2026-03-03 08:25+0100\n"
+"POT-Creation-Date: 2026-03-27 14:16+0000\n"
+"PO-Revision-Date: 2026-03-30 08:49+0200\n"
 "Last-Translator: Guillaume Bernard <associations@guillaume-bernard.fr>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "Language: fr\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.8\n"
+"X-Generator: Poedit 3.9\n"
 
 #. TRANSLATORS: This is the designation for the last (most west) timezone on Earth
 #. https://en.wikipedia.org/wiki/Anywhere_on_Earth
@@ -14505,7 +14505,7 @@ msgstr "Alexander City"
 #. A city in Louisiana in the United States
 msgctxt "City in Louisiana, United States"
 msgid "Alexandria"
-msgstr "Alexandria"
+msgstr "Alexandrie"
 
 #. A city in Minnesota in the United States
 msgctxt "City in Minnesota, United States"
@@ -14892,7 +14892,7 @@ msgstr "Batesville"
 
 #. A city in Louisiana in the United States
 msgid "Baton Rouge"
-msgstr "Baton Rouge"
+msgstr "Bâton-Rouge"
 
 #. A city in Michigan in the United States
 msgid "Battle Creek"
@@ -16834,7 +16834,7 @@ msgstr "Grand Island"
 
 #. A city in Louisiana in the United States
 msgid "Grand Isle"
-msgstr "Grand Isle"
+msgstr "Grande Île"
 
 #. A city in Colorado in the United States
 msgid "Grand Junction"
@@ -17760,7 +17760,7 @@ msgstr "Lahaina"
 
 #. A city in Louisiana in the United States
 msgid "Lake Charles"
-msgstr "Lake Charles"
+msgstr "Lac Charles"
 
 #. A city in Alaska in the United States
 msgid "Lake Minchumina"
@@ -18738,7 +18738,7 @@ msgstr "Natchez"
 
 #. A city in Louisiana in the United States
 msgid "Natchitoches"
-msgstr "Natchitoches"
+msgstr "Les Natchitoches"
 
 #. A city in Nebraska in the United States
 msgid "Nebraska City"
@@ -18774,11 +18774,11 @@ msgstr "New Haven"
 
 #. A city in Louisiana in the United States
 msgid "New Iberia"
-msgstr "New Iberia"
+msgstr "La Nouvelle-Ibérie"
 
 #. A city in Louisiana in the United States
 msgid "New Orleans"
-msgstr "Nouvelle-Orléans"
+msgstr "La Nouvelle-Orléans"
 
 #. A city in Ohio in the United States
 msgid "New Philadelphia"
