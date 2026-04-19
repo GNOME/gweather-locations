@@ -14,7 +14,7 @@
 # Tino Meinen <a.t.meinen@chello.nl>, 2003–2006, 2008.
 # Vincent van Adrighem <adrighem@gnome.org>, 2004–2005.
 # Wouter Bolsterlee <wbolster@gnome.org>, 2008–2013.
-# Nathan Follens <nfollens@gnome.org>, 2017-2023.
+# Nathan Follens <nfollens@gnome.org>, 2017-2023, 2026.
 # Justin van Steijn <jvs@fsfe.org>, 2017.
 #
 #
@@ -31,8 +31,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libgweather locations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-27 15:48+0000\n"
-"PO-Revision-Date: 2023-08-27 20:34+0200\n"
+"POT-Creation-Date: 2026-04-10 18:53+0000\n"
+"PO-Revision-Date: 2026-04-19 19:51+0200\n"
 "Last-Translator: Nathan Follens <nfollens@gnome.org>\n"
 "Language-Team: GNOME-NL https://matrix.to/#/#nl:gnome.org\n"
 "Language: nl\n"
@@ -40,7 +40,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.9\n"
 
 #. TRANSLATORS: This is the designation for the last (most west) timezone on Earth
 #. https://en.wikipedia.org/wiki/Anywhere_on_Earth
@@ -3302,7 +3302,6 @@ msgid "Saint John's"
 msgstr "Saint John's"
 
 #. A city in Argentina
-#| msgid "Bahia Blanca"
 msgid "Bahía Blanca"
 msgstr "Bahía Blanca"
 
@@ -4061,6 +4060,11 @@ msgstr "Campos do Jordão"
 msgid "Canoas"
 msgstr "Canoas"
 
+#. A city in Paraná in Brazil
+#| msgid "Cascade"
+msgid "Cascavel"
+msgstr "Cascavel"
+
 #. A city in Rio Grande do Sul in Brazil
 msgid "Caxias do Sul"
 msgstr "Caxias do Sul"
@@ -4369,7 +4373,6 @@ msgid "Rio Claro"
 msgstr "Rio Claro"
 
 #. A city in Rio Grande do Sul in Brazil
-#| msgid "Río Grande"
 msgid "Rio Grande"
 msgstr "Rio Grande"
 
@@ -4416,8 +4419,6 @@ msgid "Suzano"
 msgstr "Suzano"
 
 #. A city in Santa Catarina in Brazil
-#| msgctxt "City in São Paulo, Brazil"
-#| msgid "São Caetano do Sul"
 msgid "São Bento do Sul"
 msgstr "São Bento do Sul"
 
@@ -4593,7 +4594,6 @@ msgid "Phnom Penh"
 msgstr "Phnom Penh"
 
 #. A city in Cambodia
-#| msgid "Siemreab"
 msgid "Siem Reap"
 msgstr "Siem Reap"
 
@@ -7536,7 +7536,6 @@ msgid "Bonn"
 msgstr "Bonn"
 
 #. A city in Saxony-Anhalt in Germany
-#| msgid "Braunschweig"
 msgid "Braunsbedra"
 msgstr "Braunsbedra"
 
@@ -7703,7 +7702,6 @@ msgid "Liebenscheid"
 msgstr "Liebenscheid"
 
 #. A city in Rhineland-Palatinate in Germany
-#| msgid "Maine"
 msgid "Mainz"
 msgstr "Mainz"
 
@@ -7716,7 +7714,6 @@ msgid "Memmingen"
 msgstr "Memmingen"
 
 #. A city in Saxony-Anhalt in Germany
-#| msgid "Dyersburg"
 msgid "Merseburg"
 msgstr "Merseburg"
 
@@ -7736,7 +7733,6 @@ msgid "Mönchengladbach"
 msgstr "Mönchengladbach"
 
 #. A city in Saxony-Anhalt in Germany
-#| msgid "Büchel"
 msgid "Mücheln"
 msgstr "Mücheln"
 
@@ -7786,7 +7782,6 @@ msgid "Parchim"
 msgstr "Parchim"
 
 #. A city in Saxony-Anhalt in Germany
-#| msgid "Erfurt"
 msgid "Querfurt"
 msgstr "Querfurt"
 
@@ -7840,7 +7835,6 @@ msgid "Webershausen"
 msgstr "Webershausen"
 
 #. A city in Saxony-Anhalt in Germany
-#| msgid "Hohenfels"
 msgid "Weißenfels"
 msgstr "Weißenfels"
 
@@ -9808,7 +9802,6 @@ msgid "Ashiya"
 msgstr "Ashiya"
 
 #. A city in Japan, capital of Chiba Prefecture
-#| msgid "Chibougamau"
 msgid "Chiba"
 msgstr "Chiba"
 
@@ -9901,7 +9894,6 @@ msgid "Kanayama"
 msgstr "Kanayama"
 
 #. A city in Japan, capital of Ishikawa Prefecture
-#| msgid "Kanayama"
 msgid "Kanazawa"
 msgstr "Kanazawa"
 
@@ -9946,7 +9938,6 @@ msgid "Kyoto"
 msgstr "Kyoto"
 
 #. A city in Japan, capital of Gunma Prefecture
-#| msgid "Tanegashima"
 msgid "Maebashi"
 msgstr "Maebashi"
 
@@ -9955,7 +9946,6 @@ msgid "Matsubara"
 msgstr "Matsubara"
 
 #. A city in Japan, capital of Shimane Prefecture
-#| msgid "Matsubara"
 msgid "Matsue"
 msgstr "Matsue"
 
@@ -10000,13 +9990,10 @@ msgid "Mombetsu"
 msgstr "Mombetsu"
 
 #. A city in Japan, capital of Iwate Prefecture
-#| msgid "Mori"
 msgid "Morioka"
 msgstr "Morioka"
 
 #. A city in Japan, capital of Nagano Prefecture
-#| msgctxt "State in India"
-#| msgid "Nagaland"
 msgid "Nagano"
 msgstr "Nagano"
 
@@ -10091,7 +10078,6 @@ msgid "Saga"
 msgstr "Saga"
 
 #. A city in Japan, capital of Saitama Prefecture
-#| msgid "Bitam"
 msgid "Saitama"
 msgstr "Saitama"
 
@@ -10100,7 +10086,6 @@ msgid "Sanrizuka"
 msgstr "Sanrizuka"
 
 #. A city in Japan, capital of Hokkaido Prefecture
-#| msgid "Sapporo Ab"
 msgid "Sapporo"
 msgstr "Sapporo"
 
@@ -10117,7 +10102,6 @@ msgid "Shiroi"
 msgstr "Shiroi"
 
 #. A city in Japan, capital of Shizuoka Prefecture
-#| msgid "Shizuhama Ab"
 msgid "Shizuoka"
 msgstr "Shizuoka"
 
@@ -10134,7 +10118,6 @@ msgid "Tateyama"
 msgstr "Tateyama"
 
 #. A city in Japan, capital of Tokushima Prefecture
-#| msgid "Tokushima Ab"
 msgid "Tokushima"
 msgstr "Tokushima"
 
@@ -10155,7 +10138,6 @@ msgid "Toyooka"
 msgstr "Toyooka"
 
 #. A city in Japan, capital of Mie Prefecture
-#| msgid "Tsuiki"
 msgid "Tsu"
 msgstr "Tsu"
 
@@ -10168,12 +10150,10 @@ msgid "Ushuku"
 msgstr "Ushuku"
 
 #. A city in Japan, capital of Tochigi Prefecture
-#| msgid "Utsunomiya Ab"
 msgid "Utsunomiya"
 msgstr "Utsunomiya"
 
 #. A city in Japan, capital of Wakayama Prefecture
-#| msgid "Okayama"
 msgid "Wakayama"
 msgstr "Wakayama"
 
@@ -10194,7 +10174,6 @@ msgid "Yao"
 msgstr "Yao"
 
 #. A city in Japan, capital of Kanagawa Prefecture
-#| msgid "Yokota"
 msgid "Yokohama"
 msgstr "Yokohama"
 
@@ -11869,12 +11848,10 @@ msgid "Baia Mare"
 msgstr "Baia Mare"
 
 #. A county capital in Romania
-#| msgid "Bistrita"
 msgid "Bistrița"
 msgstr "Bistrița"
 
 #. A county capital in Romania
-#| msgid "Botoşani"
 msgid "Botoșani"
 msgstr "Botoșani"
 
@@ -11902,7 +11879,6 @@ msgid "Cluj-Napoca"
 msgstr "Cluj-Napoca"
 
 #. A county capital in Romania
-#| msgid "Constanţa"
 msgid "Constanța"
 msgstr "Constanța"
 
@@ -11911,7 +11887,6 @@ msgid "Craiova"
 msgstr "Craiova"
 
 #. A county capital in Romania
-#| msgid "Călăraşi"
 msgid "Călărași"
 msgstr "Călărași"
 
@@ -11928,7 +11903,6 @@ msgid "Focșani"
 msgstr "Focșani"
 
 #. A county capital in Romania
-#| msgid "Galaţi"
 msgid "Galați"
 msgstr "Galați"
 
@@ -11941,7 +11915,6 @@ msgid "Iași"
 msgstr "Iași"
 
 #. A county capital in Romania
-#| msgid "Miercurea-Ciuc"
 msgid "Miercurea Ciuc"
 msgstr "Miercurea Ciuc"
 
@@ -11950,17 +11923,14 @@ msgid "Oradea"
 msgstr "Oradea"
 
 #. A county capital in Romania
-#| msgid "Piatra Neamţ"
 msgid "Piatra Neamț"
 msgstr "Piatra Neamț"
 
 #. A county capital in Romania
-#| msgid "Piteşti"
 msgid "Pitești"
 msgstr "Pitești"
 
 #. A county capital in Romania
-#| msgid "Ploieşti"
 msgid "Ploiești"
 msgstr "Ploiești"
 
@@ -11997,7 +11967,6 @@ msgid "Suceava"
 msgstr "Suceava"
 
 #. A county capital in Romania
-#| msgid "Timişoara"
 msgid "Timișoara"
 msgstr "Timișoara"
 
@@ -12006,7 +11975,6 @@ msgid "Tulcea"
 msgstr "Tulcea"
 
 #. A county capital in Romania
-#| msgid "Târgovişte"
 msgid "Târgoviște"
 msgstr "Târgoviște"
 
@@ -12015,7 +11983,6 @@ msgid "Târgu Jiu"
 msgstr "Târgu Jiu"
 
 #. A county capital in Romania
-#| msgid "Târgu-Mureş"
 msgid "Târgu Mureș"
 msgstr "Târgu Mureș"
 
@@ -13909,13 +13876,10 @@ msgstr "Loetsk"
 msgid "Lysychansk"
 msgstr "Lysytsjansk"
 
-#| msgctxt "City in Illinois, United States"
-#| msgid "Marion"
 msgid "Mariupol"
 msgstr "Mariupol"
 
 #. A city in Ukraine: https://en.wikipedia.org/wiki/Melitopol
-#| msgid "Metropolis"
 msgid "Melitopol"
 msgstr "Melitopol"
 
@@ -13929,7 +13893,6 @@ msgstr "Moekatsjevo"
 msgid "Mykolayiv"
 msgstr "Mykolayiv"
 
-#| msgid "Uzhhorod"
 msgid "Myrhorod"
 msgstr "Myrhorod"
 
@@ -14002,7 +13965,6 @@ msgstr "Uzhhorod"
 msgid "Vinnytsya"
 msgstr "Vinnytsja"
 
-#| msgid "Vologda"
 msgid "Volodymyr"
 msgstr "Volodymyr"
 
@@ -14371,7 +14333,6 @@ msgid "Norwich"
 msgstr "Norwich"
 
 #. A city in the East Midlands in the United Kingdom
-#| msgid "Rockingham"
 msgctxt "City in the East Midlands, United Kingdom"
 msgid "Nottingham"
 msgstr "Nottingham"
