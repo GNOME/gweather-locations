@@ -2,21 +2,21 @@
 # Copyright (C) 2004-2010 The Free Software Foundation.
 # This file is distributed under the same license as the gnome-applets package.
 # Arash Mousavi <mousavi.arash@gmail.com>, 2010-2015.
-# Danial Behzadi <dani.behzi@ubuntu.com>, 2016-2023.
+# Danial Behzadi <dani.behzi@ubuntu.com>, 2016-2026.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-applets-locations HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-07 16:26+0000\n"
-"PO-Revision-Date: 2023-08-08 00:36+0330\n"
+"POT-Creation-Date: 2026-04-24 12:46+0000\n"
+"PO-Revision-Date: 2026-04-28 03:27+0330\n"
 "Last-Translator: Danial Behzadi <dani.behzi@ubuntu.com>\n"
 "Language-Team: \n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.9\n"
 "X-DamnedLies-Scope: partial\n"
 
 #. TRANSLATORS: This is the designation for the last (most west) timezone on Earth
@@ -1255,7 +1255,7 @@ msgstr "ایستگاه مک‌موردُ (زمان نیوزیلند)"
 #. places where "Antarctica" is already clear from context.
 #.
 msgid "Amundsen-Scott South Pole Station (New Zealand Time)"
-msgstr "Amundsen-Scott South Pole Station (New Zealand Time)"
+msgstr "ایستگاه قطب جنوب آماندسون-اسکات (زمان نیوزیلند)"
 
 #. The time zone used in the eastern half of Kazakhstan.
 #. FIXME: is there an official name for this zone?
@@ -1311,7 +1311,7 @@ msgstr "گرین‌لند شرقی"
 #. coast of Greenland.
 #.
 msgid "Thule AFB"
-msgstr "Thule AFB"
+msgstr "توله AFB"
 
 #. The time zone used on the east coast of Canada, in
 #. Bermuda, and on many Caribbean islands. In
@@ -1566,7 +1566,7 @@ msgstr "رورایما"
 #.
 msgctxt "Timezone"
 msgid "Mato Grosso do Sul"
-msgstr "Mato Grosso do Sul"
+msgstr "ماتو گروتو دو سول"
 
 #. This represents the time zone in the Brazilian state of
 #. Mato Grosso. See the comment on "Brasília Time" for more
@@ -1672,7 +1672,7 @@ msgstr "زمان برزیل"
 #. opposed to the time zone for Easter Island).
 #.
 msgid "Mainland Chile"
-msgstr "Mainland Chile"
+msgstr "میهن شیلی"
 
 #. This refers to the time zone for Easter Island. The
 #. string is only used in places where "Chile" is already
@@ -1685,7 +1685,7 @@ msgstr "جزیره شرقی"
 #. opposed to the time zone for the Galapagos Islands).
 #.
 msgid "Mainland Ecuador"
-msgstr "Mainland Ecuador"
+msgstr "میهن اکوادور"
 
 #. The time zone for the Galapagos Islands.
 msgid "Galapagos Islands"
@@ -1721,7 +1721,7 @@ msgstr "مادیرا"
 #. opposed to the time zone for the Azores).
 #.
 msgid "Mainland Portugal"
-msgstr "Mainland Portugal"
+msgstr "میهن پرتغال"
 
 #. A Russian time zone, used in the city and oblast of
 #. Kaliningrad on the Baltic sea. The Russian name is
@@ -2073,7 +2073,7 @@ msgstr "سئارا"
 #. A state/province/territory in Brazil
 msgctxt "State in Brazil"
 msgid "Distrito Federal"
-msgstr "Distrito Federal"
+msgstr "دیستریتو فدرال"
 
 #. A state/province/territory in Brazil
 msgid "Espírito Santo"
@@ -3174,7 +3174,7 @@ msgstr "غرداية"
 
 #. A city in Algeria
 msgid "Hassi Messaoud"
-msgstr "Hassi Messaoud"
+msgstr "حاسی مسعود"
 
 #. A city in Algeria
 msgid "I-n-Amenas"
@@ -4025,6 +4025,10 @@ msgstr "کامپوس دو جوردائو"
 #. A city in Rio Grande do Sul in Brazil
 msgid "Canoas"
 msgstr "کانوئاس"
+
+#. A city in Paraná in Brazil
+msgid "Cascavel"
+msgstr "کاسکاول"
 
 #. A city in Rio Grande do Sul in Brazil
 msgid "Caxias do Sul"
@@ -10661,7 +10665,7 @@ msgstr "مورلیا"
 #. A city in Yucatán in Mexico
 msgctxt "City in Yucatán, Mexico"
 msgid "Mérida"
-msgstr "Mérida"
+msgstr "مریدا"
 
 #. A city in Tamaulipas in Mexico
 msgid "Nuevo Laredo"
@@ -10748,7 +10752,7 @@ msgstr "Uruapan"
 #. A city in Veracruz in Mexico
 msgctxt "City in Veracruz, Mexico"
 msgid "Veracruz"
-msgstr "Veracruz"
+msgstr "وراکروس"
 
 #. A city in Tabasco in Mexico
 msgid "Villahermosa"
@@ -10757,7 +10761,7 @@ msgstr "بیاارموسا"
 #. A city in Zacatecas in Mexico
 msgctxt "City in Zacatecas, Mexico"
 msgid "Zacatecas"
-msgstr "Zacatecas"
+msgstr "ساکاتکاس"
 
 #. The capital of the Federated States of Micronesia
 msgid "Palikir"
@@ -12759,7 +12763,7 @@ msgstr "باراخاس"
 #. A city in Spain
 msgctxt "City in Spain"
 msgid "Barcelona"
-msgstr "Barcelona"
+msgstr "بارسلونا"
 
 #. A city in Spain
 msgid "Bilbao"
@@ -12808,7 +12812,7 @@ msgstr "کادیز"
 #. A city in Spain
 msgctxt "City in Spain"
 msgid "Córdoba"
-msgstr "Córdoba"
+msgstr "کوردوبا"
 
 #. A city in Spain
 msgid "El Matorral"
@@ -12882,7 +12886,7 @@ msgstr "Leganés"
 #. A city in Spain
 msgctxt "City in Spain"
 msgid "León"
-msgstr "León"
+msgstr "لئون"
 
 #. A city in Spain
 msgid "Lleida"
@@ -13002,7 +13006,7 @@ msgstr "Santander"
 #. A city in Spain
 msgctxt "City in Spain"
 msgid "Santiago"
-msgstr "Santiago"
+msgstr "سانتیاگو"
 
 #. A city in Spain
 msgid "Segovia"
@@ -13047,7 +13051,7 @@ msgstr "Torrejón del Rey"
 #. A city in Spain
 msgctxt "City in Spain"
 msgid "Valencia"
-msgstr "Valencia"
+msgstr "والنسیا"
 
 #. A city in Spain
 msgctxt "City in Spain"
@@ -13963,7 +13967,7 @@ msgstr "شارجه"
 #. A city in Scotland in the United Kingdom
 msgctxt "City in Scotland, United Kingdom"
 msgid "Aberdeen"
-msgstr "Aberdeen"
+msgstr "ابردین"
 
 #. A city in Northern Ireland in the United Kingdom
 msgid "Belfast"
@@ -14399,7 +14403,7 @@ msgstr "Yeovilton"
 #. A city in South Dakota in the United States
 msgctxt "City in South Dakota, United States"
 msgid "Aberdeen"
-msgstr "Aberdeen"
+msgstr "ابردین"
 
 #. A city in Texas in the United States
 msgid "Abilene"
@@ -14506,7 +14510,7 @@ msgstr "اسکندریه"
 #. A city in Virginia in the United States
 msgctxt "City in Virginia, United States"
 msgid "Alexandria"
-msgstr "Alexandria"
+msgstr "اسکندریه"
 
 #. A city in Texas in the United States
 msgid "Alice"
@@ -14542,7 +14546,7 @@ msgstr "آلپاین"
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
 msgid "Alpine"
-msgstr "Alpine"
+msgstr "آلپاین"
 
 #. A city in Illinois in the United States
 msgid "Alton"
@@ -14670,7 +14674,7 @@ msgstr "اپل‌تون"
 #. A city in Wisconsin in the United States
 msgctxt "City in Wisconsin, United States"
 msgid "Appleton"
-msgstr "Appleton"
+msgstr "اپل‌تون"
 
 #. A city in California in the United States
 msgid "Arcata"
@@ -14691,12 +14695,12 @@ msgstr "Arkadelphia"
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
 msgid "Arlington"
-msgstr "Arlington"
+msgstr "آرلینگتون"
 
 #. A city in Washington in the United States
 msgctxt "City in Washington, United States"
 msgid "Arlington"
-msgstr "Arlington"
+msgstr "آرلینگتون"
 
 #. A city in New Mexico in the United States
 msgid "Artesia"
@@ -14717,12 +14721,12 @@ msgstr "اشویل"
 #. A city in Virginia in the United States
 msgctxt "City in Virginia, United States"
 msgid "Ashland"
-msgstr "Ashland"
+msgstr "آش‌لند"
 
 #. A city in Wisconsin in the United States
 msgctxt "City in Wisconsin, United States"
 msgid "Ashland"
-msgstr "Ashland"
+msgstr "آش‌لند"
 
 #. A city in Ohio in the United States
 msgid "Ashtabula"
@@ -14815,7 +14819,7 @@ msgstr "آستین"
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
 msgid "Austin"
-msgstr "Austin"
+msgstr "آستین"
 
 #. A city in California in the United States
 msgid "Avalon"
@@ -14904,12 +14908,12 @@ msgstr "بی‌یتریس"
 #. A city in North Carolina in the United States
 msgctxt "City in North Carolina, United States"
 msgid "Beaufort"
-msgstr "Beaufort"
+msgstr "بیفورت"
 
 #. A city in South Carolina in the United States
 msgctxt "City in South Carolina, United States"
 msgid "Beaufort"
-msgstr "Beaufort"
+msgstr "بیفورت"
 
 #. A city in Texas in the United States
 msgid "Beaumont"
@@ -15098,7 +15102,7 @@ msgstr "بوث‌ویل"
 #. A city in Wyoming in the United States
 msgctxt "City in Wyoming, United States"
 msgid "Bordeaux"
-msgstr "Bordeaux"
+msgstr "بوردو"
 
 #. A city in Texas in the United States
 msgid "Borger"
@@ -15168,7 +15172,7 @@ msgstr "بروکینگز"
 #. A city in South Dakota in the United States
 msgctxt "City in South Dakota, United States"
 msgid "Brookings"
-msgstr "Brookings"
+msgstr "بروکینگز"
 
 #. A city in Florida in the United States
 msgid "Brooksville"
@@ -15225,12 +15229,12 @@ msgstr "بوفالو"
 #. A city in South Dakota in the United States
 msgctxt "City in South Dakota, United States"
 msgid "Buffalo"
-msgstr "Buffalo"
+msgstr "بوفالو"
 
 #. A city in Wyoming in the United States
 msgctxt "City in Wyoming, United States"
 msgid "Buffalo"
-msgstr "Buffalo"
+msgstr "بوفالو"
 
 #. A city in Arizona in the United States
 msgid "Bullhead City"
@@ -15262,17 +15266,17 @@ msgstr "برلینگتون"
 #. A city in Vermont in the United States
 msgctxt "City in Vermont, United States"
 msgid "Burlington"
-msgstr "Burlington"
+msgstr "برلینگتون"
 
 #. A city in Washington in the United States
 msgctxt "City in Washington, United States"
 msgid "Burlington"
-msgstr "Burlington"
+msgstr "برلینگتون"
 
 #. A city in Wisconsin in the United States
 msgctxt "City in Wisconsin, United States"
 msgid "Burlington"
-msgstr "Burlington"
+msgstr "برلینگتون"
 
 #. A city in Texas in the United States
 msgid "Burnet"
@@ -15316,7 +15320,7 @@ msgstr "کدول"
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
 msgid "Caldwell"
-msgstr "Caldwell"
+msgstr "کدول"
 
 #. A city in California in the United States
 msgid "Camarillo"
@@ -15484,12 +15488,12 @@ msgstr "چارلز سیتی"
 #. A city in South Carolina in the United States
 msgctxt "City in South Carolina, United States"
 msgid "Charleston"
-msgstr "Charleston"
+msgstr "چارلستون"
 
 #. A city in West Virginia in the United States
 msgctxt "City in West Virginia, United States"
 msgid "Charleston"
-msgstr "Charleston"
+msgstr "چارلستون"
 
 #. A city in Michigan in the United States
 msgid "Charlevoix"
@@ -15620,12 +15624,12 @@ msgstr "کلارکسبرگ"
 #. A city in Tennessee in the United States
 msgctxt "City in Tennessee, United States"
 msgid "Clarksville"
-msgstr "Clarksville"
+msgstr "کلارکزویل"
 
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
 msgid "Clarksville"
-msgstr "Clarksville"
+msgstr "کلارکزویل"
 
 #. A city in New Mexico in the United States
 msgid "Clayton"
@@ -15713,12 +15717,12 @@ msgstr "کلرادو اسپرینگز"
 #. A city in Missouri in the United States
 msgctxt "City in Missouri, United States"
 msgid "Columbia"
-msgstr "Columbia"
+msgstr "کلمبیا"
 
 #. A city in South Carolina in the United States
 msgctxt "City in South Carolina, United States"
 msgid "Columbia"
-msgstr "Columbia"
+msgstr "کلمبیا"
 
 #. A city in Georgia in the United States
 msgctxt "City in Georgia, United States"
@@ -15927,7 +15931,7 @@ msgstr "دنویل"
 #. A city in Virginia in the United States
 msgctxt "City in Virginia, United States"
 msgid "Danville"
-msgstr "Danville"
+msgstr "دن‌ویل"
 
 #. A city in South Carolina in the United States
 msgid "Darlington"
@@ -15974,7 +15978,7 @@ msgstr "دکاتور"
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
 msgid "Decatur"
-msgstr "Decatur"
+msgstr "دکاتور"
 
 #. A city in Iowa in the United States
 msgid "Decorah"
@@ -16073,7 +16077,7 @@ msgstr "داگلاس"
 #. A city in Wyoming in the United States
 msgctxt "City in Wyoming, United States"
 msgid "Douglas"
-msgstr "Douglas"
+msgstr "داگلاس"
 
 #. A city in Delaware in the United States
 msgid "Dover"
@@ -16090,7 +16094,7 @@ msgstr "دراموند"
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
 msgid "Dryden"
-msgstr "Dryden"
+msgstr "درایدن"
 
 #. A city in Pennsylvania in the United States
 msgid "Du Bois"
@@ -16104,7 +16108,7 @@ msgstr "دوبلین"
 #. A city in Virginia in the United States
 msgctxt "City in Virginia, United States"
 msgid "Dublin"
-msgstr "Dublin"
+msgstr "دوبلین"
 
 #. A city in Iowa in the United States
 msgid "Dubuque"
@@ -16298,7 +16302,7 @@ msgstr "امپوریا"
 #. A city in Virginia in the United States
 msgctxt "City in Virginia, United States"
 msgid "Emporia"
-msgstr "Emporia"
+msgstr "امپوریا"
 
 #. A city in Oklahoma in the United States
 msgid "Enid"
@@ -16471,7 +16475,7 @@ msgstr "فلورا"
 #. A city in South Carolina in the United States
 msgctxt "City in South Carolina, United States"
 msgid "Florence"
-msgstr "Florence"
+msgstr "فلورانس"
 
 #. A city in Wisconsin in the United States
 msgid "Fond du Lac"
@@ -16573,7 +16577,7 @@ msgstr "فرانکلین"
 #. A city in Virginia in the United States
 msgctxt "City in Virginia, United States"
 msgid "Franklin"
-msgstr "Franklin"
+msgstr "فرانکلین"
 
 #. A city in Maryland in the United States
 msgctxt "City in Maryland, United States"
@@ -16649,7 +16653,7 @@ msgstr "گینزویل"
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
 msgid "Gainesville"
-msgstr "Gainesville"
+msgstr "گینزویل"
 
 #. A city in Alaska in the United States
 msgid "Galena"
@@ -16721,7 +16725,7 @@ msgstr "جرج‌تون"
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
 msgid "Georgetown"
-msgstr "Georgetown"
+msgstr "جرج‌تون"
 
 #. A city in Texas in the United States
 msgid "Giddings"
@@ -16911,7 +16915,7 @@ msgstr "گرینوود"
 #. A city in South Carolina in the United States
 msgctxt "City in South Carolina, United States"
 msgid "Greenwood"
-msgstr "گرینوود"
+msgstr "گرین‌وود"
 
 #. A city in South Carolina in the United States
 msgid "Greer"
@@ -17503,7 +17507,7 @@ msgstr "ژنو"
 #. A city in Wisconsin in the United States
 msgctxt "City in Wisconsin, United States"
 msgid "Juneau"
-msgstr "Juneau"
+msgstr "ژنو"
 
 #. A city in Hawaii in the United States
 msgid "Kahului"
@@ -19380,7 +19384,7 @@ msgstr "پیتزفیلد"
 #. A city in Massachusetts in the United States
 msgctxt "City in Massachusetts, United States"
 msgid "Pittsfield"
-msgstr "Pittsfield"
+msgstr "پیتزفیلد"
 
 #. A city in Oregon in the United States
 msgid "Placer"
@@ -19996,7 +20000,7 @@ msgstr "سانتا کلارا"
 #. A city in Utah in the United States
 msgctxt "City in Utah, United States"
 msgid "Santa Clara"
-msgstr "Santa Clara"
+msgstr "سانتا کلارا"
 
 #. A city in California in the United States
 msgctxt "City in California, United States"
@@ -20078,12 +20082,12 @@ msgstr "سلینزگروو"
 #. A city in Oklahoma in the United States
 msgctxt "City in Oklahoma, United States"
 msgid "Seminole"
-msgstr "Seminole"
+msgstr "سمینول"
 
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
 msgid "Seminole"
-msgstr "Seminole"
+msgstr "سمینول"
 
 #. A city in Alaska in the United States
 msgid "Seward"
@@ -20238,7 +20242,7 @@ msgstr "سامرویل"
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
 msgid "Sonora"
-msgstr "Sonora"
+msgstr "سونورا"
 
 #. A city in Indiana in the United States
 msgid "South Bend"
@@ -20369,7 +20373,7 @@ msgstr "Steamboat Springs"
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
 msgid "Stephenville"
-msgstr "Stephenville"
+msgstr "استفن‌ویل"
 
 #. A city in Illinois in the United States
 msgid "Sterling"
@@ -20441,7 +20445,7 @@ msgstr "ساتون"
 #. A city in West Virginia in the United States
 msgctxt "City in West Virginia, United States"
 msgid "Sutton"
-msgstr "Sutton"
+msgstr "ساتون"
 
 #. A city in Texas in the United States
 msgid "Sweetwater"
@@ -20905,12 +20909,12 @@ msgstr "واترتون"
 #. A city in South Dakota in the United States
 msgctxt "City in South Dakota, United States"
 msgid "Watertown"
-msgstr "Watertown"
+msgstr "واترتون"
 
 #. A city in Wisconsin in the United States
 msgctxt "City in Wisconsin, United States"
 msgid "Watertown"
-msgstr "Watertown"
+msgstr "واترتون"
 
 #. A city in Maine in the United States
 msgid "Waterville"
@@ -21261,7 +21265,7 @@ msgstr "Maldonado"
 #. The capital of Uruguay
 msgctxt "City in Uruguay"
 msgid "Montevideo"
-msgstr "Montevideo"
+msgstr "مونته‌ویدئو"
 
 #. A city in Uzbekistan
 msgid "Nukus"
