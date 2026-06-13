@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: libgweather\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-04-24 12:46+0000\n"
-"PO-Revision-Date: 2026-04-27 22:44+0700\n"
+"PO-Revision-Date: 2026-06-13 18:22+0700\n"
 "Last-Translator: Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
 "Language-Team: Thai <thai-l10n@googlegroups.com>\n"
 "Language: th\n"
@@ -3144,7 +3144,7 @@ msgstr "บูซาอาดา"
 
 #. A city in Algeria
 msgid "Chlef"
-msgstr ""
+msgstr "เคลฟ"
 
 #. A city in Algeria
 msgid "Constantine"
@@ -3156,7 +3156,7 @@ msgstr "ดาร์เอลเบดา"
 
 #. A city in Algeria
 msgid "Djanet"
-msgstr ""
+msgstr "จาเน็ต"
 
 #. A city in Algeria
 msgid "El Golea"
@@ -3172,15 +3172,15 @@ msgstr "ฮัสซี เมสซาอูด"
 
 #. A city in Algeria
 msgid "I-n-Amenas"
-msgstr ""
+msgstr "อินอามีนัส"
 
 #. A city in Algeria
 msgid "I-n-Salah"
-msgstr ""
+msgstr "อินซาลาห์"
 
 #. A city in Algeria
 msgid "Illizi"
-msgstr ""
+msgstr "อิลลิซี"
 
 #. A city in Algeria
 msgid "Jijel"
@@ -3188,11 +3188,11 @@ msgstr "จิเจล"
 
 #. A city in Algeria
 msgid "Laghouat"
-msgstr ""
+msgstr "ลากูอาต"
 
 #. A city in Algeria
 msgid "Mascara"
-msgstr ""
+msgstr "มาสคารา"
 
 #. A city in Algeria
 msgid "Oran"
@@ -3208,15 +3208,15 @@ msgstr "เซติฟ"
 
 #. A city in Algeria
 msgid "Sidi Amrane"
-msgstr ""
+msgstr "ซีดีอัมราน"
 
 #. A city in Algeria
 msgid "Sidi Bel Abbes"
-msgstr ""
+msgstr "ซีดีเบลอับเบส"
 
 #. A city in Algeria
 msgid "Tamanrasset"
-msgstr ""
+msgstr "ตามันราสเซ็ต"
 
 #. A city in Algeria
 msgid "Tebessa"
@@ -3224,7 +3224,7 @@ msgstr "เทเบสซา"
 
 #. A city in Algeria
 msgid "Tiaret"
-msgstr ""
+msgstr "เทียเร็ต"
 
 #. A city in Algeria
 msgid "Timimoun"
@@ -3232,7 +3232,7 @@ msgstr "ทิมิมูน"
 
 #. A city in Algeria
 msgid "Tindouf"
-msgstr ""
+msgstr "ทินดูฟ"
 
 #. A city in Algeria
 msgid "Tlemcen"
@@ -3240,7 +3240,7 @@ msgstr "ตเลมเซน"
 
 #. A city in Algeria
 msgid "Touggourt"
-msgstr ""
+msgstr "ทูกกูร์ต"
 
 #. A city in American Samoa
 msgid "Pago Pago"
@@ -3255,7 +3255,7 @@ msgstr "อะมุนด์เซน-สก็อตต์, สถานีข
 
 #. A city in Antigua and Barbuda
 msgid "Fitches Creek"
-msgstr ""
+msgstr "ฟิตเชสครีก"
 
 #. The capital of Antigua and Barbuda
 msgctxt "City in Antigua and Barbuda"
@@ -3272,7 +3272,7 @@ msgstr "บัวโนสไอเรส"
 
 #. A city in Argentina
 msgid "Comodoro Rivadavia"
-msgstr ""
+msgstr "โคโมโดโร ริวาดาเวีย"
 
 #. A city in Argentina
 msgid "Corrientes"
@@ -3285,15 +3285,15 @@ msgstr "กอร์โดบา"
 
 #. A city in Argentina
 msgid "El Palomar"
-msgstr ""
+msgstr "เอล ปาโลมาร์"
 
 #. A city in Argentina
 msgid "Ezeiza"
-msgstr ""
+msgstr "เอเซย์ซา"
 
 #. A city in Argentina
 msgid "Formosa"
-msgstr ""
+msgstr "ฟอร์โมซา"
 
 #. A city in Argentina
 msgid "La Plata"
@@ -3317,11 +3317,11 @@ msgstr "โปซาดัส"
 
 #. A city in Argentina
 msgid "Puerto Iguazú"
-msgstr ""
+msgstr "ปูเอร์โตอิกัวซู"
 
 #. A city in Argentina
 msgid "Reconquista"
-msgstr ""
+msgstr "เรคอนกิสตา"
 
 #. A city in Argentina
 msgid "Resistencia"
@@ -3358,7 +3358,7 @@ msgstr "ซานมิเกลเดตูกูมัน"
 
 #. A city in Argentina
 msgid "San Salvador de Jujuy"
-msgstr ""
+msgstr "ซาน ซัลวาดอร์ เด ฆูฆุย"
 
 #. A city in Argentina
 #. A city in New Mexico in the United States
@@ -3379,7 +3379,7 @@ msgstr "เยเรวาน"
 
 #. A city in Aruba
 msgid "Camacuri"
-msgstr ""
+msgstr "คามาคูรี"
 
 #. The capital of Aruba
 msgid "Oranjestad"
@@ -3399,7 +3399,7 @@ msgstr "บริสเบน"
 
 #. A city in Western Australia in Australia
 msgid "Broome"
-msgstr ""
+msgstr "บรูม"
 
 #. A city in Western Australia in Australia
 msgid "Bullsbrook"
@@ -3415,7 +3415,7 @@ msgstr "แคนเบอร์รา"
 
 #. A city in Queensland in Australia
 msgid "Coolangatta"
-msgstr ""
+msgstr "คูลังกัตตา"
 
 #. A city in Northern Territory in Australia
 msgid "Darwin"
@@ -3444,11 +3444,11 @@ msgstr "แคทรีน"
 
 #. A city in Western Australia in Australia
 msgid "Kununurra"
-msgstr ""
+msgstr "คูนูนูร์รา"
 
 #. A city in Victoria in Australia
 msgid "Lara"
-msgstr ""
+msgstr "ลารา"
 
 #. A city in Tasmania in Australia
 msgid "Launceston"
@@ -3456,7 +3456,7 @@ msgstr "ลอนเซสตัน"
 
 #. A city in Western Australia in Australia
 msgid "Learmonth"
-msgstr ""
+msgstr "เลียร์มันท์"
 
 #. A city in Victoria in Australia
 msgctxt "City in Victoria, Australia"
@@ -3478,11 +3478,11 @@ msgstr "ริชมอนด์"
 
 #. A city in Queensland in Australia
 msgid "Rockhampton"
-msgstr ""
+msgstr "ร็อกแฮมป์ตัน"
 
 #. A city in Western Australia in Australia
 msgid "Shellborough"
-msgstr ""
+msgstr "เชลล์โบโรห์"
 
 #. A city in New South Wales in Australia
 msgctxt "City in New South Wales, Australia"
@@ -3491,17 +3491,15 @@ msgstr "ซิดนีย์"
 
 #. A city in New South Wales in Australia
 msgid "Tamworth"
-msgstr ""
+msgstr "แทมเวิร์ท"
 
 #. A city in Queensland in Australia
 msgid "Townsville"
 msgstr "ทาวน์สวิล"
 
 #. A city in Victoria in Australia
-#, fuzzy
-#| msgid "Manhattan"
 msgid "Wangaratta"
-msgstr "แมนฮัตตัน"
+msgstr "วังกาแรตตา"
 
 #. A city in South Australia in Australia
 msgid "Woomera"
@@ -3511,7 +3509,7 @@ msgstr "วูเมรา"
 #. One of several cities in Austria called "Aigen".
 #.
 msgid "Aigen im Ennstal"
-msgstr ""
+msgstr "ไอเกน อิม เอ็นสตาล"
 
 #. A city in Austria
 msgid "Graz"
@@ -3519,7 +3517,7 @@ msgstr "กราซ"
 
 #. A city in Austria
 msgid "Hohenems"
-msgstr ""
+msgstr "โฮเฮเนมส์"
 
 #. A city in Austria
 msgid "Innsbruck"
@@ -3554,7 +3552,7 @@ msgstr "เวียนนา"
 
 #. A city in Austria
 msgid "Wiener Neustadt"
-msgstr ""
+msgstr "วีเนอร์นอยชตัดท์"
 
 #. A city in Austria
 msgid "Zell am See"
@@ -3691,7 +3689,7 @@ msgstr ""
 
 #. A city in Hainaut in Belgium
 msgid "Gosselies"
-msgstr ""
+msgstr "กอสเซลลีส์"
 
 #. A city in Limburg in Belgium
 msgid "Kleine-Brogel"
@@ -3709,7 +3707,7 @@ msgstr "ออสเทนด์"
 #. Belgium
 #.
 msgid "Schaffen"
-msgstr ""
+msgstr "ชาฟเฟน"
 
 #. A city in Belize
 msgid "Belize City"
@@ -3750,7 +3748,7 @@ msgstr "ทิมพู"
 
 #. A city in Bolivia
 msgid "Camiri"
-msgstr ""
+msgstr "คามิริ"
 
 #. A city in Bolivia
 msgid "Cobija"
@@ -3772,7 +3770,7 @@ msgstr "ลาปาซ"
 
 #. A city in Bolivia
 msgid "Magdalena"
-msgstr ""
+msgstr "มักดาเลนา"
 
 #. A city in Bolivia
 msgid "Oruro"
@@ -3784,7 +3782,7 @@ msgstr "โปโตซี"
 
 #. A city in Bolivia
 msgid "Puerto Suárez"
-msgstr ""
+msgstr "ปูเอร์โตซัวเรซ"
 
 #. A city in Bolivia
 msgid "Reyes"
@@ -3792,7 +3790,7 @@ msgstr ""
 
 #. A city in Bolivia
 msgid "Riberalta"
-msgstr ""
+msgstr "ริเบรัลตา"
 
 #. A city in Bolivia
 msgid "Roboré"
@@ -3804,22 +3802,21 @@ msgstr ""
 
 #. A city in Bolivia
 msgid "San Borja"
-msgstr ""
+msgstr "ซานบอร์ฮา"
 
 #. A city in Bolivia
 msgid "San Ignacio de Velasco"
-msgstr ""
+msgstr "ซานอิกนาซิโอ เด เบลาสโก"
 
 #. A city in Bolivia
 msgid "San Joaquín"
-msgstr ""
+msgstr "ซานโฮอากิน"
 
 #. A city in Bolivia.
 #. One of several cities in Bolivia called "San José".
 #.
-#, fuzzy
 msgid "San José de Chiquitos"
-msgstr "ซันโฮเซ de Chiquitos"
+msgstr "ซานโฮเซ เด ชิกิโตส"
 
 #. A city in Bolivia
 msgid "Santa Ana de Yacuma"
@@ -3880,7 +3877,7 @@ msgstr "กานซี"
 
 #. A city in Botswana
 msgid "Kasane"
-msgstr ""
+msgstr "คาซาเน"
 
 #. A city in Botswana
 msgid "Letlhakane"
@@ -3892,15 +3889,15 @@ msgstr ""
 
 #. A city in Botswana
 msgid "Maun"
-msgstr ""
+msgstr "มาอูน"
 
 #. A city in Botswana
 msgid "Mochudi"
-msgstr ""
+msgstr "โมชูดี"
 
 #. A city in Botswana
 msgid "Selebi-Phikwe"
-msgstr ""
+msgstr "เซเลบี-ฟิกเว"
 
 #. A city in Botswana
 msgid "Tshabong"
@@ -3908,18 +3905,16 @@ msgstr "ซาบอง"
 
 #. A city in Mato Grosso in Brazil
 msgid "Alta Floresta"
-msgstr ""
+msgstr "อัลตาฟลอเรสตา"
 
 #. A city in Pará in Brazil
 msgid "Altamira"
-msgstr ""
+msgstr "อัลตามิรา"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "American Samoa"
 msgctxt "City in São Paulo, Brazil"
 msgid "Americana"
-msgstr "อเมริกันซามัว"
+msgstr "อาเมรีกานา"
 
 #. A city in Goiás in Brazil
 msgid "Anápolis"
@@ -3932,24 +3927,24 @@ msgstr "อารากาจู"
 #. A city in São Paulo in Brazil
 msgctxt "City in São Paulo, Brazil"
 msgid "Araraquara"
-msgstr ""
+msgstr "อาราราควารา"
 
 #. A city in São Paulo in Brazil
 msgctxt "City in São Paulo, Brazil"
 msgid "Araçatuba"
-msgstr ""
+msgstr "อาราซาตูบา"
 
 #. A city in Santa Catarina in Brazil
 msgid "Balneário Camboriú"
-msgstr ""
+msgstr "บัลเนอาริโอ กัมโบริอู"
 
 #. A city in Minas Gerais in Brazil
 msgid "Barbacena"
-msgstr ""
+msgstr "บาร์บาเซนา"
 
 #. A city in Mato Grosso in Brazil
 msgid "Barra do Garças"
-msgstr ""
+msgstr "บาร์รา โด การ์ซาส"
 
 #. A city in São Paulo in Brazil
 msgctxt "City in São Paulo, Brazil"
@@ -3963,7 +3958,7 @@ msgstr "บารูเอรี"
 
 #. A city in São Paulo in Brazil
 msgid "Bauru"
-msgstr ""
+msgstr "เบารู"
 
 #. A city in Minas Gerais in Brazil
 msgid "Belo Horizonte"
@@ -3976,7 +3971,7 @@ msgstr "เบเลง"
 #. A city in São Paulo in Brazil
 msgctxt "City in São Paulo, Brazil"
 msgid "Bertioga"
-msgstr ""
+msgstr "เบร์ทิโอกา"
 
 #. A city in Santa Catarina in Brazil
 msgid "Blumenau"
@@ -3988,7 +3983,7 @@ msgstr "บัววีชตา"
 
 #. A city in Bahia in Brazil
 msgid "Bom Jesus da Lapa"
-msgstr ""
+msgstr "บอม เฆซุส ดา ลาปา"
 
 #. The capital of Brazil
 msgid "Brasília"
@@ -4031,7 +4026,7 @@ msgstr ""
 
 #. A city in Paraná in Brazil
 msgid "Cascavel"
-msgstr ""
+msgstr "คาสคาเวล"
 
 #. A city in Rio Grande do Sul in Brazil
 msgid "Caxias do Sul"
@@ -4047,7 +4042,7 @@ msgstr "กงเซเซาโดอารากวายา"
 
 #. A city in Mato Grosso do Sul in Brazil
 msgid "Corumbá"
-msgstr ""
+msgstr "โครุมบา"
 
 #. A city in Santa Catarina in Brazil
 msgid "Criciúma"
@@ -4055,7 +4050,7 @@ msgstr "คริซิอูมา"
 
 #. A city in Acre in Brazil
 msgid "Cruzeiro do Sul"
-msgstr ""
+msgstr "กรูเซรูโดซูล"
 
 #. A city in Mato Grosso in Brazil
 msgid "Cuiabá"
@@ -4070,10 +4065,8 @@ msgid "Diadema"
 msgstr "ดิอาเดมา"
 
 #. A city in Mato Grosso do Sul in Brazil
-#, fuzzy
-#| msgid "El Dorado"
 msgid "Dourados"
-msgstr "เอล โดราโด"
+msgstr "โดราโดส"
 
 #. A city in Santa Catarina in Brazil
 msgid "Florianópolis"
@@ -4093,7 +4086,7 @@ msgstr "โกยาเนีย"
 
 #. A city in São Paulo in Brazil
 msgid "Guaratinguetá"
-msgstr ""
+msgstr "กัวราติงเกตา"
 
 #. A city in São Paulo in Brazil
 msgctxt "City in São Paulo, Brazil"
@@ -4102,11 +4095,11 @@ msgstr "กวารูฌา"
 
 #. A city in São Paulo in Brazil
 msgid "Guarulhos"
-msgstr ""
+msgstr "กัวรูลโฮส"
 
 #. A city in Minas Gerais in Brazil
 msgid "Guaxupé"
-msgstr ""
+msgstr "กัวซูเป้"
 
 #. A city in Bahia in Brazil
 msgid "Ilhéus"
@@ -6159,7 +6152,7 @@ msgstr "ยอร์กตัน"
 
 #. A city in Cape Verde
 msgid "Preguiça"
-msgstr ""
+msgstr "เปรกีซา"
 
 #. The capital of the Cayman Islands
 msgctxt "City in Cayman Islands"
@@ -6188,7 +6181,7 @@ msgstr ""
 
 #. A city in Chad
 msgid "Moundou"
-msgstr ""
+msgstr "มูนดู"
 
 #. The capital of Chad
 msgid "N'Djamena"
@@ -6196,52 +6189,52 @@ msgstr "เอ็นจาเมนา"
 
 #. A city in Chad
 msgid "Sarh"
-msgstr ""
+msgstr "ซารห์"
 
 #. A city in Chile
 msgid "Antofagasta"
-msgstr ""
+msgstr "อันโตฟากัสตา"
 
 #. A city in Chile
 msgid "Arica"
-msgstr ""
+msgstr "อาริกา"
 
 #. A city in Chile
 msgid "Balmaceda"
-msgstr ""
+msgstr "บัลมาเซดา"
 
 #. A city in Chile
 msgctxt "City in Chile"
 msgid "Concepción"
-msgstr ""
+msgstr "กอนเซปซิออน"
 
 #. A city in Chile
 msgid "Concón"
-msgstr ""
+msgstr "กอนกอน"
 
 #. A city in Chile
 msgid "Curico"
-msgstr ""
+msgstr "กูริโก"
 
 #. A city in Chile
 msgid "Hanga Roa"
-msgstr ""
+msgstr "ฮังกาโรอา"
 
 #. A city in Chile
 msgid "Iquique"
-msgstr ""
+msgstr "อิกิเก"
 
 #. A city in Chile
 msgid "La Serena"
-msgstr ""
+msgstr "ลาเซเรนา"
 
 #. A city in Chile
 msgid "Puerto Montt"
-msgstr ""
+msgstr "ปูเอร์โตมอนต์"
 
 #. A city in Chile
 msgid "Punta Arenas"
-msgstr ""
+msgstr "ปุนตาอาเรนัส"
 
 #. A city in Chile
 msgid "Quilpué"
@@ -6259,19 +6252,15 @@ msgstr "ซันติอาโก"
 
 #. A city in Chile
 msgid "Temuco"
-msgstr ""
+msgstr "เตมูโก"
 
 #. A city in Chile
-#, fuzzy
-#| msgctxt "City in Florida, United States"
-#| msgid "Valparaiso"
 msgid "Valparaíso"
-msgstr "แวลพาไรโซ"
+msgstr "บัลปาราอิโซ"
 
 #. A city in Chile
-#, fuzzy
 msgid "Viña del Mar"
-msgstr "ซิวดัด del Carmen"
+msgstr "บีญาเดลมาร์"
 
 #. The capital of China
 msgctxt "City in Beijing, China"
@@ -6349,10 +6338,8 @@ msgstr "ฮูฮอต"
 
 #. A city in Shandong in China.
 #. The name is also written "济南"
-#, fuzzy
-#| msgid "Hainan"
 msgid "Jinan"
-msgstr "ไห่หนาน (ไหหลำ)"
+msgstr "จี่หนาน"
 
 #. A city in Xinjiang in China
 msgid "Kashi"
@@ -6456,11 +6443,11 @@ msgstr "เจิ้งโจว"
 
 #. A city in Christmas Island
 msgid "Drumsite"
-msgstr ""
+msgstr "ดรัมไซต์"
 
 #. The capital of Christmas Island
 msgid "Flying Fish Cove"
-msgstr ""
+msgstr "ฟลายอิงฟิชโคฟ"
 
 #. A city in the Cocos (Keeling) Islands
 msgid "Bantam Village"
@@ -6468,7 +6455,7 @@ msgstr ""
 
 #. A city in Colombia
 msgid "Barranquilla"
-msgstr ""
+msgstr "บาร์รังกิยา"
 
 #. The capital of Colombia
 msgid "Bogotá"
@@ -6476,23 +6463,23 @@ msgstr "โบโกตา"
 
 #. A city in Colombia
 msgid "Bucaramanga"
-msgstr ""
+msgstr "บูการามังกา"
 
 #. A city in Colombia
 msgid "Cali"
-msgstr ""
+msgstr "กาลิ"
 
 #. A city in Colombia
 msgid "Cartagena"
-msgstr ""
+msgstr "การ์ตาเฮนา"
 
 #. A city in Colombia
 msgid "Cúcuta"
-msgstr ""
+msgstr "กูกูตา"
 
 #. A city in Colombia
 msgid "Ibagué"
-msgstr ""
+msgstr "อีบาเก"
 
 #. A city in Colombia
 #, fuzzy
@@ -6506,50 +6493,43 @@ msgstr ""
 
 #. A city in Colombia
 msgid "Medellín"
-msgstr ""
+msgstr "เมเดยิน"
 
 #. A city in Colombia
-#, fuzzy
-#| msgid "Montserrat"
 msgid "Monteria"
-msgstr "มอนต์เซอร์รัต"
+msgstr "มอนเตเรีย"
 
 #. A city in Colombia
-#, fuzzy
-#| msgid "Easton"
 msgid "Pasto"
-msgstr "อีสตัน"
+msgstr "ปัสโต"
 
 #. A city in Colombia
 msgid "Pereira"
-msgstr ""
+msgstr "เปเรย์รา"
 
 #. A city in Colombia
 msgid "Popayán"
-msgstr ""
+msgstr "โปปายัน"
 
 #. A city in Colombia
 msgid "Quibdó"
-msgstr ""
+msgstr "กิบโด"
 
 #. A city in Colombia
 msgid "Riohacha"
-msgstr ""
+msgstr "ริโออาชา"
 
 #. A city in Colombia
 msgid "Rionegro"
-msgstr ""
+msgstr "ริโอเนโกร"
 
 #. A city in Colombia
 msgid "San Andrés"
-msgstr ""
+msgstr "ซานอันเดรส"
 
 #. A city in Colombia
-#, fuzzy
-#| msgctxt "City in California, United States"
-#| msgid "Santa Maria"
 msgid "Santa Marta"
-msgstr "แซนตามาเรีย"
+msgstr "ซานตามาร์ตา"
 
 #. A city in Colombia
 msgid "Villavicencio"
@@ -6557,7 +6537,7 @@ msgstr ""
 
 #. A city in Comoros
 msgid "Mbaléni"
-msgstr ""
+msgstr "อึมบาลานี"
 
 #. The capital of Comoros
 msgid "Moroni"
@@ -6674,11 +6654,11 @@ msgstr "ซันติอาโก เดอ คิวบา"
 
 #. A city in Cyprus
 msgid "Akrotiri"
-msgstr ""
+msgstr "อะโกรตีรี"
 
 #. A city in Cyprus
 msgid "Larnaca"
-msgstr ""
+msgstr "ลาร์นากา"
 
 #. The capital of Cyprus
 msgid "Nicosia"
@@ -6686,15 +6666,15 @@ msgstr "นิโคเซีย"
 
 #. A city in Cyprus
 msgid "Paphos"
-msgstr ""
+msgstr "แพฟอส"
 
 #. A city in Cyprus
 msgid "Tymbou"
-msgstr ""
+msgstr "ติมบู"
 
 #. A city in the Czech Republic
 msgid "Brno"
-msgstr ""
+msgstr "เบอร์โน"
 
 #. A city in the Czech Republic
 msgid "Holešov"
@@ -6702,35 +6682,35 @@ msgstr ""
 
 #. A city in the Czech Republic
 msgid "Hradec Králové"
-msgstr ""
+msgstr "ฮราแด็ตส์กราโลแว"
 
 #. A city in the Czech Republic
 msgid "Jihlava"
-msgstr ""
+msgstr "ยิฮลาวา"
 
 #. A city in the Czech Republic
 msgid "Karlovy Vary"
-msgstr ""
+msgstr "การ์โลวีวารี"
 
 #. A city in the Czech Republic
 msgid "Liberec"
-msgstr ""
+msgstr "ลิแบแร็ตส์"
 
 #. A city in the Czech Republic
 msgid "Olomouc"
-msgstr ""
+msgstr "โอโลโมตส์"
 
 #. A city in the Czech Republic
 msgid "Ostrava"
-msgstr ""
+msgstr "โอสตราวา"
 
 #. A city in the Czech Republic
 msgid "Pardubice"
-msgstr ""
+msgstr "ปาร์ดูบิตแซ"
 
 #. A city in the Czech Republic
 msgid "Plzeň"
-msgstr ""
+msgstr "เปิลแซ็ญ"
 
 #. The capital of the Czech Republic.
 #. "Prague" is the traditional English name.
@@ -6741,15 +6721,15 @@ msgstr "ปราก"
 
 #. A city in the Czech Republic
 msgid "Zlín"
-msgstr ""
+msgstr "ซลีน"
 
 #. A city in the Czech Republic
 msgid "Ústí nad Labem"
-msgstr ""
+msgstr "อูสจีนัดลาแบ็ม"
 
 #. A city in the Czech Republic
 msgid "České Budějovice"
-msgstr ""
+msgstr "แช็สแกบูแยโยวิตแซ"
 
 #. A city in Côte d'Ivoire
 msgid "Abidjan"
@@ -6757,7 +6737,7 @@ msgstr "อาบิดจัน"
 
 #. A city in Denmark
 msgid "Billund"
-msgstr ""
+msgstr "บิลลุนด์"
 
 #. The capital of Denmark.
 #. "Copenhagen" is the traditional English name.
@@ -6768,7 +6748,7 @@ msgstr "โคเปนเฮเกน"
 
 #. A city in Denmark
 msgid "Esbjerg"
-msgstr ""
+msgstr "เอสบีเยร์"
 
 #. A city in Denmark
 msgid "Karup"
@@ -6838,7 +6818,7 @@ msgstr ""
 
 #. A city in the Dominican Republic
 msgid "La Romana"
-msgstr ""
+msgstr "ลาโรมานา"
 
 #. A city in the Dominican Republic
 msgid "Mancha Nueva"
@@ -6846,11 +6826,11 @@ msgstr ""
 
 #. A city in the Dominican Republic
 msgid "Pantanal"
-msgstr ""
+msgstr "ปันตานัล"
 
 #. A city in the Dominican Republic
 msgid "Puerto Plata"
-msgstr ""
+msgstr "ปูเอร์โตปลาตา"
 
 #. A city in the Dominican Republic
 msgctxt "City in Dominican Republic"
@@ -6867,7 +6847,7 @@ msgstr "ไกวย์อากิล"
 
 #. A city in Ecuador
 msgid "Latacunga"
-msgstr ""
+msgstr "ลาตาคุงกา"
 
 #. A city in Ecuador
 msgid "Manta"
@@ -6950,7 +6930,7 @@ msgstr "มาลาโบ"
 
 #. A city in Estonia
 msgid "Kuressaare"
-msgstr ""
+msgstr "กูเร็สซาเร"
 
 #. A city in Estonia
 msgid "Kärdla"
@@ -6958,7 +6938,7 @@ msgstr ""
 
 #. A city in Estonia
 msgid "Pärnu"
-msgstr ""
+msgstr "ปาร์นู"
 
 #. The capital of Estonia
 msgid "Tallinn"
@@ -6966,7 +6946,7 @@ msgstr "ทาลลินน์"
 
 #. A city in Estonia
 msgid "Tartu"
-msgstr ""
+msgstr "ตาร์ตู"
 
 #. The capital of the Falkland Islands (Malvinas)
 msgctxt "City in Falkland Islands (Malvinas)"
@@ -7031,7 +7011,7 @@ msgstr ""
 #. The local name in Swedish is "Kronoby".
 #.
 msgid "Kruunupyy"
-msgstr ""
+msgstr "โครโนบี"
 
 #. A city in Finland
 msgid "Kuopio"
@@ -7077,7 +7057,7 @@ msgstr ""
 #. The local name in Swedish is "Åbo".
 #.
 msgid "Turku"
-msgstr ""
+msgstr "ตุรกุ"
 
 #. A city in Finland
 msgid "Utti"
@@ -7087,15 +7067,13 @@ msgstr ""
 #. The local name in Swedish is "Vasa".
 #.
 msgid "Vaasa"
-msgstr ""
+msgstr "วาซา"
 
 #. A city in Finland.
 #. The local name in Swedish is "Vanda".
 #.
-#, fuzzy
-#| msgid "Santa Ana"
 msgid "Vantaa"
-msgstr "แซนตาแอนา"
+msgstr "วันตา"
 
 #. A city in Finland
 msgid "Varkaus"
@@ -7103,7 +7081,7 @@ msgstr ""
 
 #. A city in France
 msgid "Agen"
-msgstr ""
+msgstr "อาแฌ็ง"
 
 #. A city in France
 msgid "Ajaccio"
@@ -7111,19 +7089,19 @@ msgstr "อฌัคซิโอ"
 
 #. A city in France
 msgid "Alençon"
-msgstr ""
+msgstr "อาล็องซง"
 
 #. A city in France
 msgid "Amiens"
-msgstr ""
+msgstr "อาเมียง"
 
 #. A city in France
 msgid "Auch"
-msgstr ""
+msgstr "อ็อช"
 
 #. A city in France
 msgid "Aurillac"
-msgstr ""
+msgstr "โอรียัก"
 
 #. A city in France
 msgid "Bastia"
@@ -7131,33 +7109,33 @@ msgstr "บาสเตีย"
 
 #. A city in France
 msgid "Beauvais"
-msgstr ""
+msgstr "โบเวส์"
 
 #. A city in France
 msgid "Bergerac"
-msgstr ""
+msgstr "แบร์เฌอรัก"
 
 #. A city in France
 msgid "Biarritz"
-msgstr ""
+msgstr "บียาริตส์"
 
 #. A city in France
 msgctxt "City in France"
 msgid "Bordeaux"
-msgstr ""
+msgstr "บอร์โด"
 
 #. A city in France
 msgid "Bourg-en-Bresse"
-msgstr ""
+msgstr "บูร์ก็องแบร็ส"
 
 #. A city in France
 msgid "Bourges"
-msgstr ""
+msgstr "บูร์ช"
 
 #. A city in France
 msgctxt "City in France"
 msgid "Brest"
-msgstr ""
+msgstr "แบร็สต์"
 
 #. A city in France
 msgid "Brive"
@@ -21791,7 +21769,7 @@ msgstr ""
 
 #. A city in Venezuela
 msgid "Puerto Ayacucho"
-msgstr "ปวยร์โตไออากูโช"
+msgstr "ปูเอร์โตไออากูโช"
 
 #. A city in Venezuela
 msgid "Puerto Borburata"
