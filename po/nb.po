@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libgweather-3.38.x locations\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-03 03:20+0000\n"
-"PO-Revision-Date: 2026-05-05 20:32+0200\n"
+"POT-Creation-Date: 2026-06-17 20:42+0000\n"
+"PO-Revision-Date: 2026-07-09 13:50+0200\n"
 "Last-Translator: Kjartan Maraas <kmaraas@gnome.org>\n"
 "Language-Team: Norwegian bokmål <i18n-nb@lister.ping.uio.no>\n"
 "Language: nb\n"
@@ -2484,18 +2484,14 @@ msgid "Jammu and Kashmir"
 msgstr ""
 
 #. A state in India
-#, fuzzy
-#| msgid "Qaraghandy"
 msgctxt "State in India"
 msgid "Jharkhand"
-msgstr "Qaraghandy"
+msgstr "Jharkhand"
 
 #. A state in India
-#, fuzzy
-#| msgid "Larnaca"
 msgctxt "State in India"
 msgid "Karnataka"
-msgstr "Larnaca"
+msgstr "Karnataka"
 
 #. A state in India
 msgctxt "State in India"
@@ -2505,115 +2501,97 @@ msgstr "Kerala"
 #. A union territory in India
 msgctxt "Union Territory in India"
 msgid "Ladakh"
-msgstr ""
+msgstr "Ladakh"
 
 #. A union territory in India
 msgctxt "Union Territory in India"
 msgid "Lakshadweep"
-msgstr ""
+msgstr "Lakshadweep"
 
 #. A state in India
 msgctxt "State in India"
 msgid "Madhya Pradesh"
-msgstr ""
+msgstr "Madhya Pradesh"
 
 #. A state in India
-#, fuzzy
-#| msgid "Sarasota"
 msgctxt "State in India"
 msgid "Maharashtra"
-msgstr "Sarasota"
+msgstr "Maharashtra"
 
 #. A state in India
-#, fuzzy
-#| msgid "Jaipur"
 msgctxt "State in India"
 msgid "Manipur"
-msgstr "Jaipur"
+msgstr "Manipur"
 
 #. A state in India
-#, fuzzy
-#| msgid "Malaysia"
 msgctxt "State in India"
 msgid "Meghalaya"
-msgstr "Malaysia"
+msgstr "Meghalaya"
 
 #. A state in India
 msgctxt "State in India"
 msgid "Mizoram"
-msgstr ""
+msgstr "Mizoram"
 
 #. A state in India
-#, fuzzy
-#| msgid "Saarland"
 msgctxt "State in India"
 msgid "Nagaland"
-msgstr "Saarland"
+msgstr "Nagaland"
 
 #. A state in India
 msgctxt "State in India"
 msgid "Odisha"
-msgstr ""
+msgstr "Odisha"
 
 #. A union territory in India
-#, fuzzy
-#| msgid "Perry"
 msgctxt "Union Territory in India"
 msgid "Puducherry"
-msgstr "Perry"
+msgstr "Puducherry"
 
 #. A state in India
 msgctxt "State in India"
 msgid "Punjab"
-msgstr ""
+msgstr "Punjab"
 
 #. A state in India
 msgctxt "State in India"
 msgid "Rajasthan"
-msgstr ""
+msgstr "Rajasthan"
 
 #. A state in India
 msgctxt "State in India"
 msgid "Sikkim"
-msgstr ""
+msgstr "Sikkim"
 
 #. A state in India
 msgctxt "State in India"
 msgid "Tamil Nadu"
-msgstr ""
+msgstr "Tamil Nadu"
 
 #. A state in India
-#, fuzzy
-#| msgid "Palanga"
 msgctxt "State in India"
 msgid "Telangana"
-msgstr "Palanga"
+msgstr "Telangana"
 
 #. A state in India
-#, fuzzy
-#| msgid "Jaipur"
 msgctxt "State in India"
 msgid "Tripura"
-msgstr "Jaipur"
+msgstr "Tripura"
 
 #. A state in India
 msgctxt "State in India"
 msgid "Uttar Pradesh"
-msgstr ""
+msgstr "Uttar Pradesh"
 
 #. A state in India
-#, fuzzy
-#| msgid "Astrakhan'"
 msgctxt "State in India"
 msgid "Uttarakhand"
-msgstr "Astrakhan'"
+msgstr "Uttarakhand"
 
 #. A state in India
-#, fuzzy
-#| msgid "West Bend"
 msgctxt "State in India"
 msgid "West Bengal"
-msgstr "West Bend"
+msgstr "Vest-Bengal"
 
 #. A state/province/territory in Mexico
 msgctxt "State in Mexico"
@@ -2757,62 +2735,48 @@ msgid "Zacatecas"
 msgstr "Zacatecas"
 
 #. Ukraine Autonomous Republic of Crimea
-#, fuzzy
-#| msgid "Congo, Republic of the"
 msgid "Autonomous Republic of Crimea"
-msgstr "Kongo"
+msgstr "Den automome republikken Krim"
 
 #. Ukraine Cherkasy Oblast (region/province)
 msgid "Cherkasy Oblast"
-msgstr ""
+msgstr "Cherkasy Oblast"
 
 #. Ukraine Chernihiv Oblast (region/province)
-#, fuzzy
-#| msgid "Chernivtsi"
 msgid "Chernihiv Oblast"
-msgstr "Chernivtsi"
+msgstr "Chernihiv Oblast"
 
 #. Ukraine Chernivtsi Oblast (region/province)
-#, fuzzy
-#| msgid "Chernivtsi"
 msgid "Chernivtsi Oblast"
-msgstr "Chernivtsi"
+msgstr "Chernivtsi Oblast"
 
 #. Ukraine Dnipropetrovsk Oblast (region/province)
-#, fuzzy
-#| msgid "Dnipropetrovs'k"
 msgid "Dnipropetrovsk Oblast"
-msgstr "Dnipropetrovs'k"
+msgstr "Dnipropetrovsk Oblast"
 
 #. Ukraine Donets'k Oblast (region/province)
-#, fuzzy
-#| msgid "Donets'k"
 msgid "Donets'k Oblast"
-msgstr "Donets'k"
+msgstr "Donetsk Oblast"
 
 #. Ukraine Ivano-Frankivs'k Oblast (region/province)
-#, fuzzy
-#| msgid "Ivano-Frankivs'k"
 msgid "Ivano-Frankivsk Oblast"
-msgstr "Ivano-Frankivs'k"
+msgstr "Ivano-Frankivsk Oblast"
 
 #. Ukraine Kharkiv Oblast (region/province)
-#, fuzzy
-#| msgid "Kharkiv"
 msgid "Kharkiv Oblast"
-msgstr "Kharkiv"
+msgstr "Kharkiv Oblast"
 
 #. Ukraine Kherson Oblast (region/province)
 msgid "Kherson Oblast"
-msgstr ""
+msgstr "Kherson Oblast"
 
 #. Ukraine Khmelnytskyi Oblast (region/province)
 msgid "Khmelnytskyi Oblast"
-msgstr ""
+msgstr "Khmelnytskyi Oblast"
 
 #. Ukraine Kirovohrad Oblast (region/province)
 msgid "Kirovohrad Oblast"
-msgstr ""
+msgstr "Kirovohrad Oblast"
 
 #. Kyiv City
 msgid "Kyiv City"
@@ -2824,61 +2788,59 @@ msgstr "Kyiv fylke"
 
 #. Ukraine Luhans'k Oblast (region/province)
 msgid "Luhansk Oblast"
-msgstr ""
+msgstr "Luhansk fylke"
 
 #. Ukraine L'viv Oblast (region/province)
 msgid "Lviv Oblast"
-msgstr ""
+msgstr "Lviv fylke"
 
 #. Ukraine Mykolaiv Oblast (region/province)
-#, fuzzy
-#| msgid "Mykolayiv"
 msgid "Mykolaiv Oblast"
-msgstr "Mykolayiv"
+msgstr "Mykolaiv fylke"
 
 #. Ukraine Odesa Oblast (region/province)
 msgid "Odesa Oblast"
-msgstr ""
+msgstr "Odessa fylke"
 
 #. Ukraine Poltava Oblast (region/province)
 msgid "Poltava Oblast"
-msgstr ""
+msgstr "Poltava fylke"
 
 #. Ukraine Rivne Oblast (region/province)
 msgid "Rivne Oblast"
-msgstr ""
+msgstr "Rivne fylke"
 
 #. Ukraine Sevastopol Municipality
 msgid "Sevastopol Municipality"
-msgstr ""
+msgstr "Sevastopol kommune"
 
 #. Ukraine Sumy Oblast (region/province)
 msgid "Sumy Oblast"
-msgstr ""
+msgstr "Sumy fylke"
 
 #. Ukraine Ternopil' Oblast (region/province)
 msgid "Ternopil Oblast"
-msgstr ""
+msgstr "Ternopil fylke"
 
 #. Ukraine Vinnytsia Oblast (region/province)
 msgid "Vinnytsia Oblast"
-msgstr ""
+msgstr "Vinnytsia fylke"
 
 #. Ukraine Volyn' Oblast (region/province)
 msgid "Volyn Oblast"
-msgstr ""
+msgstr "Volyn fylke"
 
 #. Ukraine Zakarpattia Oblast (region/province)
 msgid "Zakarpattia Oblast"
-msgstr ""
+msgstr "Zakarpattia fylke"
 
 #. Ukraine Zaporizhzhia Oblast (region/province)
 msgid "Zaporizhzhia Oblast"
-msgstr ""
+msgstr "Zaporizhzhia fylke"
 
 #. Ukraine Zhytomyr Oblast (region/province)
 msgid "Zhytomyr Oblast"
-msgstr ""
+msgstr "Zhytomyr fylke"
 
 #. A state/province/territory in United Kingdom
 msgid "East and South East England"
@@ -4050,29 +4012,23 @@ msgstr "Campos"
 #. A city in São Paulo in Brazil
 msgctxt "City in São Paulo, Brazil"
 msgid "Campos do Jordão"
-msgstr ""
+msgstr "Campos de Jordão"
 
 #. A city in Rio Grande do Sul in Brazil
 msgid "Canoas"
-msgstr ""
+msgstr "Canoas"
 
 #. A city in Paraná in Brazil
-#, fuzzy
-#| msgid "Cascade"
 msgid "Cascavel"
-msgstr "Cascade"
+msgstr "Cascavel"
 
 #. A city in Rio Grande do Sul in Brazil
-#, fuzzy
-#| msgid "Cruzeiro do Sul"
 msgid "Caxias do Sul"
-msgstr "Cruzeiro do Sul"
+msgstr "Caxias do Sul"
 
 #. A city in Santa Catarina in Brazil
-#, fuzzy
-#| msgid "Chapleau"
 msgid "Chapecó"
-msgstr "Chapleau"
+msgstr "Chapecó"
 
 #. A city in Pará in Brazil
 msgid "Conceição do Araguaia"
@@ -4084,7 +4040,7 @@ msgstr "Corumbá"
 
 #. A city in Santa Catarina in Brazil
 msgid "Criciúma"
-msgstr ""
+msgstr "Criciúma"
 
 #. A city in Acre in Brazil
 msgid "Cruzeiro do Sul"
@@ -4100,7 +4056,7 @@ msgstr "Curitaba"
 
 #. A city in São Paulo in Brazil
 msgid "Diadema"
-msgstr ""
+msgstr "Diadema"
 
 #. A city in Mato Grosso do Sul in Brazil
 msgid "Dourados"
@@ -4127,11 +4083,9 @@ msgid "Guaratinguetá"
 msgstr "Guaratinguetá"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "Guaratinguetá"
 msgctxt "City in São Paulo, Brazil"
 msgid "Guarujá"
-msgstr "Guaratinguetá"
+msgstr "Guarujá"
 
 #. A city in São Paulo in Brazil
 msgid "Guarulhos"
@@ -4139,7 +4093,7 @@ msgstr "Guarulhos"
 
 #. A city in Minas Gerais in Brazil
 msgid "Guaxupé"
-msgstr ""
+msgstr "Guaxupé"
 
 #. A city in Bahia in Brazil
 msgid "Ilhéus"
@@ -4150,16 +4104,12 @@ msgid "Imperatriz"
 msgstr "Imperatriz"
 
 #. A city in Minas Gerais in Brazil
-#, fuzzy
-#| msgid "Latina"
 msgid "Ipatinga"
-msgstr "Latina"
+msgstr "Ipatinga"
 
 #. A city in Bahia in Brazil
-#, fuzzy
-#| msgid "Ashtabula"
 msgid "Itabuna"
-msgstr "Ashtabula"
+msgstr "Itabuna"
 
 #. A city in Pará in Brazil
 msgid "Itaituba"
@@ -4167,28 +4117,24 @@ msgstr "Itaituba"
 
 #. A city in Santa Catarina in Brazil
 msgid "Itajaí"
-msgstr ""
+msgstr "Itajaí"
 
 #. A city in São Paulo in Brazil
 msgctxt "City in São Paulo, Brazil"
 msgid "Itanhaém"
-msgstr ""
+msgstr "Itanhaém"
 
 #. A city in Pará in Brazil
 msgid "Jacareacanga"
 msgstr "Jacareacanga"
 
 #. A city in Santa Catarina in Brazil
-#, fuzzy
-#| msgid "Cruzeiro do Sul"
 msgid "Jaraguá do Sul"
-msgstr "Cruzeiro do Sul"
+msgstr "Jaraguá do Sul"
 
 #. A city in Santa Catarina in Brazil
-#, fuzzy
-#| msgid "Longville"
 msgid "Joinville"
-msgstr "Longville"
+msgstr "Joinville"
 
 #. A city in Paraíba in Brazil
 msgid "João Pessoa"
@@ -4199,22 +4145,18 @@ msgid "Juiz de Fora"
 msgstr "Juiz de Fora"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "India"
 msgctxt "City in São Paulo, Brazil"
 msgid "Jundiaí"
-msgstr "India"
+msgstr "Jundiaí"
 
 #. A city in Santa Catarina in Brazil
 msgid "Lages"
-msgstr ""
+msgstr "Lages"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "Limerick"
 msgctxt "City in São Paulo, Brazil"
 msgid "Limeira"
-msgstr "Limerick"
+msgstr "Limeira"
 
 #. A city in Paraná in Brazil
 msgid "Londrina"
@@ -4243,26 +4185,22 @@ msgstr "Maringá"
 #. A city in São Paulo in Brazil
 msgctxt "City in São Paulo, Brazil"
 msgid "Mauá"
-msgstr ""
+msgstr "Mauá"
 
 #. A city in São Paulo in Brazil
 msgctxt "City in São Paulo, Brazil"
 msgid "Mococa"
-msgstr ""
+msgstr "Mococa"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "Las Cruces"
 msgctxt "City in São Paulo, Brazil"
 msgid "Mogi das Cruzes"
-msgstr "Las Cruces"
+msgstr "Mogi das Cruzes"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "Mongar"
 msgctxt "City in São Paulo, Brazil"
 msgid "Mongaguá"
-msgstr "Mongar"
+msgstr "Mongaguá"
 
 #. A city in Minas Gerais in Brazil
 msgid "Montes Claros"
@@ -4278,24 +4216,21 @@ msgid "Natal"
 msgstr "Natal"
 
 #. A city in Rio Grande do Sul in Brazil
-#, fuzzy
 msgid "Novo Hamburgo"
-msgstr "Hamburg"
+msgstr "Novo Hamburgo"
 
 #. A city in Amapá in Brazil
 msgid "Oiapoque"
 msgstr "Oiapoque"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "Pasco"
 msgctxt "City in São Paulo, Brazil"
 msgid "Osasco"
-msgstr "Pasco"
+msgstr "Osasco"
 
 #. A city in Santa Catarina in Brazil
 msgid "Palhoça"
-msgstr ""
+msgstr "Palhoça"
 
 #. A city in São Paulo in Brazil
 msgid "Palmeiras"
@@ -4314,12 +4249,9 @@ msgid "Pelotas"
 msgstr "Pelotas"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgctxt "Country"
-#| msgid "Peru"
 msgctxt "City in São Paulo, Brazil"
 msgid "Peruíbe"
-msgstr "Peru"
+msgstr "Peruíbe"
 
 #. A city in Pernambuco in Brazil
 msgid "Petrolina"
@@ -4328,18 +4260,14 @@ msgstr "Petrolina"
 #. A city in São Paulo in Brazil
 msgctxt "City in São Paulo, Brazil"
 msgid "Pindamonhangaba"
-msgstr ""
+msgstr "Pindamonhangaba"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "Piracicaba"
 msgctxt "City in São Paulo, Brazil"
 msgid "Piracicaba"
 msgstr "Piracicaba"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "Piraçununga"
 msgctxt "City in São Paulo, Brazil"
 msgid "Piraçununga"
 msgstr "Piraçununga"
@@ -4357,31 +4285,23 @@ msgid "Porto Alegre"
 msgstr "Porto Alegre"
 
 #. A city in Bahia in Brazil
-#, fuzzy
-#| msgid "Pôrto Seguro"
 msgid "Porto Seguro"
-msgstr "Pôrto Seguro"
+msgstr "Porto Seguro"
 
 #. A city in Rondônia in Brazil
-#, fuzzy
-#| msgid "Pôrto Velho"
 msgid "Porto Velho"
-msgstr "Pôrto Velho"
+msgstr "Porto Velho"
 
 #. A city in Minas Gerais in Brazil
 msgid "Poços de Caldas"
 msgstr "Poços de Caldas"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "Piri Grande"
 msgctxt "City in São Paulo, Brazil"
 msgid "Praia Grande"
-msgstr "Piri Grande"
+msgstr "Praia Grande"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "Presidente Prudente"
 msgctxt "City in São Paulo, Brazil"
 msgid "Presidente Prudente"
 msgstr "Presidente Prudente"
@@ -4393,36 +4313,30 @@ msgstr "Recife"
 #. A city in São Paulo in Brazil
 msgctxt "City in São Paulo, Brazil"
 msgid "Ribeirão Pires"
-msgstr ""
+msgstr "Ribeirão Pires"
 
 #. A city in São Paulo in Brazil
 msgctxt "City in São Paulo, Brazil"
 msgid "Ribeirão Preto"
-msgstr ""
+msgstr "Ribeirão Preto"
 
 #. A city in Acre in Brazil
 msgid "Rio Branco"
 msgstr "Rio Branco"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "Montes Claros"
 msgctxt "City in São Paulo, Brazil"
 msgid "Rio Claro"
-msgstr "Montes Claros"
+msgstr "Rio Claro"
 
 #. A city in Rio Grande do Sul in Brazil
-#, fuzzy
-#| msgid "Río Grande"
 msgid "Rio Grande"
-msgstr "Río Grande"
+msgstr "Rio Grande"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "Rio Grande do Sul"
 msgctxt "City in São Paulo, Brazil"
 msgid "Rio Grande da Serra"
-msgstr "Rio Grande do Sul"
+msgstr "Rio Grande da Serra"
 
 #. A city in Rio de Janeiro in Brazil
 msgctxt "City in Rio de Janeiro, Brazil"
@@ -4443,56 +4357,42 @@ msgid "Santarém"
 msgstr "Santarém"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "San Andrés"
 msgctxt "City in São Paulo, Brazil"
 msgid "Santo André"
-msgstr "San Andrés"
+msgstr "Santo André"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "Santos"
 msgctxt "City in São Paulo, Brazil"
 msgid "Santos"
 msgstr "Santos"
 
 #. A city in Espírito Santo in Brazil
-#, fuzzy
-#| msgid "Terrace"
 msgid "Serra"
-msgstr "Terrace"
+msgstr "Serra"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "Bolzano"
 msgctxt "City in São Paulo, Brazil"
 msgid "Suzano"
-msgstr "Bolzano"
+msgstr "Suzano"
 
 #. A city in Santa Catarina in Brazil
 msgid "São Bento do Sul"
-msgstr ""
+msgstr "São Bento do Sul"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "São José dos Campos"
 msgctxt "City in São Paulo, Brazil"
 msgid "São Bernardo do Campo"
-msgstr "São José dos Campos"
+msgstr "São Bernardo do Campo"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "Rio Grande do Sul"
 msgctxt "City in São Paulo, Brazil"
 msgid "São Caetano do Sul"
-msgstr "Rio Grande do Sul"
+msgstr "São Caetano do Sul"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "San Carlos"
 msgctxt "City in São Paulo, Brazil"
 msgid "São Carlos"
-msgstr "San Carlos"
+msgstr "São Carlos"
 
 #. A city in Amazonas in Brazil
 msgid "São Félix"
@@ -4503,31 +4403,22 @@ msgid "São Gabriel"
 msgstr "São Gabriel"
 
 #. A city in Santa Catarina in Brazil
-#, fuzzy
-#| msgid "San José"
 msgid "São José"
-msgstr "San José"
+msgstr "São José"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "São José dos Campos"
 msgctxt "City in São Paulo, Brazil"
 msgid "São José do Rio Preto"
-msgstr "São José dos Campos"
+msgstr "São José do Rio Preto"
 
 #. A city in São Paulo in Brazil
-#, fuzzy
-#| msgid "São José dos Campos"
 msgctxt "City in São Paulo, Brazil"
 msgid "São José dos Campos"
 msgstr "São José dos Campos"
 
 #. A city in Rio Grande do Sul in Brazil
-#, fuzzy
-#| msgctxt "State in Brazil"
-#| msgid "São Paulo"
 msgid "São Leopoldo"
-msgstr "São Paulo"
+msgstr "São Leopoldo"
 
 #. A city in Maranhão in Brazil
 msgid "São Luís"
@@ -4545,12 +4436,12 @@ msgstr "São Pedro da Aldeia"
 #. A city in São Paulo in Brazil
 msgctxt "City in São Paulo, Brazil"
 msgid "São Sebastião"
-msgstr ""
+msgstr "São Sebastião"
 
 #. A city in São Paulo in Brazil
 msgctxt "City in São Paulo, Brazil"
 msgid "São Vicente"
-msgstr ""
+msgstr "São Vicente"
 
 #. A city in Acre in Brazil
 msgid "Tarauacá"
@@ -4559,7 +4450,7 @@ msgstr "Tarauacá"
 #. A city in São Paulo in Brazil
 msgctxt "City in São Paulo, Brazil"
 msgid "Taubaté"
-msgstr ""
+msgstr "Taubaté"
 
 #. A city in Amazonas in Brazil
 msgid "Tefé"
@@ -4571,7 +4462,7 @@ msgstr "Teresina"
 
 #. A city in Santa Catarina in Brazil
 msgid "Tubarão"
-msgstr ""
+msgstr "Tubarão"
 
 #. A city in Pará in Brazil
 msgid "Tucuruí"
@@ -4590,10 +4481,8 @@ msgid "Uruguaiana"
 msgstr "Uruguaiana"
 
 #. A city in Espírito Santo in Brazil
-#, fuzzy
-#| msgid "Vilano Beach"
 msgid "Vila Velha"
-msgstr "Vilano Beach"
+msgstr "Vila Velha"
 
 #. A city in Pernambuco in Brazil
 msgid "Vila dos Remédios"
@@ -4662,10 +4551,8 @@ msgid "Phnom Penh"
 msgstr "Phnom Penh"
 
 #. A city in Cambodia
-#, fuzzy
-#| msgid "Siemreab"
 msgid "Siem Reap"
-msgstr "Siemreab"
+msgstr "Siem Reap"
 
 #. A city in Cameroon
 msgid "Douala"
@@ -6316,11 +6203,8 @@ msgid "Concepción"
 msgstr "Concepción"
 
 #. A city in Chile
-#, fuzzy
-#| msgctxt "City in Bolivia"
-#| msgid "Concepción"
 msgid "Concón"
-msgstr "Concepción"
+msgstr "Concón"
 
 #. A city in Chile
 msgid "Curico"
@@ -6364,17 +6248,12 @@ msgid "Temuco"
 msgstr "Temuco"
 
 #. A city in Chile
-#, fuzzy
-#| msgctxt "City in Florida, United States"
-#| msgid "Valparaiso"
 msgid "Valparaíso"
-msgstr "Valparaiso"
+msgstr "Valparaíso"
 
 #. A city in Chile
-#, fuzzy
-#| msgid "Val Marie"
 msgid "Viña del Mar"
-msgstr "Val Marie"
+msgstr "Viña del Mar"
 
 #. The capital of China
 msgctxt "City in Beijing, China"
@@ -7610,10 +7489,8 @@ msgid "Bonn"
 msgstr "Bonn"
 
 #. A city in Saxony-Anhalt in Germany
-#, fuzzy
-#| msgid "Braunschweig"
 msgid "Braunsbedra"
-msgstr "Braunschweig"
+msgstr "Braunsbedra"
 
 #. A city in Lower Saxony in Germany
 msgid "Braunschweig"
@@ -7778,26 +7655,20 @@ msgid "Liebenscheid"
 msgstr "Liebenscheid"
 
 #. A city in Rhineland-Palatinate in Germany
-#, fuzzy
-#| msgid "Maine"
 msgid "Mainz"
-msgstr "Maine"
+msgstr "Mainz"
 
 #. A city in Hesse in Germany
-#, fuzzy
-#| msgid "Martinsburg"
 msgid "Marburg"
-msgstr "Martinsburg"
+msgstr "Marburg"
 
 #. A city in Bavaria in Germany
 msgid "Memmingen"
 msgstr "Memmingen"
 
 #. A city in Saxony-Anhalt in Germany
-#, fuzzy
-#| msgid "Dyersburg"
 msgid "Merseburg"
-msgstr "Dyersburg"
+msgstr "Merseburg"
 
 #. A city in Baden-Württemberg in Germany
 msgid "Meßstetten"
@@ -7815,10 +7686,8 @@ msgid "Mönchengladbach"
 msgstr "Mönchengladbach"
 
 #. A city in Saxony-Anhalt in Germany
-#, fuzzy
-#| msgid "Büchel"
 msgid "Mücheln"
-msgstr "Büchel"
+msgstr "Mücheln"
 
 #. A city in North Rhine-Westphalia in Germany
 msgid "Münster"
@@ -7826,7 +7695,7 @@ msgstr "Münster"
 
 #. A city in Saxony-Anhalt in Germany
 msgid "Naumburg (Saale)"
-msgstr ""
+msgstr "Naumburg (Saale)"
 
 #. A city in Bavaria in Germany.
 #. One of several cities in Germany called "Neuburg".
@@ -8082,10 +7951,8 @@ msgid "Thessaloníki"
 msgstr "Thessaloníki"
 
 #. A city in Greece
-#, fuzzy
-#| msgid "Tikal"
 msgid "Trikala"
-msgstr "Tikal"
+msgstr "Trikala"
 
 #. A city in Greece
 msgid "Zákynthos"
@@ -8520,10 +8387,8 @@ msgstr "Srinagar"
 #. the local name in Gujrati is "સુરત"
 #. the local name in Hindi is "सूरत"
 #.
-#, fuzzy
-#| msgid "Surat Thani"
 msgid "Surat"
-msgstr "Surat Thani"
+msgstr "Surat"
 
 #. A city in India.
 #. The local name in Malayalam is "തിരുവനന്തപുരം".
@@ -8562,268 +8427,215 @@ msgstr ""
 
 #. A city in Indonesia
 msgid "Amuntai"
-msgstr ""
+msgstr "Amuntai"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Barajas"
 msgid "Balaraja"
-msgstr "Barajas"
+msgstr "Balaraja"
 
 #. A city in Indonesia
 msgid "Balikpapan"
-msgstr ""
+msgstr "Balikpapan"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Bandar-e Lengeh"
 msgid "Banda Aceh"
-msgstr "Bandar-e Lengeh"
+msgstr "Banda Aceh"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Bandar-e Lengeh"
 msgid "Bandar Lampung"
-msgstr "Bandar-e Lengeh"
+msgstr "Bandar Lampung"
 
 #. A city in Indonesia
 msgid "Bandung"
-msgstr ""
+msgstr "Bandung"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Banjul"
 msgid "Banjar"
-msgstr "Banjul"
+msgstr "Banjar"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Banja Luka"
 msgid "Banjar Baru"
-msgstr "Banja Luka"
+msgstr "Banjar Baru"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Toamasina"
 msgid "Banjarmasin"
-msgstr "Toamasina"
+msgstr "Banjarmasin"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Banja Luka"
 msgid "Banjarsari"
-msgstr "Banja Luka"
+msgstr "Banjarsari"
 
 #. A city in Indonesia
 msgid "Batam"
-msgstr ""
+msgstr "Batam"
 
 #. A city in Indonesia
 msgid "Batu"
-msgstr ""
+msgstr "Batu"
 
 #. A city in Indonesia
 msgid "Bekasi"
-msgstr ""
+msgstr "Bekasi"
 
 #. A city in Indonesia
 msgid "Binjai"
-msgstr ""
+msgstr "Binjai"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Bogotá"
 msgid "Bogor"
-msgstr "Bogotá"
+msgstr "Bogor"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Montana"
 msgid "Bontang"
-msgstr "Montana"
+msgstr "Bontang"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Banjul"
 msgid "Cianjur"
-msgstr "Banjul"
+msgstr "Cianjur"
 
 #. A city in Indonesia
 msgid "Cibinong"
-msgstr ""
+msgstr "Cibinong"
 
 #. A city in Indonesia
 msgid "Cibodas"
-msgstr ""
+msgstr "Cibodas"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgctxt "City in Alabama, United States"
-#| msgid "Auburn"
 msgid "Cibubur"
-msgstr "Auburn"
+msgstr "Cibubur"
 
 #. A city in Indonesia
 msgid "Cileunyi"
-msgstr ""
+msgstr "Cileunyi"
 
 #. A city in Indonesia
 msgid "Cirebon"
-msgstr ""
+msgstr "Cirebon"
 
 #. A city in Indonesia
 msgid "Denpasar"
-msgstr ""
+msgstr "Denpasar"
 
 #. A city in Indonesia
 msgid "Depok"
-msgstr ""
+msgstr "Depok"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Dumas"
 msgid "Dumai"
-msgstr "Dumas"
+msgstr "Dumai"
 
 #. A city in Indonesia
 msgid "Garut"
-msgstr ""
+msgstr "Garut"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Toronto"
 msgid "Gorontalo"
-msgstr "Toronto"
+msgstr "Gorontalo"
 
 #. A city in Indonesia
 msgid "Indramayu"
-msgstr ""
+msgstr "Indramayu"
 
 #. The capital of Indonesia
 msgid "Jakarta"
 msgstr "Jakarta"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Gambia"
 msgid "Jambi"
-msgstr "Gambia"
+msgstr "Jambi"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Nuremberg"
 msgid "Jember"
-msgstr "Nürnberg"
+msgstr "Jember"
 
 #. A city in Indonesia
 msgid "Jepara"
-msgstr ""
+msgstr "Jepara"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Palembang"
 msgid "Jombang"
-msgstr "Palembang"
+msgstr "Jombang"
 
 #. A city in Indonesia
 msgid "Kanigoro"
-msgstr ""
+msgstr "Kanigoro"
 
 #. A city in Indonesia
 msgid "Kediri"
-msgstr ""
+msgstr "Kediri"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Sendai"
 msgid "Kendari"
-msgstr "Sendai"
+msgstr "Kendari"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Sepang"
 msgid "Kupang"
-msgstr "Sepang"
+msgstr "Kupang"
 
 #. A city in Indonesia
 msgid "Lawang"
-msgstr ""
+msgstr "Lawang"
 
 #. A city in Indonesia
 msgid "Makassar"
 msgstr "Makassar"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Palanga"
 msgid "Malang"
-msgstr "Palanga"
+msgstr "Malang"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Janado"
 msgid "Manado"
-msgstr "Janado"
+msgstr "Manado"
 
 #. A city in Indonesia
 msgid "Manokwari"
-msgstr ""
+msgstr "Manokwari"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Martinsburg"
 msgid "Martapura"
-msgstr "Martinsburg"
+msgstr "Martapura"
 
 #. A city in Indonesia
 msgid "Maumere"
-msgstr ""
+msgstr "Maumere"
 
 #. A city in Indonesia
 msgid "Medan"
 msgstr "Medan"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Guadalajara"
 msgid "Padalarang"
-msgstr "Guadalajara"
+msgstr "Padalarang"
 
 #. A city in Indonesia
 msgid "Palembang"
 msgstr "Palembang"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Palo Alto"
 msgid "Palopo"
-msgstr "Palo Alto"
+msgstr "Palopo"
 
 #. A city in Indonesia
 msgid "Pamekasan"
-msgstr ""
+msgstr "Pamekasan"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Palanga"
 msgid "Pamulang"
-msgstr "Palanga"
+msgstr "Pamulang"
 
 #. A city in Indonesia
 msgid "Pangkal Pinang"
-msgstr ""
+msgstr "Pangkal Pinang"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Dalaman"
 msgid "Pariaman"
-msgstr "Dalaman"
+msgstr "Pariaman"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Heilongjiang"
 msgid "Pekalongan"
-msgstr "Heilongjiang"
+msgstr "Pakalongan"
 
 #. A city in Indonesia
 msgid "Pekanbaru"
@@ -8831,129 +8643,99 @@ msgstr "Pekanbaru"
 
 #. A city in Indonesia
 msgid "Pematang Siantar"
-msgstr ""
+msgstr "Pematang Siantar"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Morogoro"
 msgid "Ponorogo"
-msgstr "Morogoro"
+msgstr "Ponorogo"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgctxt "City in Illinois, United States"
-#| msgid "Pontiac"
 msgid "Pontianak"
-msgstr "Pontiac"
+msgstr "Pontianak"
 
 #. A city in Indonesia
 msgid "Praya"
-msgstr ""
+msgstr "Praya"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Petrolina"
 msgid "Probolinggo"
-msgstr "Petrolina"
+msgstr "Probolinggo"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Jakarta"
 msgid "Purwakarta"
-msgstr "Jakarta"
+msgstr "Purwakrata"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Quakertown"
 msgid "Purwokerto"
-msgstr "Quakertown"
+msgstr "Purwokerto"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgctxt "City in California, United States"
-#| msgid "Lancaster"
 msgid "Rancasari"
-msgstr "Lancaster"
+msgstr "Rancasari"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Samara"
 msgid "Samarinda"
-msgstr "Samara"
+msgstr "Samarinda"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Tampico"
 msgid "Sampit"
-msgstr "Tampico"
+msgstr "Sampit"
 
 #. A city in Indonesia
 msgid "Selong"
-msgstr ""
+msgstr "Selong"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Samara"
 msgid "Semarang"
-msgstr "Samara"
+msgstr "Semarang"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Trang"
 msgid "Serang"
-msgstr "Trang"
+msgstr "Serang"
 
 #. A city in Indonesia
 msgid "Sibolga"
-msgstr ""
+msgstr "Sibolga"
 
 #. A city in Indonesia
 msgid "Soreang"
-msgstr ""
+msgstr "Soreang"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Rabat"
 msgid "Stabat"
-msgstr "Rabat"
+msgstr "Stabat"
 
 #. A city in Indonesia
 msgid "Subang"
-msgstr ""
+msgstr "Subang"
 
 #. A city in Indonesia
 msgid "Sukabumi"
-msgstr ""
+msgstr "Sukabumi"
 
 #. A city in Indonesia
 msgid "Surabaya"
-msgstr ""
+msgstr "Surabaya"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Tangier"
 msgid "Tangerang"
-msgstr "Tangier"
+msgstr "Tangerang"
 
 #. A city in Indonesia
 msgid "Tasikmalaya"
-msgstr ""
+msgstr "Tasikmalaya"
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Senegal"
 msgid "Tegal"
-msgstr "Senegal"
+msgstr "Tegal"
 
 #. A city in Indonesia
 msgid "Trenggalek"
 msgstr ""
 
 #. A city in Indonesia
-#, fuzzy
-#| msgid "Jakarta"
 msgid "Yogyakarta"
-msgstr "Jakarta"
+msgstr "Yogiakarta"
 
 #. A city in Iran.
 #. The name is also written "آبادان".
@@ -9451,16 +9233,12 @@ msgid "Cagliari"
 msgstr "Cagliari"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Catania"
 msgid "Caltanissetta"
-msgstr "Catania"
+msgstr "Caltanissetta"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Campos"
 msgid "Campobasso"
-msgstr "Campos"
+msgstr "Campobasso"
 
 #. A city in Italy
 msgid "Capri"
@@ -9768,7 +9546,7 @@ msgstr "Prato"
 
 #. A city in Italy
 msgid "Ragusa"
-msgstr ""
+msgstr "Ragusa"
 
 #. A city in Italy
 msgctxt "City in Italy"
@@ -9776,10 +9554,8 @@ msgid "Ravenna"
 msgstr "Ravenna"
 
 #. A city in Italy
-#, fuzzy
-#| msgid "Reggio di Calabria"
 msgid "Reggio Emilia"
-msgstr "Reggio di Calabria"
+msgstr "Reggio Emilia"
 
 #. A city in Italy
 msgid "Reggio di Calabria"
@@ -9932,11 +9708,8 @@ msgid "Verona"
 msgstr "Verona"
 
 #. A city in Italy
-#, fuzzy
-#| msgctxt "City in Spain"
-#| msgid "Valencia"
 msgid "Vibo Valentia"
-msgstr "Valencia"
+msgstr "Vibo Valentia"
 
 #. A city in Italy
 msgid "Vicenza"
@@ -10332,10 +10105,8 @@ msgid "Utsunomiya"
 msgstr ""
 
 #. A city in Japan, capital of Wakayama Prefecture
-#, fuzzy
-#| msgid "Okayama"
 msgid "Wakayama"
-msgstr "Okayama"
+msgstr "Wakayama"
 
 #. A city in Japan
 msgid "Wakkanai"
@@ -11153,19 +10924,15 @@ msgstr "Delft"
 #. A city in the Netherlands.
 #. Officially 's-Hertogenbosch, but Den Bosch is more common
 msgid "Den Bosch"
-msgstr ""
+msgstr "Den Bosch"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Dodge Center"
 msgid "Deventer"
-msgstr "Dodge Center"
+msgstr "Deventer"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Woensdrecht"
 msgid "Dordrecht"
-msgstr "Woensdrecht"
+msgstr "Dordrecht"
 
 #. A city in the Netherlands
 msgid "Ede"
@@ -11180,14 +10947,12 @@ msgid "Emmen"
 msgstr "Emmen"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Liebenscheid"
 msgid "Enschede"
-msgstr "Liebenscheid"
+msgstr "Enschede"
 
 #. A city in the Netherlands
 msgid "Gouda"
-msgstr ""
+msgstr "Gouda"
 
 #. A city in the Netherlands
 msgid "Groningen"
@@ -11268,9 +11033,8 @@ msgid "The Hague"
 msgstr "The Hague"
 
 #. A city in the Netherlands
-#, fuzzy
 msgid "Tilburg"
-msgstr "Limburg"
+msgstr "Tilburg"
 
 #. A city in the Netherlands
 msgid "Utrecht"
@@ -11278,23 +11042,19 @@ msgstr "Utrecht"
 
 #. A city in the Netherlands
 msgid "Venlo"
-msgstr ""
+msgstr "Venlo"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Sanandaj"
 msgid "Zaandam"
-msgstr "Sanandaj"
+msgstr "Zaandam"
 
 #. A city in the Netherlands
 msgid "Zoetermeer"
-msgstr ""
+msgstr "Zoetermeer"
 
 #. A city in the Netherlands
-#, fuzzy
-#| msgid "Bolle"
 msgid "Zwolle"
-msgstr "Bolle"
+msgstr "Zwolle"
 
 #. A city in the Netherlands Antilles
 msgid "Benners"
@@ -12016,15 +11776,10 @@ msgid "Doha"
 msgstr "Qatar"
 
 #. A county capital in Romania
-#, fuzzy
-#| msgid "Albania"
 msgid "Alba Iulia"
-msgstr "Albania"
+msgstr "Alba Iulia"
 
 #. A county capital in Romania
-#, fuzzy
-#| msgctxt "City in Egypt"
-#| msgid "Alexandria"
 msgid "Alexandria"
 msgstr "Alexandria"
 
@@ -12041,10 +11796,8 @@ msgid "Baia Mare"
 msgstr "Bahia Mare"
 
 #. A county capital in Romania
-#, fuzzy
-#| msgid "Austria"
 msgid "Bistrița"
-msgstr "Østerrike"
+msgstr ""
 
 #. A county capital in Romania
 msgid "Botoșani"
@@ -12144,25 +11897,20 @@ msgid "Satu Mare"
 msgstr "Satu Mare"
 
 #. A county capital in Romania
-#, fuzzy
-#| msgctxt "City in Bermuda"
-#| msgid "Saint George"
 msgid "Sfântu Gheorghe"
-msgstr "Saint George"
+msgstr "Sfântu Gheorghe"
 
 #. A county capital in Romania
 msgid "Sibiu"
 msgstr "Sibiu"
 
 #. A county capital in Romania
-#, fuzzy
-#| msgid "Latina"
 msgid "Slatina"
-msgstr "Latina"
+msgstr "Slatina"
 
 #. A county capital in Romania
 msgid "Slobozia"
-msgstr ""
+msgstr "Slobozia"
 
 #. A county capital in Romania
 msgid "Suceava"
@@ -12447,10 +12195,8 @@ msgstr "Rostov"
 #. A city in Russia.
 #. The local name in Russian is "Рязань".
 #.
-#, fuzzy
-#| msgid "Kazan'"
 msgid "Ryazan'"
-msgstr "Kazan'"
+msgstr "Ryazan'"
 
 #. A city in Russia
 msgid "Rybinsk"
@@ -12909,48 +12655,38 @@ msgstr "Vereeniging"
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "부산".
 #.
-#, fuzzy
-#| msgid "Pusan"
 msgid "Busan"
-msgstr "Pusan"
+msgstr "Busan"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "청주".
 #.
-#, fuzzy
-#| msgid "Ch'ongju"
 msgid "Cheongju"
-msgstr "Ch'ongju"
+msgstr "Cheongju"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "대구".
 #.
-#, fuzzy
-#| msgid "Taegu"
 msgid "Daegu"
-msgstr "Taegu"
+msgstr "Daegu"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "군산".
 #.
-#, fuzzy
-#| msgid "Kunsan"
 msgid "Gunsan"
-msgstr "Kunsan"
+msgstr "Gunsan"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "인천".
 #.
-#, fuzzy
-#| msgid "Inch'on"
 msgid "Incheon"
-msgstr "Inch'on"
+msgstr "Incheon"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "제주".
 #.
 msgid "Jeju"
-msgstr ""
+msgstr "Jeju"
 
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "오산".
@@ -12961,10 +12697,8 @@ msgstr "Osan"
 #. A city in South Korea.
 #. The name written in Hangul (Korean) is "평택".
 #.
-#, fuzzy
-#| msgid "P'yongt'aek"
 msgid "Pyeongtaek"
-msgstr "P'yongt'aek"
+msgstr "Pyeongtaek"
 
 #. The capital of South Korea.
 #. The name written in Hangul (Korean) is "서울".
@@ -12976,7 +12710,7 @@ msgstr "Seoul"
 #. The name written in Hangul (Korean) is "울산".
 #.
 msgid "Ulsan"
-msgstr ""
+msgstr "Ulsan"
 
 #. A city in Spain
 msgid "A Coruña"
@@ -12988,7 +12722,7 @@ msgstr "Agoncillo"
 
 #. A city in Spain
 msgid "Albacete"
-msgstr ""
+msgstr "Albacete"
 
 #. A city in Spain
 msgid "Alcantarilla"
@@ -13036,10 +12770,8 @@ msgid "Bilbao"
 msgstr "Bilbao"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Burgas"
 msgid "Burgos"
-msgstr "Burgas"
+msgstr "Burgos"
 
 #. A city in Spain
 msgid "Caravaca de la Cruz"
@@ -13050,10 +12782,8 @@ msgid "Castellón de la Plana"
 msgstr ""
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Ciudad Choluteca"
 msgid "Ciudad Real"
-msgstr "Ciudad Choluteca"
+msgstr "Ciudad Real"
 
 #. A city in Spain
 msgid "Colmenar Viejo"
@@ -13069,7 +12799,7 @@ msgstr "Cuatro Vientos"
 
 #. A city in Spain
 msgid "Cuenca"
-msgstr ""
+msgstr "Cuenca"
 
 #. A city in Spain
 msgid "Cáceres"
@@ -13117,8 +12847,6 @@ msgid "Granada"
 msgstr "Granada"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Guadalajara"
 msgctxt "City in Spain"
 msgid "Guadalajara"
 msgstr "Guadalajara"
@@ -13129,13 +12857,11 @@ msgstr "Güime"
 
 #. A city in Spain
 msgid "Huelva"
-msgstr ""
+msgstr "Huelva"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Pescara"
 msgid "Huesca"
-msgstr "Pescara"
+msgstr "Huesca"
 
 #. A city in Spain
 msgid "Ibiza"
@@ -13143,17 +12869,15 @@ msgstr "Ibiza"
 
 #. A city in Spain
 msgid "Jaén"
-msgstr ""
+msgstr "Jaén"
 
 #. A city in Spain
 msgid "Jerez"
 msgstr "Jerez"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Palma"
 msgid "Las Palmas"
-msgstr "Palma"
+msgstr "Las Palmas"
 
 #. A city in Spain
 msgid "Leganés"
@@ -13217,38 +12941,29 @@ msgid "Noáin"
 msgstr "Noáin"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Odense"
 msgid "Ourense"
-msgstr "Odense"
+msgstr "Ourense"
 
 #. A city in Spain
 msgctxt "City in Spain"
 msgid "Oviedo"
-msgstr ""
+msgstr "Oviedo"
 
 #. A city in Spain
-#, fuzzy
-#| msgctxt "City in Spain"
-#| msgid "Valencia"
 msgid "Palencia"
-msgstr "Valencia"
+msgstr "Palencia"
 
 #. A city in Spain
 msgid "Palma"
 msgstr "Palma"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Pampa"
 msgid "Pamplona"
-msgstr "Pampa"
+msgstr "Pamplona"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Monteria"
 msgid "Pontevedra"
-msgstr "Monteria"
+msgstr "Pontevedra"
 
 #. A city in Spain
 msgid "Reus"
@@ -13263,8 +12978,6 @@ msgid "Sabadell"
 msgstr "Sabadell"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Salamanca"
 msgctxt "City in Spain"
 msgid "Salamanca"
 msgstr "Salamanca"
@@ -13300,24 +13013,17 @@ msgid "Santiago"
 msgstr "Santiago"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Seldovia"
 msgid "Segovia"
-msgstr "Seldovia"
+msgstr "Segovia"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Senneville"
 msgctxt "City in Spain"
 msgid "Seville"
-msgstr "Senneville"
+msgstr "Seville"
 
 #. A city in Spain
-#, fuzzy
-#| msgctxt "City in Arizona, United States"
-#| msgid "Peoria"
 msgid "Soria"
-msgstr "Peoria"
+msgstr "Soria"
 
 #. A city in Spain
 msgid "Talavera la Real"
@@ -13328,20 +13034,16 @@ msgid "Tamaduste"
 msgstr "Tamaduste"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Paragon"
 msgctxt "City in Spain"
 msgid "Tarragona"
-msgstr "Paragon"
+msgstr "Tarragona"
 
 #. A city in Spain
 msgctxt "City in Spain"
 msgid "Teruel"
-msgstr ""
+msgstr "Teruel"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Toledo"
 msgctxt "City in Spain"
 msgid "Toledo"
 msgstr "Toledo"
@@ -13374,11 +13076,9 @@ msgstr "Vitoria-Gasteiz"
 
 #. A city in Spain
 msgid "Zamora"
-msgstr ""
+msgstr "Zamora"
 
 #. A city in Spain
-#, fuzzy
-#| msgid "Zaragoza"
 msgctxt "City in Spain"
 msgid "Zaragoza"
 msgstr "Zaragoza"
@@ -13527,10 +13227,8 @@ msgid "Umeå"
 msgstr "Umeå"
 
 #. A city in Sweden
-#, fuzzy
-#| msgid "Upsala"
 msgid "Uppsala"
-msgstr "Upsala"
+msgstr "Uppsala"
 
 #. A city in Sweden
 msgid "Visby"
@@ -13557,10 +13255,8 @@ msgid "Örnsköldsvik"
 msgstr "Örnskoldsvik"
 
 #. A city in Sweden
-#, fuzzy
-#| msgid "Ålesund"
 msgid "Östersund"
-msgstr "Ålesund"
+msgstr "Östersund"
 
 #. A city in Switzerland
 msgid "Basel"
@@ -13885,10 +13581,8 @@ msgid "Ankara"
 msgstr "Ankara"
 
 #. A city in Turkey
-#, fuzzy
-#| msgid "Antalya"
 msgid "Antakya"
-msgstr "Antalya"
+msgstr "Antakya"
 
 #. A city in Turkey
 msgid "Antalya"
@@ -14018,10 +13712,8 @@ msgid "Kampala"
 msgstr "Kampala"
 
 #. A city in Ukraine: https://en.wikipedia.org/wiki/Berdiansk
-#, fuzzy
-#| msgid "Bryansk"
 msgid "Berdiansk"
-msgstr "Bryansk"
+msgstr "Berdiansk"
 
 msgid "Berdychiv"
 msgstr ""
@@ -14030,25 +13722,19 @@ msgid "Boryspil'"
 msgstr "Boryspil'"
 
 #. Cherkasy Oblast administrative center: https://en.wikipedia.org/wiki/Cherkasy
-#, fuzzy
-#| msgid "Cherokee"
 msgid "Cherkasy"
-msgstr "Cherokee"
+msgstr "Cherkasy"
 
 #. Chernihiv Oblast administrative center: https://en.wikipedia.org/wiki/Chernihiv
-#, fuzzy
-#| msgid "Chernivtsi"
 msgid "Chernihiv"
-msgstr "Chernivtsi"
+msgstr "Chernihiv"
 
 #. Chernivtsi Oblast administrative center: https://en.wikipedia.org/wiki/Chernivtsi
 msgid "Chernivtsi"
 msgstr "Chernivtsi"
 
-#, fuzzy
-#| msgid "Comoros"
 msgid "Chornomorsk"
-msgstr "Komorene"
+msgstr "Chornomorsk"
 
 msgid "Chortkiv"
 msgstr ""
@@ -14091,29 +13777,25 @@ msgid "Kamianets-Podilskyi"
 msgstr ""
 
 msgid "Kerch"
-msgstr ""
+msgstr "Kerch"
 
 #. Kharkiv Oblast administrative center
 msgid "Kharkiv"
 msgstr "Kharkiv"
 
 #. Kherson Oblast administrative center
-#, fuzzy
-#| msgid "Paterson"
 msgid "Kherson"
-msgstr "Paterson"
+msgstr "Kherson"
 
 #. Khmelnytskyi Oblast administrative center
 msgid "Khmel'nitskiy"
 msgstr ""
 
 msgid "Konotop"
-msgstr ""
+msgstr "Konotop"
 
-#, fuzzy
-#| msgid "Lovelock"
 msgid "Kovel"
-msgstr "Lovelock"
+msgstr "Kovel"
 
 #, fuzzy
 #| msgctxt "State in Germany"
@@ -14146,10 +13828,8 @@ msgid "L'viv"
 msgstr "L'viv"
 
 #. Luhans'k Oblast administrative center
-#, fuzzy
-#| msgid "Wuhan"
 msgid "Luhans'k"
-msgstr "Wuhan"
+msgstr "Luhansk"
 
 #. Volyn Oblast administrative center
 msgid "Luts'k"
@@ -14158,11 +13838,8 @@ msgstr ""
 msgid "Lysychansk"
 msgstr ""
 
-#, fuzzy
-#| msgctxt "City in Illinois, United States"
-#| msgid "Marion"
 msgid "Mariupol"
-msgstr "Marion"
+msgstr "Mariupol"
 
 #. A city in Ukraine: https://en.wikipedia.org/wiki/Melitopol
 #, fuzzy
@@ -14627,11 +14304,9 @@ msgid "Norwich"
 msgstr "Norwich"
 
 #. A city in the East Midlands in the United Kingdom
-#, fuzzy
-#| msgid "Effingham"
 msgctxt "City in the East Midlands, United Kingdom"
 msgid "Nottingham"
-msgstr "Effingham"
+msgstr "Nottingham"
 
 #. A city in East and South East England in the United
 #. Kingdom
@@ -17317,11 +16992,9 @@ msgstr "Haines"
 msgid "Haleyville"
 msgstr "Haleyville"
 
-#, fuzzy
-#| msgid "Heron Bay"
 msgctxt "City in California, United States"
 msgid "Half Moon Bay"
-msgstr "Heron Bay"
+msgstr "Half Moon Bay"
 
 #. A city in Minnesota in the United States
 msgid "Hallock"
@@ -20801,8 +20474,6 @@ msgid "Sylvania"
 msgstr "Sylvania"
 
 #. A city in New York in the United States
-#, fuzzy
-#| msgid "Syracuse"
 msgctxt "City in New York, United States"
 msgid "Syracuse"
 msgstr "Syracuse"
@@ -20924,8 +20595,6 @@ msgid "Togiak"
 msgstr "Togiak"
 
 #. A city in Ohio in the United States
-#, fuzzy
-#| msgid "Toledo"
 msgctxt "City in Ohio, United States"
 msgid "Toledo"
 msgstr "Toledo"
